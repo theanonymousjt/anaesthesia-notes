@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Anaesthesia Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +17,17 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "GAP_ANALYSIS",
+      "LEARNINGS",
+      "Ramblings on the Ultimate Anaesthesia Technique",
+      "INSTRUCTIONS_*.md",
+      "PROMPT_*.md",
+      "mmed_anaes_*.md",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

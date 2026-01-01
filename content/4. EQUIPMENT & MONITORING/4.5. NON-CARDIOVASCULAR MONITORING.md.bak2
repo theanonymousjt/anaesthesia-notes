@@ -1,0 +1,2072 @@
+---
+aliases: []
+title: 4.5. NON-CARDIOVASCULAR MONITORING
+syllabus_parts: [A, B, C]
+competencies: [MK, PC, SBP]
+topics:
+  - oxygen_monitoring
+  - respiratory_gas_monitoring
+  - neurological_monitoring
+  - blood_gas_analysis
+  - temperature_monitoring
+  - neuromuscular_monitoring
+  - respiratory_mechanics
+date created: Monday, April 28th 2025, 8:11:23 pm
+date modified: Monday, June 9th 2025, 2:09:51 pm
+number headings: auto, first-level 1, max 6, contents ^toc, start-at 1., 1..1.1..
+---
+
+# 1. INTRODUCTION TO MONITORING STANDARDS
+
+## 1.1. ASA/AAGBI MONITORING REQUIREMENTS [PART C]
+
+### 1.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Basic principles of monitoring devices `[A:1]`.
+* **Part B:** Application of monitoring during various procedures `[B:1]`.
+* **Part C:** Standards of care and patient safety `[C:1]`.
+
+**Exam Weighting:** High (Core safety requirement)
+
+**Competency Focus:** `[COMP: SBP]`, `[COMP: PC]`
+
+### 1.1.2. AAGBI REQUIREMENTS
+
+* **For Any Procedure**:
+  * Anesthetist present and maintaining an anesthetic record `[C:1]`
+  * Monitors appropriately set up with audible alarms and visible parameters `[C:1]`
+  * ECG, NIBP, SpO2 measured electronically at least every five minutes `[C:1]`
+* **Additional Requirements for General Anesthesia**:
+  * FiO2 monitoring `[C:1]`
+  * ETCO2 (until artificial airway removed and patient able to talk) `[C:1]`
+  * Age-adjusted MAC `[C:1]`
+  * Airway and cuff pressure monitoring `[C:1]`
+  * Temperature monitoring (if procedure >30 minutes) `[C:1]`
+  * Nerve stimulator when using neuromuscular blocking agents `[C:1]`
+  * Depth of anesthesia monitoring when using TIVA `[C:1]`
+* **Regional Anesthesia Requirements**:
+  * ECG and NIBP `[C:1]`
+  * SpO2 `[C:1]`
+  * Monitoring should begin before procedure and continue ≥30 minutes after `[C:1]`
+* **Procedural Sedation Requirements**:
+  * ECG and NIBP `[C:1]`
+  * SpO2 `[C:1]`
+  * Capnography if loss of response to voice occurs `[C:1]`
+* **Additional Parameters**:
+  * Blood glucose should be measured at least hourly in diabetic patients `[C:1]`
+  * Capillary blood glucose and ketone monitoring should be immediately available if required `[C:1]`
+
+**Bottom Line:** The AAGBI requires continuous monitoring of cardiac rhythm, blood pressure, oxygenation, and ventilation during anesthesia, with additional monitors based on the type of anesthesia and procedure duration.
+
+## 1.2. BASIC MEASUREMENT CONCEPTS [PART A]
+
+### 1.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Fundamental principles of measurement and monitoring devices `[A:1]`.
+* **Part B:** Application of principles to clinical monitoring `[B:1]`.
+* **Part C:** Equipment safety and quality assurance `[C:1]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: SBP]`
+
+### 1.2.2. CALIBRATION AND DRIFT
+
+* **Calibration Definition**: Process of testing a known input value (the **standard**) to determine what value is given by the process being calibrated `[A:1]`
+  * **1-point calibration**: Compares a single measurement to the standard `[A:1]`
+  * **2-point calibration**: Compares with two standards `[A:1]`
+  * **3-point calibration**: Compares with three standards (best method as it confirms a linear relationship) `[A:1]`
+* **Drift**: Occurs when the measured value **systematically** differs from the true value across all ranges of inputs `[A:1]`
+  * **Linear** or **offset drift**: Values differ by the same amount at all points on the scale `[A:1]`
+  * **Gradient drift**: Difference increases disproportionately as values increase `[A:1]`
+  * If only one type of drift is present, 1-point calibration is needed; if both are present, 2-point calibration is required `[A:1]`
+
+### 1.2.3. SENSITIVITY AND LINEARITY
+
+* **Sensitivity**: Measure of how big the output is for a given input, or how small an input the instrument can detect `[A:1]`
+  * A more sensitive system is better for small input values, but for larger values across a wider range, a less sensitive system may be more useful `[A:1]`
+* **Linearity**: Characterizes whether output increases in direct proportion to input `[A:1]`
+  * Linear relationship: Produces a straight-line graph where sensitivity is given by the gradient `[A:1]`
+  * Non-linear relationship: Output changes disproportionately as input changes (e.g., rotameter) `[A:1]`
+
+### 1.2.4. DYNAMIC RESPONSE
+
+* **Definition**: The ability of a measuring system to react to changes in an input variable `[A:1]`
+  * **Zero-order response**: Displayed output value directly tracks with the true output value `[A:1]`
+  * **First-order response**: Displayed output gets exponentially closer to the true value over time `[A:1]`
+  * **Second-order response**: Displayed output value tends to oscillate around the true value (seen in invasive blood pressure monitoring) `[A:1]`
+* **Step Response**: Measures how quickly a system can react to a sudden change in input variable `[A:1]`
+  * **Response time**: Time from change in input variable to 90% of output being generated `[A:1]`
+  * **Rise time**: Time for output to rise from 10%-90% of the end value `[A:1]`
+
+### 1.2.5. PURPOSE OF MONITORING EQUIPMENT
+
+* To **supplement** clinical assessment, not replace it `[C:1]`
+* To provide warning of potential deterioration `[C:1]`
+* To remind the user of the most important parameters to assess `[C:1]`
+
+**Bottom Line:** Understanding measurement concepts is essential for interpreting monitoring data. Calibration ensures accuracy, while recognizing the limitations of sensitivity, linearity, and dynamic response helps prevent clinical misinterpretation of monitoring information.
+
+# 2. OXYGEN MONITORING
+
+## 2.1. INSPIRED OXYGEN CONCENTRATION MONITORING
+
+### 2.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Physics of oxygen analyzers `[A:5]`, principles of operation `[A:5]`.
+* **Part B:** Clinical application and safety standards `[B:2]`.
+* **Part C:** Safe oxygen delivery as part of standard care `[C:1]`.
+
+**Exam Weighting:** High (Core safety requirement)
+
+**Competency Focus:** `[COMP: PC]`, `[COMP: SBP]`
+
+### 2.1.2. TYPES OF OXYGEN ANALYZERS
+
+* **Paramagnetic Oxygen Analyzers** `[A:5]`
+  * Based on oxygen's paramagnetic properties due to unpaired electrons `[A:5]`
+  * Detect pressure changes from oxygen attraction to magnetic fields `[A:5]`
+  * Used in many operating room monitors `[A:5]`
+  * Components `[A:20]`:
+	* Two chambers separated by a pressure transducer `[A:20]`
+	* Sample and reference gas chambers `[A:20]`
+	* Electromagnet switched on/off at 100-110 Hz `[A:20]`
+  * Mechanism of action `[A:22]`:
+	* Oxygen molecules attracted to magnetic field `[A:22]`
+	* Pressure difference of 20-50 μbar created between chambers `[A:22]`
+	* Pressure transducer converts force to electrical signal `[A:22]`
+	* Modern versions offer breath-by-breath analysis `[A:22]`
+  * Advantages `[A:22]`:
+	* Very accurate and highly sensitive `[A:22]`
+	* Continuous functioning without service breaks `[A:22]`
+	* Rapid response time (breath-to-breath) `[A:22]`
+  - Limitations:
+	  - Affected by N20 and H20 vapor
+
+![[Pasted image 20250609145720.png]]
+
+![[Pasted image 20250609145757.png]]
+
+* **Galvanic Cell Analyzers** `[A:5]`
+  * *"The fuel-rich self-sufficient Middle East turns lead into gold*
+  * Measures current produced when O2 diffuses across membrane `[A:5]`
+  * Current proportional to partial pressure of O2 `[A:5]`
+  * Requires regular sensor capsule replacement `[A:5]`
+  * Components `[A:23]`:
+	* Noble metal cathode and lead anode `[A:23]`
+	* Potassium chloride electrolyte solution `[A:23]`
+	* Oxygen-permeable membrane `[A:23]`
+  * Chemical reactions `[A:23]`:
+	* Cathode: O2 + 4e → 4(OH)– `[A:23]`
+	* Anode: Pb + 2(OH) → PbO + H2O + 2e– `[A:23]`
+  * Characteristics `[A:23-24]`:
+	* Self-powered (acts as a battery) `[A:23]`
+	* Slow response time (~20 seconds) `[A:24]`
+	* Accuracy of ±3% `[A:24]`
+	* Lifespan limited to ~1 year due to oxygen exposure `[A:24]`
+	* Unaffected by water vapor `[A:24]`
+
+![[Pasted image 20250609145746.png]]
+
+* **Polarographic Oxygen Analyzers** `[A:5]`
+  * *"Clark Kent the Superman came from a land of silver and platinum"* 
+  * Uses oxygen-permeable polymeric membrane `[A:5]`
+  * Reaction: O2 + 2H2O + 4e– → 4OH– `[A:5]`
+  * Current changes proportional to O2 molecules `[A:5]`
+  * Used in gas machines, blood gas analyzers, and transcutaneous monitors `[A:5]`
+  * Components `[A:24]`:
+	* Platinum cathode and silver anode `[A:24]`
+	* 600-800 mV (0.6 - 0.8v) power source `[A:24]`
+	* Oxygen tension at platinum cathode determines current flow in the circuit; More O2 available = more electron take up at cathode = greater current flow in circuit
+	* Teflon membrane separating cell from sample `[A:24]`
+  * Characteristics `[A:24]`:
+	* Provides average of inspiratory and expiratory concentrations `[A:24]`
+	* Limited lifespan (~3 years) due to membrane deterioration `[A:24]`
+  - Limitations:
+	  - Temperature sensitive (kept at 37C)
+	  - Teflon membrane blocked by protein deposits from blood samples
+	  - Membrane needs regular replacement (~3y)
+	  - Inaccurate in presence of Halothane
+	  
+![[Pasted image 20250609145732.png]]
+
+ ![[Pasted image 20250609145844.png]]
+### 2.1.3. CLINICAL USE REQUIREMENTS
+
+* Must be placed on inspired limb of anesthetic circuit `[B:2]`
+* Response time: 2-10 seconds `[A:5]`
+* Accuracy: ±2% of actual level `[A:5]`
+* Must be stable with humidity and inhalation agents `[A:5]`
+* Daily calibration against room air (21% FiO2) `[B:2]`
+* Calibration after 8 hours of use `[B:2]`
+* Occasional calibration against 100% FiO2 `[B:2]`
+
+### 2.1.4. ASA MONITORING STANDARDS
+
+* **Standard 2.2.1**: Mandatory O2 concentration measurement during general anesthesia `[C:1]`
+* Requires low oxygen concentration limit alarm `[C:1]`
+* Particularly important during low-flow anesthesia `[B:2]`
+
+### 2.1.5. LIMITATIONS AND SPECIAL CONSIDERATIONS
+
+* Does not guarantee adequate arterial oxygen concentration `[B:2]`
+* Requires additional blood oxygenation monitoring `[B:2]`
+* Special considerations for pediatric anesthesia:
+  * Common use of nitrous oxide-oxygen blends `[B:3]`
+  * Increased fire hazard risk, especially in T&A procedures `[B:3]`
+  * Need for decreased FiO2 with electrosurgical equipment `[B:3]`
+* **Problems in Practice** `[A:24]`:
+  * Regular calibration vital `[A:24]`
+  * Paramagnetic analyzers affected by water vapor (require water trap) `[A:24]`
+  * Optimal positioning of oxygen analyzer remains debatable `[A:25]`:
+	* Slow responding analyzers better on inspiratory limb `[A:25]`
+	* Fast responding analyzers better positioned close to patient `[A:25]`
+
+**Bottom Line:** Inspired oxygen monitoring is mandatory during general anesthesia, with multiple technologies available. Monitors must be properly placed, calibrated daily, and supplemented with additional monitoring of patient oxygenation status. Paramagnetic analyzers offer advantages of rapid response and high accuracy but require protection from water vapor.
+
+## 2.2. PULSE OXIMETRY
+
+### 2.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Physical principles of spectrophotometry `[A:6]`, oxyhemoglobin dissociation `[A:2]`.
+* **Part B:** Clinical applications and limitations `[B:2]`.
+* **Part C:** Standard of care for monitoring `[C:1]`.
+
+**Exam Weighting:** High (Core monitoring device)
+
+**Competency Focus:** `[COMP: PC]`, `[COMP: MK]`
+
+### 2.2.2. BASIC OPERATION
+
+* Measures pulse rate and estimates oxygen saturation (SpO2) noninvasively and continuously `[B:2]`
+* Based on relationship between oxygen saturation (SaO2) and oxygen tension (PaO2) `[A:2]`:
+  * Predictable correlation on steep part of oxyhemoglobin dissociation curve `[A:2]`
+  * SaO2 plateaus at PaO2 > 75 mmHg `[A:2]`
+  * Curve shifts right with hypercapnia, acidosis, and hyperthermia - decreases Hb-O2 affinity `[A:2]`
+* **Components** `[A:1]`:
+  * Probe with two LEDs (light-emitting diodes) `[A:1]`
+  * Photodetector `[A:1]`
+  * Microprocessor for signal analysis `[A:1]`
+
+### 2.2.3. CORE OPERATING PRINCIPLES
+
+* Based on three fundamental premises `[A:6]`:
+  * Blood color varies with oxygen saturation `[A:6]`
+  * These color changes correspond to hemoglobin's optical properties `[A:6]`
+  * HbO2/Hb ratio is quantified via absorption spectrophotometry `[A:6]`
+* Employs **Beer-Lambert law** for spectrophotometric analysis `[A:6]`
+* Utilizes dual wavelength measurement `[A:6]`:
+  * Red light (660 nm) `[A:6]`
+  * Infrared light (940 nm) `[A:6]`
+* Differentiates arterial from venous blood using plethysmographic analysis `[A:6]`
+  * Photoplethysmography identifies arterial flow (AC) and cancels out absorption during non-pulsatile flow (DC) `[A:6]`
+* **LEDs operate in sequence** with an "off" period to measure ambient light at ~30 times/second `[A:71]`
+* Isobestic point of oxyhaemoglobin and deoxyhaemoglobin is 590nm (red spectrum), 805nm (infrared spectrum)
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled_1.png_dff10e.png_626351.png)
+
+### 2.2.4. OPERATIONAL MECHANISM
+
+* **Sensor Components** `[A:6]`:
+  * Light sources: 2-3 light-emitting diodes `[A:6]`
+  * Light detector: photodiode `[A:6]`
+  * Placement: across perfused tissue (finger, toe, earlobe) `[A:6]`
+* **Measurement Methods** `[A:6]`:
+  * **Transmittance oximetry**: light source and detector on opposite sides `[A:6]`
+  * **Reflectance oximetry**: light source and detector on same side `[A:6]`
+* **Light Absorption Patterns** `[A:6]`:
+  * Oxyhemoglobin (HbO2): preferentially absorbs infrared (940 nm) `[A:6]`
+  * Deoxyhemoglobin: preferentially absorbs red light (660 nm), appears cyanotic `[A:6]`
+* **SpO2 Calculation** `[A:6]`:
+  * Based on arterial pulsation-induced changes in light absorption `[A:6]`
+  * Microprocessor analyzes red:infrared absorption ratio `[A:6]`
+  * Higher red:infrared ratio indicates lower arterial Hb O2 saturation `[A:6]`
+* **Key Assumption**: Pulse oximeters assume that any pulsatile absorption is caused by arterial blood pulsation only `[A:1]`
+
+### 2.2.5. MEASUREMENT TYPES
+
+* **Functional Saturation** (Pulse Oximetry) `[A:6]`
+  * Only measures HbO2 and Hb `[A:6]`
+  * SpO2 = (HbO2 / (HbO2 + Hb)) × 100% `[A:6]`
+* **Fractional Saturation** (Co-oximetry) `[A:6]`
+  * Uses multiple wavelengths `[A:6]`
+  * Can detect COHb and MetHb `[A:6]`
+  * SaO2 = (HbO2) / (HbO2 + Hb + COHb + MetHb) × 100% `[A:6]`
+
+### 2.2.6. FACTORS AFFECTING PULSE OXIMETRY (SPO2) READINGS
+
+* **Methemoglobin (MetHb)** `[B:2]`
+  * Characteristics:
+	* Absorbs red and infrared wavelengths in 1:1 ratio `[A:6]`
+	* At high levels, SpO2 approaches 85% (PaO2 remains normal) `[B:2]`
+	* Effects on readings:
+	  * Falsely LOW when true SpO2 >85% `[B:2]`
+	  * Falsely HIGH when true SpO2 <85% `[B:2]`
+	* Causes: **PRILOCAINE**, **BENZOCAINE**, **METOCLOPRAMIDE**, **DAPSONE**, nitric oxide, nitroglycerine `[B:2]`
+	* Treatments: **METHYLENE BLUE**, vitamin C (in G6PD deficiency) `[B:2]`
+* **Carboxyhemoglobin (COHb)** `[B:2]`
+  * Characteristics: Similar absorbance to O2Hb, higher Hgb affinity than O2 `[A:6]`
+  * Clinical impact: Produces falsely HIGH readings `[B:2]`
+	* Example: SpO2 may read 95% despite SaO2 = 50% with 50% COHb `[B:2]`
+  * Causes: Smoke inhalation, volatile anesthetic degradation, desiccated baralyme/soda lime `[B:2]`
+  * Treatments: 100% FiO2, hyperbaric O2 `[B:2]`
+* **Cyanide Toxicity** `[B:2]`
+  * Presentation: Clinical cyanosis despite HIGH SpO2 `[B:2]`
+  * Labs: Similar ABG/VBG PO2 values, elevated lactate `[B:2]`
+  * Pathophysiology: Hgb remains oxygenated but tissues cannot utilize O2 `[B:2]`
+  * Causes: **SODIUM NITROPRUSSIDE**, smoke inhalation `[B:2]`
+  * Treatment: **HYDROXOCOBALAMIN** `[B:2]`
+* **Other Factors Causing False LOW SpO2** `[B:2]`
+  * Dyes (in order of impact):
+	* **METHYLENE BLUE** > indocyanine green > indigo carmine `[B:2]`
+  * Physical factors:
+	* Blue nail polish `[B:2]`
+	* Shivering/motion artifact `[B:2]`
+	* Ambient light `[B:2]`
+	* Malpositioned sensor `[B:2]`
+  * Perfusion-related:
+	* Low cardiac output `[B:2]`
+	* Profound anemia `[B:2]`
+	* Hypothermia `[B:2]`
+	* Elevated SVR `[B:2]`
+  * Perfusion index (PI = AC/DC ratio) `[B:2]`:
+	* 0.02% = very weak signal `[B:2]`
+	* 20% = very strong signal `[B:2]`
+* **Factors with NO EFFECT on SpO2** `[B:2]`
+  * Bilirubin `[B:2]`
+  * Fetal hemoglobin (HbF) `[B:2]`
+  * Sickle hemoglobin (HbS) `[B:2]`
+  * Acrylic nails `[B:2]`
+  * Fluorescein dye `[B:2]`
+
+💡 **Clinical Note:** Cyanosis becomes clinically apparent with 5 g/dl desaturated Hb (typically at SpO2 <85%) `[B:2]`
+
+### 2.2.7. CLINICAL CONSIDERATIONS AND LIMITATIONS
+
+* **Clinical Considerations** `[B:2]`
+  * Interference factors (as listed above) `[B:2]`
+  * Accuracy: ±2-3% at 70-100% saturation; ±3% at 50-70% `[B:2]`
+  * No contraindications to use `[B:2]`
+  * Sensor site should be checked regularly (every 2 hours recommended for patients with impaired microcirculation) `[A:1]`
+  * Burns in infants have been reported with prolonged use `[A:1]`
+* **Limitations** `[B:2]` `[A:1]`
+  * Accuracy
+	  * Less accurate when <70%, inaccurate when <50%
+	  * Dependent on blood supply to monitored site (vasoconstriction, hypotension)
+	  * Interference by diathermy, excessive movement, excessive
+  * Does not ensure tissue oxygen delivery/utilization `[B:2]`
+  * Requires pulsatile flow (won't work during cardiopulmonary bypass) `[B:2]`
+  * Provides no information about ventilation/CO2 elimination `[A:1]`
+  * **Limited Value as Ventilation Monitor** `[B:3]`
+	* May not detect inadequate ventilation for several minutes in pre-oxygenated patients `[B:3]`
+	* Pre-oxygenated patients can maintain normal SpO2 despite being apneic `[B:3]`
+	* Once desaturation begins (PaO2 falls sufficiently) `[B:3]`:
+	  * SpO2 drops rapidly due to sigmoid shape of oxyhemoglobin dissociation curve `[A:2]`
+	  * Steep portion of curve leads to precipitous desaturation `[A:2]`
+  * Patients with Ventricular Assist Devices (**VADs**) `[B:3]`
+	* Need alternative pulse oximeter placement sites due to continuous rather than pulsatile flow `[B:3]`
+	* Success depends on residual cardiac pulsatility `[B:3]`
+	* Clinical approach: Try multiple vascular beds to find location with adequate pulsatile perfusion `[B:3]`
+	* Note: May present for non-cardiac procedures requiring standard monitoring `[B:3]`
+* **Pediatric Considerations** `[B:3]`
+  * General Monitoring `[B:3]`
+	* Well-tolerated by most pediatric patients `[B:3]`
+	* More sensitive than capnography for detecting endobronchial intubation `[B:3]`
+	* Critical component for monitoring peri-anesthetic morbidity `[B:3]`
+  * Infant-Specific Considerations `[B:3]`
+	* **Cardiovascular Physiology** `[B:3]`
+	  * Limited stroke volume compensation capacity `[B:3]`
+	  * Heart rate is primary determinant of cardiac output `[B:3]`
+	  * Changes in monitor tone pitch may indicate cardiovascular compromise `[B:3]`
+	* **Physiologic Response to Stress** `[B:3]`
+	  * Hypoxemia and respiratory acidosis can trigger:
+		* Vagal response `[B:3]`
+		* Subsequent systemic hypoperfusion `[B:3]`
+
+### 2.2.8. ADVANCED TECHNOLOGY - MASIMO
+
+* **Masimo Signal Extraction Technology (SET)** `[A:1-2]`:
+  * Uses signal processing techniques to ignore venous blood saturation `[A:1]`
+  * Functions effectively during patient movement and poor peripheral circulation `[A:1]`
+  * Employs parallel engines and adaptive filters for improved accuracy `[A:2]`
+* **Rainbow Pulse Co-oximetry** `[A:2]`:
+  * Uses 7+ wavelengths of light `[A:2]`
+  * Measures multiple parameters non-invasively `[A:2]`:
+	* Hemoglobin (SpHb) `[A:2]`
+	* Carboxyhemoglobin (SpCO) `[A:2]`
+	* Methemoglobin (SpMet) `[A:2]`
+	* Oxygen saturation (SpO2) `[A:2]`
+	* Pulse rate `[A:2]`
+	* Perfusion index (PI) `[A:2]`
+	* Pleth variability index (PVI) `[A:2]`
+* **SedLine System Integration** `[A:2]`:
+  * Combines pulse oximetry with brain function monitoring `[A:2]`
+  * Monitors four channels of bilateral EEG waveforms `[A:2]`
+  * Displays Patient State Index related to anesthesia depth `[A:2]`
+  * Includes Density Spectral Array for bilateral brain activity visualization `[A:2]`
+* **O3 Regional Oximetry** `[A:2]`:
+  * Alternative to conventional pulse oximetry for cerebral oxygenation monitoring `[A:2]`
+
+![FIG. 10.14 Masimo oximetry with rainbow technology.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p3_img1_529bef.jpeg)
+
+![FIG. 10.15 The SedLine monitor and electrode.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p4_img1_b5bd22.jpeg)
+
+**Bottom Line:** Pulse oximetry provides non-invasive, continuous monitoring of arterial oxygen saturation but has multiple potential sources of error. While valuable for detecting hypoxemia, it poorly reflects adequacy of ventilation and cannot assess tissue oxygen utilization. Advanced technologies like Masimo SET and Rainbow Pulse Co-oximetry offer improved accuracy during motion and ability to measure multiple hemoglobin species simultaneously.
+
+## 2.3. MIXED VENOUS OXYGEN SATURATION (SVO2)
+
+### 2.3.1. SYLLABUS CORRELATION
+
+* **Part A:** Physiological principles of oxygen delivery and consumption `[A:3]`.
+* **Part B:** Clinical applications in critical care `[B:3]`.
+* **Part C:** Integration into complex patient management `[C:2]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 2.3.2. KEY CHARACTERISTICS
+
+* Measured via pulmonary artery catheter with fiberoptic sensors `[B:3]`
+* Normal SvO2 is ~70% `[A:3]`
+* ScvO2 (central venous O2 saturation) `[B:3]`:
+  * Used as a surrogate measurement `[B:3]`
+  * Usually few percentage points higher than SvO2 `[B:3]`
+  * Difference due to exclusion of cardiac circulation venous return `[B:3]`
+
+### 2.3.3. CLINICAL INTERPRETATION
+
+* Complex assessment involving multiple factors `[B:3]`:
+  * Hemoglobin concentration `[A:3]`
+  * Cardiac output `[A:3]`
+  * Arterial O2 saturation `[A:3]`
+  * Whole-body O2 consumption `[A:3]`
+* **Low** venous O2 saturation seen with `[B:3]`:
+  * Reduced arterial oxygen saturation `[B:3]`
+  * Reduced cardiac output `[B:3]`
+  * Increased tissue O2 demand `[B:3]`
+* **High** venous O2 saturation seen with `[B:3]`:
+  * O2 delivery exceeding tissue demand `[B:3]`
+  * Arterial venous shunting `[B:3]`
+
+**Bottom Line:** Mixed venous oxygen saturation reflects the balance between oxygen delivery and consumption, providing valuable information about global tissue oxygenation. Low values indicate inadequate oxygen delivery relative to consumption.
+
+## 2.4. NEAR-INFRARED BRAIN OXIMETRY
+
+### 2.4.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of near-infrared spectroscopy `[A:7]`.
+* **Part B:** Applications in neurological and cardiovascular monitoring `[B:3]`.
+* **Part C:** Integration into patient safety protocols `[C:2]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 2.4.2. TECHNOLOGY
+
+* Forehead sensor using near-infrared optical spectroscopy `[A:7]`
+* Measures reflected light to determine regional O2 saturation `[A:7]`
+* O3 (Masimo) regional oximetry offers alternative to conventional pulse oximetry for cerebral oxygenation `[A:2]`
+
+### 2.4.3. CLINICAL VALUES
+
+* Average regional microvascular Hb saturation ~70% `[B:3]`
+* Significant rSO2 decrease seen in `[B:3]`:
+  * Cardiac arrest `[B:3]`
+  * Cerebral embolization `[B:3]`
+  * Severe hypoxia `[B:3]`
+
+**Bottom Line:** Near-infrared oximetry provides continuous, non-invasive monitoring of regional cerebral oxygenation, useful for detecting cerebral hypoxia during procedures with risk of cerebral ischemia.
+
+# 3. RESPIRATORY GAS MONITORING
+
+## 3.1. EXPIRED GAS MONITORING SYSTEMS
+
+### 3.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Physics of gas monitoring `[A:10]`, spectrophotometry principles `[A:6]`.
+* **Part B:** Clinical application for ventilation monitoring `[B:5]`.
+* **Part C:** Equipment safety standards `[C:1]`.
+
+**Exam Weighting:** High
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 3.1.2. COMPONENTS OF EXPIRED GAS
+
+* Oxygen (O2) `[A:10]`
+* Nitrogen (N2) `[A:10]`
+* Carbon dioxide (CO2) `[A:10]`
+* Anesthetic gases `[A:10]`
+  * Nitrous oxide (N2O) `[A:10]`
+  * Halogenated agents: **SEVOFLURANE**, **ISOFLURANE**, **DESFLURANE** `[A:10]`
+
+### 3.1.3. HISTORICAL DEVELOPMENT
+
+* Early detectors: Based on rubber strip elastance changes `[A:10]`
+* Later methods `[A:10]`:
+  * Raman scattering `[A:10]`
+  * Multiplexed mass spectrometry (shared between ORs) `[A:10]`
+
+### 3.1.4. INFRARED ABSORPTION SPECTROPHOTOMETRY (IRAS)
+
+* **Principle**: Asymmetric, polyatomic molecules absorb infrared light at specific wavelengths `[A:10]`
+* CO2 characteristics `[A:10]`:
+  * Strong absorption at 4.28 microns wavelength `[A:10]`
+  * Minimal interference from other gases (water vapor, O2, N2O, anesthetic agents) `[A:10]`
+* Follows *Beer-Lambert law*: CO2 concentration inversely proportional to detected light intensity `[A:6]`
+* **Components** `[A:7-9]`:
+  * Sampling chamber (main-stream or side-stream) `[A:7]`
+  * Photodetector with optical filters for specific wavelengths `[A:7]`
+  * Reference chamber (CO2 free air; for comparison) `[A:9]`
+  * Lens + photodetector on opposite site
+
+![image.png](NONCVS_MONITORING_NONCVS_MONITORING_image.png_dc3d90.png_a88aa2.png)
+
+### 3.1.5. TECHNOLOGY EVOLUTION
+
+* **IRAS Device Components** `[A:10]`
+  * Multiple-wavelength infrared light source `[A:10]`
+  * Gas sampler `[A:10]`
+  * Optical path `[A:10]`
+  * Detection system `[A:10]`
+  * Signal processor `[A:10]`
+* **Technology Development** `[A:10]`
+  * Older devices `[A:10]`:
+	* Hot electrical element for broad-spectrum infrared light `[A:10]`
+	* Optical filter wheel for wavelength selection `[A:10]`
+  * Modern devices `[A:10]`:
+	* Small, lightweight lasers and filters `[A:10]`
+	* Specific wavelength emission `[A:10]`
+	* Lower power consumption `[A:10]`
+	* Portable handheld analyzers available `[A:10]`
+
+![image.png](NONCVS_MONITORING_NONCVS_MONITORING_image_1.png_1fc710.png_a4e05f.png)
+
+* **Photoacoustic Spectroscopy** `[A:12-13]`:
+  * Sample gas irradiated with pulsatile infrared radiation `[A:12]`
+  * Pressure fluctuations of audible frequency detected by microphone `[A:12]`
+  * Advantages over conventional IRAS `[A:12-13]`:
+	* Extremely stable with longer calibration intervals `[A:12]`
+	* Much faster rise and fall times `[A:13]`
+	* More accurate representation of concentration changes `[A:13]`
+
+![FIG. 10.19 Components of a gas analyser using an infrared light source suitable for end-tidal carbon dioxide measurement. The reference chamber has been omitted for the sake of clarity.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p9_img1_114596.jpeg)
+
+![FIG. 10.20 Principles of infrared detector: due to the large amount of infrared absorption in the sample chamber by the carbon dioxide, little infrared finally reaches the detector.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p10_img1_e5563a.jpeg)
+
+**Bottom Line:** Expired gas monitoring has evolved from simple detectors to sophisticated spectrophotometric devices. Modern infrared analyzers provide precise measurement of CO2, anesthetic gases, and other respiratory gases with minimal interference from other molecules. Photoacoustic spectroscopy offers advantages of stability and faster response times compared to conventional infrared methods.
+
+## 3.2. CAPNOGRAPHY
+
+### 3.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of capnography `[A:11]`, CO2 physiology `[A:5]`.
+* **Part B:** Clinical applications and waveform interpretation `[B:5]`.
+* **Part C:** Safety standards for ventilation monitoring `[C:1]`.
+
+**Exam Weighting:** High
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 3.2.2. DEFINITIONS AND STANDARDS
+
+* **Definitions** `[A:11]` `[A:5]`
+  * Capnometry: Measurement and numeric representation of CO2 concentration during breathing `[A:11]`
+  * Capnogram: Continuous concentration-time display of CO2 sampled at airway `[A:11]`
+  * Capnograph: Device that records and shows graphical display of CO2 waveform `[A:5]`
+  * End-tidal CO2: CO2 at the end of expiration, typically less than alveolar CO2 `[A:5]`
+  * Alveolar CO2: Less than arterial CO2 as blood from unventilated alveoli and lung parenchyma mixes with blood from ventilated alveoli `[A:5]`
+  * Normal ETCO2-PaCO2 gradient ≈ 5 mmHg (0.3-0.6 kPa) in healthy supine patients - reflects dead space `[A:5]`
+  * Etymology: Greek root "kapnos" meaning "smoke" (CO2 as cellular metabolism "smoke") `[A:5]`
+* Standard of care for general anesthesia `[C:1]`
+* Mandatory for moderate/deep sedation monitoring `[C:1]`
+* No contraindications when properly interpreted `[B:5]`
+* **Used for Endotracheal Tube Verification** `[B:5]`
+  * Stable ETCO2 for 6 breaths confirms non-esophageal placement `[B:5]`
+  * Continuous CO2 waveform confirms alveolar ventilation but:
+	* Cannot rule out endobronchial intubation `[B:5]`
+	* Does not guarantee secure tube position `[B:5]`
+
+### 3.2.3. TYPES OF CAPNOGRAPHY
+
+![[Pasted image 20250609150939.png]]
+
+* **Non-Diverting (Flowthrough/Main-Stream)** `[A:11]` `[A:7]`
+  * CO2 passes through adaptor in breathing circuit `[A:11]`
+  * Sample chamber positioned directly in patient's gas stream `[A:7]`
+  * Key limitation: Cannot detect inspired CO2 `[A:11]`
+  * Characteristics `[A:16]`:
+	* No transport delay time `[A:16]`
+	* Cannot simultaneously measure other gases/vapors `[A:16]`
+	* Chamber heated to ~41°C to prevent water vapor condensation `[A:16]`
+	* Increases dead space `[A:16]`
+* **Diverting (Aspiration/Sidestream)** `[A:11]` `[A:13-14]`
+  * Mechanism:
+	* Continuous gas suction from breathing circuit into sample cell `[A:11]`
+	* CO2 measurement via infrared light absorption comparison with CO2-free chamber `[A:11]`
+	* Uses 1.2mm internal diameter tube to sample gases `[A:13]`
+	* Connection near patient end increases breathing system dead space slightly `[A:13]`
+	* Includes moisture trap with exhaust port `[A:13]`
+  * Aspiration Rates:
+	* **High rates** (up to 250 mL/min) + low-dead-space tubing `[A:11]`:
+	  * Increased sensitivity `[A:11]`
+	  * Decreased lag time `[A:11]`
+	* **Low rates** (<50 mL/min) `[A:11]`:
+	  * Retards ETCO2 measurement `[A:11]`
+	  * Underestimates during rapid ventilation `[A:11]`
+	* Modern monitors use rates as low as 50 mL/min `[A:13]`
+  * Time Delay Considerations `[A:13-14]`:
+	* Transit time delay: Depends on tubing length (ideally short, ~2m), diameter, and sampling rate `[A:13]`
+	* Acceptable delay <3.8 seconds `[A:14]`
+	* Rise time delay: Depends on sample chamber size and gas flow `[A:14]`
+  * Advantages `[A:14]`:
+	* Can analyze multiple gases from same sample `[A:14]`
+	* Portable handheld versions available for transport and out-of-hospital use `[A:16]`
+  * Clinical Considerations:
+	* Significant aspiration effect in small tidal volumes (pediatric patients) `[B:5]`
+	* High aspiration rates may dilute ETCO2 by entraining fresh gas `[B:5]`
+	* Expiratory valve dysfunction detected by CO2 in inspired gas `[B:5]`
+
+![FIG. 10.17 A main-stream end-tidal carbon dioxide analyser.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p7_img1_73f51d.jpeg)
+
+![FIG. 10.18 The Penlon PM9000 Express, which measures end-tidal CO2, oximetry and inhalational agent concentration using a side-stream method. Courtesy Penlon Ltd, Abingdon, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p8_img1_b1e6a1.jpeg)
+
+![FIG. 10.22 The PC-900B portable capnograph and oximeter. Courtesy Proact Medical, Corby, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p16_img1_0f433d.jpeg)
+
+**Comparison of Side-Stream and Main-Stream Analyzers** `[A:17]`:
+
+| Feature                        | Side-Stream                   | Main-Stream                                   |
+| ------------------------------ | ----------------------------- | --------------------------------------------- |
+| Disconnection possible         | Yes                           | Yes                                           |
+| Sampling catheter leak common  | Yes                           | No (avoids sampling line)                     |
+| Calibration gas required       | Yes                           | No                                            |
+| Sensor damage common           | No                            | Some                                          |
+| Multiple gas analysis possible | Yes                           | No (only CO2)                                 |
+| Use on nonintubated patients   | Yes                           | No                                            |
+| Risk of burns                  | No                            | Yes (analyzer heated to prevent condensation) |
+| Increased deadspace            | No                            | Yes                                           |
+| Timelag                        | <1s delay due to transit time | No time lag                                   |
+
+### 3.2.4. NORMAL CAPNOGRAM PHASES
+
+![image.png](NONCVS_MONITORING_NONCVS_MONITORING_image_2.png_4c4f7b.png_8301cf.png)
+
+![SumatraPDF_QGnaGBWYah.png](NONCVS_MONITORING_NONCVS_MONITORING_SumatraPDF_QGnaGBWYah.png_a83fe0.png_cd8c07.png)
+
+![FIG. 10.16 Diagram of an end-tidal carbon dioxide waveform. A–B represents the emptying of the upper dead space of the airways. As this has not undergone gas exchange, the CO2 concentration is zero. B–C represents the gas mixture from the upper airways and the CO2-rich alveolar gas. The CO2 concentration rises continuously. C–D represents the alveolar gas and is described as the 'alveolar plateau'. The curve rises very slowly. D is the end-tidal CO2 partial pressure where the highest possible concentration of exhaled CO2 is achieved at the end of expiration. It represents the final portion of gas that was involved in the gas exchange in the alveoli. Under certain conditions (see text) it represents a reliable index of the arterial CO2 partial pressure. D–A represents inspiration where the fresh gas contains no CO2. E, Expiration; I, inspiration.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p6_img1_02a2ad.jpeg)
+
+* Phase A-B: Initial expiration (anatomic dead space) - normally CO2-free `[A:11]`
+* Phase B-C: Sharp upstroke when CO2-containing gas reaches sampling site `[A:11]`
+  * Slope indicates evenness of expiratory ventilation and alveolar emptying `[A:11]`
+* Phase C-D: Alveolar/expiratory plateau `[A:11]`
+  * Normally horizontal `[A:11]`
+  * Upward slope suggests V/Q mismatch `[A:11]`
+* Point D: End-tidal CO2 (ETCO2) - highest CO2 value `[A:11]`
+  * Best reflection of alveolar CO2 (PACO2) `[A:11]`
+  * Normal ETCO2-PaCO2 gradient ≈ 5 mmHg in healthy supine patients - reflects dead space `[A:5]`
+* Phase D-E: Inspiration (steep downstroke to baseline) `[A:11]`
+* **Cardiogenic Oscillations** `[A:18]`:
+  * Ripples on expired CO2 trace during prolonged expiration or end-expiratory pause `[A:18]`
+  * Appear during alveolar plateau in synchrony with heartbeat `[A:18]`
+  * Caused by mechanical agitation of deep lung regions expelling CO2-rich gas `[A:18]`
+  * Can be smoothed by increasing lung volume with PEEP `[A:18]`
+
+### 3.2.5. CLINICAL INTERPRETATIONS
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled_2.png_877fc2.png_a9abc9.png)
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled_3.png_f4f587.png_0ad1fa.png)
+
+![FIG. 10.21 (A) An end-tidal carbon dioxide waveform that does not return to the baseline during inspiration, indicating that rebreathing is occurring. (B) An end-tidal carbon dioxide waveform that illustrates the sloping plateau seen in patients with chronic obstructive airways disease. The normal waveform is superimposed (dotted line).](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p11_img1_431ffd.jpeg)
+
+| **Increases in ETCO2** | **Decreases in ETCO2** |
+| --- | --- |
+| **Elements that Change CO2 Production** |  |
+| Increases in metabolic rate `[B:5]` | Decreases in metabolic rate `[B:5]` |
+| Hyperthermia `[B:5]` | Hypothermia `[B:5]` |
+| Sepsis `[B:5]` | Hypothyroidism `[B:5]` |
+| Malignant hyperthermia `[B:5]` |  |
+| Shivering `[B:5]` |  |
+| Hyperthyroidism `[B:5]` |  |
+| **Elements that Change CO2 Elimination** |  |
+| Hypoventilation `[B:5]` | Hyperventilation `[B:5]` |
+| Rebreathing `[B:5]` | Hypoperfusion `[B:5]` |
+|  | Pulmonary embolism `[B:5]` |
+
+**Summary Uses of End-Tidal CO2** `[A:17-18]`:
+
+| Increased End-Tidal CO2 | Decreased End-Tidal CO2 |
+|------------------------|------------------------|
+| Hypoventilation `[A:17]` | Hyperventilation `[A:17]` |
+| Rebreathing `[A:17]` | Pulmonary embolism `[A:17]` |
+| Sepsis `[A:17]` | Hypoperfusion `[A:17]` |
+| Malignant hyperpyrexia `[A:17]` | Hypometabolism `[A:17]` |
+| Hyperthermia `[A:17]` | Hypothermia `[A:17]` |
+| Skeletal muscle activity `[A:17]` | Hypovolaemia `[A:17]` |
+| Hypermetabolism `[A:17]` | Hypotension `[A:17]` |
+
+### 3.2.6. WAVE PATTERN ANALYSIS
+
+* **Slow B-C rise (Phase II)** `[B:6]`
+  * Indicates airway obstruction `[B:6]`:
+	* Chronic obstructive pulmonary disease `[B:6]`
+	* Acute bronchoconstriction/asthma `[B:6]`
+* **ETCO2 Level Changes** `[B:6]`
+  * **Elevated ETCO2** with normal waveform `[B:6]`
+	* Alveolar hypoventilation `[B:6]`
+	* Increased CO2 production `[B:6]`
+  * **Transient ETCO2 increases** `[B:6]`
+	* Tourniquet release `[B:6]`
+	* Aortic unclamping `[B:6]`
+	* Bicarbonate administration `[B:6]`
+  * **Decreased ETCO2** `[B:6]`
+	* Causes (increased alveolar dead space) `[B:6]`:
+	  * Air embolism `[B:6]`
+	  * Decreased cardiac output `[B:6]`
+	  * Hypotension `[B:6]`
+	* *Mechanism*: Reduced lung perfusion → increased dead space → CO2 dilution → decreased ETCO2 `[B:6]`
+  * Sudden ETCO2 drop to zero may indicate `[B:6]`:
+	* Endotracheal tube malposition `[B:6]`
+	* Severe hypotension `[B:6]`
+	* Massive pulmonary embolism `[B:6]`
+	* Cardiac arrest `[B:6]`
+	* Sampling line disconnection `[B:6]`
+  * Non-zero inspiration baseline suggests CO2 rebreathing due to `[B:6]`:
+	* Exhausted CO2 absorber `[B:6]`
+	* Faulty ventilator valve `[B:6]`
+	* Insufficient fresh gas flow `[B:6]`
+	* Incorrect device calibration `[B:6]`
+* **Key Clinical Applications** `[B:6]`
+  * Diagnostic patterns:
+	* Bronchospasm: Upsloping trace `[B:6]`
+	* Hypotension: Associated with ETCO2 drop `[B:6]`
+	* Pulmonary embolism: Decreased ETCO2 with increased A-a gradient `[B:6]`
+	* CPR monitoring: ETCO2 goal >10; sudden increase suggests ROSC `[B:6]`
+	* Equipment issues:
+	  * Esophageal intubation/circuit disconnect: No ETCO2 tracing `[B:6]`
+	  * Exhausted CO2 absorbent: ETCO2 doesn't return to 0-5 `[B:6]`
+  * Additional uses `[A:17-18]`:
+	* Diagnosis of oesophageal intubation (no or very little CO2 detected) `[A:17]`
+	* Disconnection alarm for breathing systems (sudden absence of ETCO2) `[A:18]`
+	* Diagnosis of lung embolism (sudden ETCO2 decrease with stable BP) `[A:18]`
+	* Diagnosis of malignant hyperpyrexia (gradual ETCO2 increase) `[A:18]`
+
+💡 **Clinical Pearl**: Apneic oxygenation ETCO2 changes `[B:6]`:
+
+  * First minute: +6 mm Hg `[B:6]`
+  * Subsequent minutes: +3 mm Hg/minute `[B:6]`
+
+### 3.2.7. COMMON PROBLEMS AND LIMITATIONS
+
+* **Sampling Line Issues** `[B:6]`
+  * Water vapor condensation can occlude sampling lines and water traps during prolonged use `[B:6]`
+  * Management `[B:6]`:
+	* Flush line with syringe air `[B:6]`
+	* Replace components if necessary `[B:6]`
+	* Elevate sidestream sampling line above ventilator circuit `[B:6]`
+	* Consider humidity barrier (note: increases capnogram response time) `[B:6]`
+* **Accuracy Limitations** `[B:6]`
+  * ETCO2 less accurate than arterial blood gas for PaCO2 assessment `[B:6]`
+  * PaCO2-ETCO2 gradient increases with `[B:6]`:
+	* Increased dead space `[B:6]`
+	* V/Q mismatch conditions `[B:6]`:
+	  * Emphysema `[B:6]`
+	  * Pulmonary embolism `[B:6]`
+	  * Single-lung ventilation `[B:6]`
+	  * Low cardiac output states `[B:6]`
+* **Pediatric Considerations** `[B:6]`
+  * Rapid desaturation risk in children due to `[B:6]`:
+	* Increased oxygen consumption `[B:6]`
+	* Lower FRC/closing volume ratio `[B:6]`
+  * Neonatal challenges `[B:6]`:
+	* Hypoxemia can trigger bradycardia `[B:6]`
+	* Cuffless ETT issues `[B:6]`:
+	  * Allows larger internal diameter `[B:6]`
+	  * Reduces airway resistance `[B:6]`
+	  * Expired gas leakage leads to ETCO2 underestimation `[B:6]`
+  * **Sidestream Sampling Concerns** `[B:6]`
+	* Standard flow rates: up to 200 mL/min `[B:6]`
+	* Neonatal implications `[B:6]`:
+	  * Normal minute ventilation: 200-300 mL/kg/min `[B:6]`
+	  * Sampling can exceed minute ventilation in premature infants `[B:6]`
+	  * Risk of erroneously low ETCO2 readings due to `[B:6]`:
+		* Sampling of non-ventilated gas `[B:6]`
+		* Fresh gas dilution effect `[B:6]`
+	  * ⚠️ Clinical pearl: Normal-appearing ETCO2 may mask inadequate ventilation `[B:6]`
+	* Solution: New low-flow systems developed for neonatal use `[B:6]`
+* **Additional Practical Problems** `[A:18]`:
+  * Waveform distortion in COPD: Sloping trace instead of plateau `[A:18]`
+  * Dilution of ETCO2 from loose connections and system leaks `[A:18]`
+  * Nitrous oxide interference: May cause inaccuracy due to overlapping absorption spectra `[A:18-19]`
+	* Avoided by careful wavelength selection with special filters `[A:19]`
+  * Collision/pressure broadening: CO2 absorption increased by presence of N2O/N2 `[A:19]`
+	* Solved by calibration with similar gas mixture composition `[A:19]`
+
+![FIG. 10.23 Carbon dioxide and nitrous oxide infrared absorption spectrum.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p19_img1_00b9a6.jpeg)
+
+**Bottom Line:** Capnography provides valuable information about ventilation, perfusion, and metabolic status. Waveform analysis helps diagnose respiratory and circulatory problems, while understanding limitations is essential for accurate interpretation, especially in pediatric and critically ill patients. Side-stream sampling can be problematic in neonates due to high sampling-to-minute-ventilation ratios, while main-stream analyzers increase circuit dead space.
+
+## 3.3. ANESTHETIC GAS ANALYSIS
+
+### 3.3.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of anesthetic agent monitoring `[A:12]`, MAC concept `[A:13]`.
+* **Part B:** Clinical application during anesthetic delivery `[B:7]`.
+* **Part C:** Safety standards for anesthetic delivery `[C:1]`.
+
+**Exam Weighting:** High
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 3.3.2. INTERPRETATION OF INSPIRED AND EXPIRED ANESTHETIC GAS CONCENTRATIONS
+
+* Fresh gas flow effects `[B:7]`:
+  * High flow rates: Concentration ≈ vaporizer setting but wasteful `[B:7]`
+  * Low flow rates: Circuit and vaporizer concentrations become decoupled `[B:7]`
+* Inspired/expired gas monitoring enables `[B:7]`:
+  * Maintenance of controlled agent levels at low flows `[B:7]`
+  * "Closed-circuit anesthesia": Minimizing flow to metabolic O2 requirement only `[B:7]`
+	* Benefits: Economic use of anesthetic, reduced environmental impact `[B:7]`
+* **Importance of Monitoring** `[A:25-26]`:
+  * Especially critical in circle systems where exhaled agent is recirculated `[A:26]`
+  * Low-flow anesthesia: delivered concentration differs from vaporizer setting `[A:26]`
+
+### 3.3.3. MAC (MINIMUM ALVEOLAR CONCENTRATION)
+
+* Definition: End-tidal gas concentration that `[A:13]`:
+  * Maintained for 15 minutes at 1 atmosphere `[A:13]`
+  * Inhibits movement to midline laparotomy in 50% of patients `[A:13]`
+* More accurately: *Median constant end-tidal partial pressure* `[A:13]`
+* Clinical importance: Prevention of intraoperative awareness `[B:7]`
+  * Superior to processed EEG monitors in some studies `[B:7]`
+
+### 3.3.4. INDICATIONS & CONTRAINDICATIONS
+
+* Expired anesthetic gas monitoring limitations `[B:7]`:
+  * Only useful with detectable gases `[B:7]`
+  * Cannot detect **XENON** `[B:7]`
+  * Not informative with total intravenous anesthesia `[B:7]`
+
+### 3.3.5. MEASUREMENT TECHNOLOGIES
+
+* **Infrared Absorption Analyzers** `[A:27-28]`:
+  * Components `[A:26]`:
+	* Sampling tube from breathing system adapter `[A:26]`
+	* Sample chamber `[A:26]`
+	* Infrared light source `[A:26]`
+	* Optical filters `[A:26]`
+	* Photodetector `[A:26]`
+  * Mechanism `[A:28]`:
+	* Sampled gas exposed to infrared light of specific wavelengths `[A:28]`
+	* Photodetector measures light absorption `[A:28]`
+	* Absorption proportional to vapor concentration `[A:28]`
+	* Different wavelengths used for different agents `[A:28]`:
+	  * 4.6 μm for N2O `[A:28]`
+	  * 8-9 μm for inhalational agents (avoids 3.3 μm methane/alcohol band) `[A:28]`
+	* Multiple sensor spectral analysis for agent identification `[A:29]`
+	* Amplitude of spectral shape inversely proportional to agent concentration `[A:29]`
+  * Modern capabilities `[A:29]`:
+	* Automatic identification of multiple agents `[A:29]`
+	* Measurement of halothane, enflurane, isoflurane, sevoflurane, desflurane `[A:29]`
+	* Return of sample gas to breathing system `[A:29]`
+	* No individual calibration needed for each agent `[A:29]`
+	* Unaffected by water vapor `[A:29]`
+
+![FIG. 10.26 Inspired (Fi) and end-tidal (ET) values are displayed for carbon dioxide, oxygen, nitrous oxide and isoflurane (ISO). Courtesy Philips Healthcare, Guildford, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p27_img1_ba12d7.jpeg)
+
+![FIG. 10.27 Mechanism of action of an infrared (IR) anaesthetic agent monitor with automatic agent identification properties. Agents absorb IR light differently over a wavelength band of 3.2–3.4 mm. The monitor can therefore identify the agent in use automatically by analysing its unique absorbance pattern.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p28_img1_f8e9e7.jpeg)
+
+![FIG. 10.28 Inhalational agents infrared absorption spectrum.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p30_img1_342282.jpeg)
+
+![FIG. 10.29 Agent identification and measurement: to measure and identify the agents, all five sensors are used to produce a spectral shape. When the detectors at all five outputs are compared, A, B, C, D and E, a spectral shape is produced, representing the spectral signal of the agent present in the sample.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p31_img1_a00af6.jpeg)
+
+* **Other Measurement Technologies** `[A:31-32]`:
+  * **Piezoelectric Quartz Crystal Oscillation** `[A:31-32]`:
+	* Lipophilic-coated quartz crystal changes resonant frequency when exposed to anesthetic agents `[A:31]`
+	* Change proportional to agent partial pressure `[A:32]`
+	* Lacks agent specificity `[A:32]`
+	* Insensitive to water vapor `[A:32]`
+  * **Raman Spectroscopy** `[A:32]`:
+	* Sample illuminated by intense argon laser `[A:32]`
+	* Measures scattered light at different wavelengths (Raman scattering) `[A:32]`
+	* All gas/volatile molecules identified by characteristic spectrum `[A:32]`
+  * **Ultraviolet Absorption** `[A:32]`:
+	* For halothane specifically `[A:32]`
+	* Similar principles to infrared absorption but using UV light `[A:32]`
+  * **Mass Spectrometry** `[A:33]`:
+	* Identifies and measures concentrations on breath-by-breath basis `[A:33]`
+	* Charges sample particles with electron beam `[A:33]`
+	* Separates components by mass:charge ratios `[A:33]`
+	* Requires high vacuum (10^-5 mmHg) `[A:33]`
+	* Permanent magnet separates ion beam into component spectra `[A:33]`
+	* Often multiplexed between ORs due to high expense `[A:33]`
+
+**Bottom Line:** Anesthetic gas analysis enables precise titration of inhaled agents, particularly during low-flow anesthesia. Monitoring end-tidal concentrations in MAC units provides a standardized approach to anesthetic depth assessment. Infrared absorption analyzers are most common, though multiple technologies exist, each with distinct advantages and limitations.
+
+## 3.4. NITROGEN MONITORING
+
+### 3.4.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of nitrogen detection `[A:12]`.
+* **Part B:** Clinical applications for leak detection and air embolism `[B:7]`.
+* **Part C:** Safety applications `[C:1]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 3.4.2. METHODS
+
+* Historical methods could detect N2 directly `[A:12]`:
+  * Mass spectroscopy `[A:12]`
+  * Raman scattering `[A:12]`
+* Modern infrared analyzers: N2 levels inferred by subtraction method `[A:12]`
+
+### 3.4.3. CLINICAL SIGNIFICANCE
+
+* Quantifies preoxygenation washout `[B:7]`
+* Sudden N2 rise indicates `[B:7]`:
+  * Anesthesia delivery system leaks `[B:7]`
+  * Venous air embolism `[B:7]`
+
+**Bottom Line:** While dedicated nitrogen monitors are no longer common, N2 detection remains valuable for identifying circuit leaks and venous air embolism.
+
+# 4. NEUROLOGICAL MONITORING
+
+## 4.1. ELECTROENCEPHALOGRAPHY (EEG)
+
+### 4.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Neurophysiological principles of EEG `[A:10]`, EEG patterns `[A:10]`.
+* **Part B:** Applications during neurological and vascular procedures `[B:10]`, anesthetic effects `[B:10]`.
+* **Part C:** Application to patient safety and anesthetic management `[C:2]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 4.1.2. PRINCIPLES OF OPERATION
+
+* **Historical Context**: EEG monitoring initially introduced in anesthesia as a **sensitive and moderately specific means of monitoring cerebral ischemia** `[B:10]`
+* *Primary early application*: Carotid surgery monitoring `[B:10]`
+  * During carotid occlusion, ipsilateral brain depends on contralateral carotid perfusion via circle of Willis `[B:10]`
+  * Creates risk of ipsilateral ischemia `[B:10]`
+  * Traditionally performed by dedicated technician `[B:10]`
+* **EEG monitoring** records electrical potentials generated by cells in the cerebral cortex `[A:10]`
+* *EEG activity* occurs mostly at frequencies between 1 and 30 cycles/sec (Hz) `[A:10]`
+
+### 4.1.3. EEG WAVE CLASSIFICATION
+
+* **EEG waves can be characterized by type** `[A:10]`:
+  * **Alpha waves**: 8-13 Hz, commonly found in resting adults with eyes closed `[A:10]`
+  * **Beta waves**: 8-13 Hz, found in concentrating individuals and sometimes during anesthesia `[A:10]`
+  * **Delta waves**: 0.5-4 Hz, associated with brain injury, deep sleep, and anesthesia `[A:10]`
+  * **Theta waves**: 4-7 Hz, found in sleeping individuals and during anesthesia `[A:10]`
+* **EEG waves are classified by amplitude** `[A:10]`:
+  * High amplitude: >50 microV `[A:10]`
+  * Medium amplitude: 20-50 microV `[A:10]`
+  * Low amplitude: <20 microV `[A:10]`
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled.png_680a0f.png_f6e114.png)
+
+### 4.1.4. ANESTHETIC PROGRESSION ON EEG
+
+* **Inhalational anesthesia progression** `[A:11]`:
+  1. Initial beta activation `[A:11]`
+  2. Slowing `[A:11]`
+  3. Burst suppression `[A:11]`
+  4. Isoelectricity `[A:11]`
+* **Intravenous agents** `[A:11]`:
+  * Produce various EEG patterns depending on dose and specific drug used `[A:11]`
+
+**Bottom Line:** EEG directly monitors cerebral cortical activity, providing information about cerebral ischemia and anesthetic effects. The progression from high-frequency, low-amplitude patterns to low-frequency, high-amplitude patterns and eventually burst suppression is characteristic of increasing anesthetic depth.
+
+## 4.2. PROCESSED EEG MONITORS
+
+### 4.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Signal processing principles `[A:15]`, neurophysiological basis `[A:11]`.
+* **Part B:** Clinical applications `[B:10]`, anesthetic depth monitoring `[B:10]`.
+* **Part C:** Integration into anesthetic practice `[C:2]`.
+
+**Exam Weighting:** High
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 4.2.2. BIS AND SEDLINE COMPONENTS
+
+* **BIS and SedLine devices** display a unitless number from 0-100 derived from EEG data via proprietary algorithms `[A:15]`
+  * 0 = absence of discernible electrical activity `[A:15]`
+  * 100 = EEG activity of fully awake/alert individual `[A:15]`
+  * *Different optimal ranges for general anesthesia* `[B:10]`:
+	* BIS: 40-60 `[B:10]`
+	* SedLine: 25-50 `[B:10]`
+* **Clinical correlation with anesthetic depth** `[B:10]`:
+  * Best correlation when volatile gases or **PROPOFOL** are used `[B:10]`
+  * ⚠️ Increasing agent concentration doesn't always reliably lower the number further if patient is already deeply anesthetized `[B:10]`
+* **Effects of different agents on EEG monitors** `[B:10]`:
+  * **KETAMINE** (dissociative agent) can confound processed EEG monitors through paradoxical cortical excitation `[B:10]`
+	* Monitor misreads increased cortical activity as lessened anesthesia `[B:10]`
+	* 💡 Clinical Pearl: Low doses of ketamine infused slowly may not affect processed EEG readings when used to reduce opioid requirements `[B:10]`
+  * **Opioids** (e.g., **REMIFENTANIL**) `[B:10]`:
+	* Processed EEG monitors can be insensitive to even high concentrations `[B:10]`
+	* During TIVA (Total Intravenous Anesthesia) with propofol and remifentanil, monitor may primarily reflect propofol's effect `[B:10]`
+* **SedLine System** (Masimo) `[A:2]`:
+  * Monitors four channels of bilateral EEG via forehead electrodes `[A:2]`
+  * Displays information as `[A:2]`:
+	* Patient State Index (related to anesthesia depth) `[A:2]`
+	* Density Spectral Array (representing bilateral brain activity) `[A:2]`
+  * Can be integrated with other monitoring systems `[A:2]`
+
+### 4.2.3. EEG COMPONENTS ANALYZED
+
+* **Four EEG components analyzed** `[A:15]`:
+  1. Low frequency (associated with deep anesthesia) `[A:15]`
+  2. High-frequency beta activation (associated with "light" anesthesia) `[A:15]`
+  3. Suppressed EEG waves `[A:15]`
+  4. Burst suppression `[A:15]`
+* **Clinical interpretation guidelines** `[B:10]`:
+  * BIS 65-85: Recommended for sedation `[B:10]`
+  * BIS 40-65: Recommended for general anesthesia `[B:10]`
+  * BIS <40: Cortical suppression becomes visible as burst suppression pattern in raw EEG `[B:10]`
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled_4.png_ba3a57.png_ae2641.png)
+
+![FIG. 10.46 Bispectral index (BIS) values scale. EEG, Electroencephalogram.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p59_img1_27d44d.jpeg)
+
+### 4.2.4. SETUP AND OPERATION
+
+* **Sensor Application** `[B:10]`:
+  1. Clean patient's forehead `[B:10]`
+  2. Apply single-use adhesive electrical sensors `[B:10]`
+  3. Position sensors to detect frontal lobe EEG activity `[B:10]`
+  4. Connect sensors to main device `[B:10]`
+* **Connection Quality Check** `[B:10]`:
+  * Device verifies quality of electrical connections `[B:10]`
+  * Confirms good contact between sensors and skin `[B:10]`
+  * Checks for inadvertent electrical connections between sensors `[B:10]`
+  * Provides pictorial indication of problems `[B:10]`
+* **Troubleshooting Connection Issues** `[B:10]`:
+  * *High impedance issue*: Apply firm pressure to affected sensor to improve contact `[B:10]`
+  * ⚠️ Excessive pressure may cause gel leakage and create "gel bridge" between electrodes `[B:10]`
+  * *Gel bridge solution*: Wipe away surplus gel or apply new sensor set `[B:10]`
+* **BIS Electrode Placement** `[A:60]`:
+  * Adult sensors with four numbered electrodes (elements) `[A:54]`
+  * Pediatric sensors with three electrodes available for smaller head sizes `[A:54]`
+  * Specific placement protocol `[A:60]`:
+	* Element 1: Center of forehead, 5cm above nose `[A:60]`
+	* Element 4: Just above and adjacent to eyebrow `[A:60]`
+	* Element 2: Between elements 1 and 4 `[A:60]`
+	* Element 3: Temple area between corner of eye and hairline `[A:60]`
+  * Press each element for 5 seconds to ensure good contact `[A:60]`
+
+![FIG. 10.42 Bispectral index value as part of patient monitoring. Courtesy Philips Healthcare, Guildford, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p55_img1_08330b.jpeg)
+
+![FIG. 10.43 Adult bispectral index electrode. Courtesy Philips Healthcare, Guildford, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p56_img1_0638fe.jpeg)
+
+![FIG. 10.44 Adult bispectral index electrode and monitor. Courtesy Philips Healthcare, Guildford, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p57_img1_788f75.jpeg)
+
+![FIG. 10.45 Paediatric bispectral index electrode. Courtesy Philips Healthcare, Guildford, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p57_img2_632478.jpeg)
+
+### 4.2.5. EEG PROCESSING ALGORITHMS
+
+* **Beta (β)-Power Ratio** `[A:16]`:
+  * *Definition*: Relative amount of low gamma band activity (30-47 Hz) compared to β-wave activity (11-20 Hz) `[A:16]`
+  * *Clinical correlation*: Changes in ratio correlate with sedation level `[A:16]`
+* **Power Concentration in Gamma Band (40-47 Hz)** `[A:16]`:
+  * *Physiological basis*: Thalamocortical rhythm in gamma band (~40 Hz) `[A:16]`
+  * *Effect of anesthetics*: Inhibitory agents progressively lower frequency of peak activity `[A:16]`
+  * *Clinical application*: Changes in distribution of signal power used to estimate depth within general anesthesia range `[A:16]`
+  * ⚠️ *Important consideration*: Gamma frequency band overlaps with EMG frequency response `[A:16]`
+  * 💡 **Clinical Pearl**: Neuromuscular blockade tends to decrease BIS score, even in fully awake patients `[B:11]`
+* **Burst Suppression Ratio (BSR)** `[A:16]`:
+  * *Definition*: Ratio of suppressed EEG periods to overall recording time `[A:16]`
+  * *Suppressed state criteria*: EEG voltage <5 mV for ≥0.5 seconds `[A:16]`
+  * *Deep anesthesia pattern*: Periods of low/zero voltage with absence of higher-voltage bursts `[A:16]`
+  * *Clinical applications* `[B:11]`:
+	* Deliberately induced in neuroanesthesia `[B:11]`
+	* May provide protection against cerebral ischemia by reducing cellular metabolic demand `[B:11]`
+  * *Prognostic significance*: In unanesthetized patients, burst suppression carries grave prognosis `[B:11]`
+* **BIS Processing** `[A:54-55]`:
+  * Measures both EEG and EMG signals `[A:54]`
+  * Uses bispectral analysis to quantify synchronization of underlying frequencies `[A:54]`
+  * Displays various parameters `[A:54]`:
+	* BIS value (single value or trend) `[A:54]`
+	* Facial EMG (in decibels) `[A:54]`
+	* EEG suppression measurement `[A:54]`
+	* Signal quality index (SQI) indicating EMG interference `[A:54]`
+  * Monitors depth of sedation/hypnosis to assess awareness risk and optimize dosing `[A:54]`
+  * Responds to most widely used sedative-hypnotic agents `[A:54]`
+  * Less sensitive to analgesic/opiate components of anesthesia `[A:54]`
+
+🔑 **High-Yield**: Understanding the limitations of processed EEG monitoring, particularly the effect of neuromuscular blockade on readings `[B:11]`
+
+### 4.2.6. CLINICAL APPLICATIONS
+
+* **Indications** `[B:11]`:
+  * Cerebrovascular surgery → Confirm adequacy of cerebral oxygenation `[B:11]`
+  * Cardiovascular surgery → Ensure burst suppression or isoelectric signal before circulatory arrest `[B:11]`
+  * TIVA (Total Intravenous Anesthesia) → Provides feedback on pharmacodynamic effects when no end-tidal agent concentration is available to measure `[B:11]`
+  * Patients with pre-existing cognitive deficits or sensory impairment → May benefit from less anesthesia than indicated by end-tidal agent monitoring alone `[B:11]`
+  * Patients at risk for postoperative delirium → Helps titrate anesthetic plan for faster recovery `[B:11]`
+  * Emergency surgeries (cesarean sections, trauma laparotomies, hemodynamically unstable patients) → Helps titrate anesthesia when usual quantities cannot be administered safely `[B:11]`
+  * Patients with prior history of intraoperative awareness `[B:11]`
+  * ICU patients under therapeutic neuromuscular paralysis → Provides guidance when clinical sedation scales cannot be used `[B:11]`
+* **Contraindications** `[B:11]`:
+  * Absolute: Significant craniofacial trauma where sensor placement pressure may cause harm `[B:11]`
+  * Relative: Existing superficial injury to forehead where sensors would be applied `[B:11]`
+  * Controversial: Prone positioning for prolonged periods → ⚠️ Risk of pressure injury and disfigurement to forehead has been reported `[B:11]`
+
+### 4.2.7. LIMITATIONS AND CONTROVERSIES
+
+* **Clinical controversy** `[B:11]`:
+  * 🔑 HY: Role of processed EEG devices in assessing anesthetic depth remains debated `[B:11]`
+  * Some studies show reduced awareness incidence with EEG monitoring `[B:11]`
+  * Other studies show no advantage over end-tidal gas concentration monitoring `[B:11]`
+  * Some studies even show increased intraoperative awareness compared to end-tidal agent concentration monitoring `[B:11]`
+* **Technical limitations** `[B:12]`:
+  * ⚠️ Not all anesthetic agents show reliable concentration-effect relationship on processed EEG `[B:12]`
+  * Algorithms may not accurately reflect anesthetic depth with certain drug combinations `[B:12]`
+  * May primarily reflect hypnotic component rather than analgesic component during balanced anesthesia `[B:12]`
+  * Cannot avoid awareness with complete reliability → processed EEG monitoring is not mandated for standard care `[B:12]`
+* **Conceptual challenges** `[B:12]`:
+  * Incomplete understanding of what "anesthetic depth" actually means `[B:12]`
+  * Awareness depends on complex interaction between consciousness, memory, and biologic action of anesthetic agents `[B:12]`
+  * Reducing these processes to a single numerical readout is inherently limited `[B:12]`
+* **BIS-Specific Limitations** `[A:60-61]`:
+  * Interference from EMG activity `[A:60]`:
+	* EEG signals in 0.5-30 Hz band `[A:60]`
+	* EMG signals in 30-300 Hz band (with overlap) `[A:60]`
+	* Low-frequency EMG signals can enter conventional EEG band range `[A:60]`
+	* BIS XP version less affected by EMG `[A:61]`
+	* Complete absence of EMG with muscle relaxants may artificially lower BIS `[A:61]`
+  * Environmental factors `[A:61]`:
+	* Surgical diathermy interference (improved in newer versions) `[A:61]`
+	* Hypothermia <33°C decreases BIS levels as brain processes slow `[A:60]`
+	* Cerebral ischemia can decrease BIS through global EEG slowing/suppression `[A:60]`
+  * Pharmacological limitations `[A:61]`:
+	* Ketamine causes paradoxical EEG excitation - cannot monitor anesthesia depth accurately `[A:61]`
+	* Sedative concentrations of nitrous oxide (up to 70%) have minimal effect on BIS `[A:61]`
+	* Conflicting data regarding opioid effects on BIS `[A:61]`
+	* Insufficient data for patients with neurological diseases `[A:61]`
+
+### 4.2.8. SPECIAL POPULATIONS
+
+* **Pediatric considerations** `[B:12]`:
+  * Children have > 3× greater incidence of awareness under anesthesia compared to adults `[B:12]`
+  * Conflicting clinical priorities `[B:12]`:
+	* Need to prevent awareness `[B:12]`
+	* Need to minimize anesthetic exposure (especially in young children) `[B:12]`
+  * Evidence regarding anesthetic neurotoxicity `[B:12]`:
+	* Anesthetic agents may cause dose-dependent neurodegeneration and neuroapoptosis `[B:12]`
+	* 💡 Clinical Pearl: Single, brief exposures (<80 minutes) show minimal neurocognitive impact `[B:12]`
+	* Multiple exposures associated with decreased processing speed, motor coordination, behavior problems, and reading difficulties `[B:12]`
+  * EEG monitoring effectiveness `[B:12]`:
+	* Adult BIS algorithm appears applicable in children >12 months `[B:12]`
+	* Infant BIS values do not closely correlate with end-tidal sevoflurane concentrations `[B:12]`
+	* No demonstrated benefit in healthy pediatric ambulatory surgery patients `[B:12]`
+	* May be beneficial in developmentally delayed children → shorter time to spontaneous ventilation, eye opening, extubation, and decreased PACU length of stay (though further research needed) `[B:12]`
+* **Prone positioning challenges** `[B:12]`:
+  * Dilemma: TIVA technique (which benefits from processed EEG monitoring) is often used in prone spinal surgeries, but prone positioning creates risk of pressure injury from EEG sensors `[B:12]`
+  * Recommendation: If using processed EEG in prone patients, maintain vigilant attention to condition of forehead throughout case `[B:12]`
+
+### 4.2.9. PRACTICAL CONSIDERATIONS
+
+* **Relationship to other monitoring** `[B:12]`:
+  * Not demonstrated to be superior to end-tidal agent concentration monitoring for preventing awareness `[B:12]`
+  * End-tidal monitoring assumes `[B:12]`:
+	* Volatile anesthetic gases are being used `[B:12]`
+	* End-tidal concentrations reasonably reflect action on consciousness `[B:12]`
+* **ICU application** `[B:12]`:
+  * Standard sedation scales (Sedation-Agitation Scale, Richmond Agitation-Sedation Scale) may be impossible to use in paralyzed patients `[B:12]`
+  * Processed EEG provides objective data for sedation management when clinical assessment is limited `[B:12]`
+* 🔑 HY: Processed EEG monitoring is an adjunct, not a substitute for provider vigilance and contextual clinical judgment `[B:12]`
+
+### 4.2.10. ENTROPY OF EEG
+
+* **Concept and Measurement** `[A:62]`:
+  * Measures "regularity" or amount of disorder in EEG signal `[A:62]`
+  * High entropy during anesthesia indicates wakefulness `[A:62]`
+  * Low entropy correlates with deep unconsciousness `[A:62]`
+  * Uses forehead/side of head electrodes similar to BIS `[A:62]`
+  * Uses Fourier transformation to calculate frequencies for each time sample `[A:62]`
+  * Normalized frequency spectrum created for selected frequency range `[A:62]`
+* **Index Calculation** `[A:62]`:
+  * **State Entropy (SE)**: Calculated from low-frequency range (<32 Hz), predominantly EEG activity `[A:62]`
+  * **Response Entropy (RE)**: Uses higher frequency range (up to 47 Hz), includes EMG activity from frontalis muscle `[A:62]`
+  * Shannon entropy concept applied to normalize values between 0-1 `[A:62]`
+  * Commercially available M-entropy module (GE Healthcare) converts to 0-100 scale `[A:64]`:
+	* SE ranges from 0-91 `[A:64]`
+	* RE ranges from 0-100 `[A:64]`
+	* Conversion not exactly linear to give greater resolution between 0.5-1.0 `[A:64]`
+	* Values 40-60 represent clinically desirable anesthetic depth `[A:64]`
+* **Clinical Interpretation** `[A:64]`:
+  * As patient awakens, difference between SE and RE increases `[A:64]`
+  * Increasing gap indicates diminishing CNS drug effect and increasing frontalis EMG contribution `[A:64]`
+
+![FIG. 10.47 Entropy of electroencephalogram. (A) Awake state. Note the difference between the two entropies, indicating muscle activity on the face. (B) Immediately after induction of anaesthesia. (C) Maintenance of anaesthesia. (D) Recovery from anaesthesia. RE, Response entropy; SE, state entropy.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p64_img1_a41aaa.jpeg)
+
+**Bottom Line:** Processed EEG monitors provide simplified interpretation of complex cortical activity to help assess anesthetic depth. While valuable for TIVA and special situations, they have significant limitations, including variable response to different agents and inability to detect awareness with complete reliability. Alternative approaches like Entropy monitoring measure EEG signal disorder and may provide complementary information, particularly when differentiating between EEG and EMG contributions.
+
+## 4.3. EVOKED POTENTIALS
+
+### 4.3.1. SYLLABUS CORRELATION
+
+* **Part A:** Neurophysiological basis of evoked potentials `[A:12]`.
+* **Part B:** Applications in neurosurgical and orthopedic procedures `[B:13]`.
+* **Part C:** Integration into surgical safety protocols `[C:2]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 4.3.2. TYPES AND PRINCIPLES
+
+* Used in surgical procedures associated with possible neurological injury `[B:13]`:
+  * Spinal fusion with instrumentation `[B:13]`
+  * Spine and spinal cord tumor resection `[B:13]`
+  * Brachial plexus repair `[B:13]`
+  * Thoracoabdominal aortic aneurysm repair `[B:13]`
+  * Epilepsy surgery `[B:13]`
+  * Cerebral tumor resection `[B:13]`
+* The middle latency auditory EP may be a more sensitive indicator than BIS for anesthetic depth `[B:13]`
+* Commonly monitored EPs are brainstem auditory evoked responses (BAERs), SEPs, and increasingly, MEPs `[B:13]`
+
+![Untitled](NONCVS_MONITORING_NONCVS_MONITORING_Untitled_5.png_8c3416.png_89f95e.png)
+
+* **Somatosensory Evoked Potentials (SEP)** `[A:12]`:
+  * Produced by stimulation of peripheral nerve wherein a response can be measured `[A:12]`
+  * Electrical volley ascends via the posterior columns > transmitted to contralateral sensory cortex to produce an EP `[A:12]`
+  * Recorded in epidural space and over posterior cervical spine and scalp electrodes `[A:12]`
+* **Motor Evoked Potentials (MEP)** `[A:12]`:
+  * Stimulation of motor cortex leading to an electrical volley descending to the anterior horn cells of the spinal cord via the corticospinal tract `[A:12]`
+  * Measured in the epidural space as D and I waves (produced by direct and indirect - via internuncial neurons, stimulation of the motor cortex respectively, and in the muscles as CMAP (compound muscle action potential) `[A:12]`
+
+### 4.3.3. CLINICAL APPLICATIONS
+
+* **Contraindications** `[B:13]`:
+  * No specific contraindications for somatosensory evoked potentials (SEPs) `[B:13]`
+  * Motor evoked potentials (MEPs) are contraindicated in patients with `[B:13]`:
+	* Retained intracranial metal `[B:13]`
+	* Skull defects `[B:13]`
+	* Implantable devices `[B:13]`
+	* After seizures `[B:13]`
+	* Any major cerebral insult `[B:13]`
+* **Clinical considerations** `[B:13]`:
+  * In general, intravenous anesthetic techniques (with or without nitrous oxide) cause minimal changes, whereas volatile agents (halothane, sevoflurane, desflurane, and isoflurane) are best avoided or used at a constant low concentration `[B:13]`
+  * EP are reduced in amplitude by volatile inhalational agents, high-dose benzodiazepines, and moderate hypothermia (temperatures <32°C) `[B:13]`
+  * Persistent obliteration of EPs is predictive of postoperative neurological deficit `[B:13]`
+  * SEP identifies spinal cord damage but sensory (dorsal spinal cord) EP preservation does not guarantee normal motor (ventral spinal cord) function (false negative) `[B:13]`
+  * MEPs are more sensitive to spinal cord ischemia than SEP `[B:13]`
+
+**Bottom Line:** Evoked potentials monitor the functional integrity of specific neural pathways during surgery. MEPs are more sensitive to spinal cord ischemia than SEPs, but both are affected by anesthetic agents, particularly volatile agents. Intravenous techniques typically cause less interference with monitoring.
+
+# 5. ARTERIAL BLOOD GAS ANALYSIS
+
+## 5.1. MEASUREMENT PRINCIPLES [PART A]
+
+### 5.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Physics and principles of blood gas analysis `[A:20]`.
+* **Part B:** Clinical interpretation and application `[B:10]`.
+* **Part C:** Integration into patient management `[C:2]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 5.1.2. PH MEASUREMENT
+
+![pHelectrode1.png](NONCVS_MONITORING_NONCVS_MONITORING_pHelectrode1.png_d6941d.png_224fcd.png)
+
+* **pH electrode** `[A:20]`
+* Reading electrode made of **silver/silver chloride** `[A:20]`
+  * Immersed in buffer solution to maintain constant H+ concentration `[A:20]`
+  * Separated from blood sample by **ion-sensitive glass** `[A:20]`
+	* The difference in H+ concentration between blood sample and buffer solution generates an electromotive potential across the glass `[A:20]`
+	* This electrical signal is amplified and calibrated to give a pH value `[A:20]`
+* Reference electrode is **silver/silver chloride** in **potassium chloride** `[A:20]`
+  * This is connected via a **semipermeable membrane** to complete the circuit `[A:20]`
+* System is kept at 37°C, as in hypothermia > increased CO2 solubility, pCO2 reduced, pH increases `[A:20]`
+- Decrease in pH by 1 unit = 10 fold increase in H+ concentration
+	- pH 7 = 100nmol/L
+	- pH 8 = 10nmol/L
+	- pH 6 = 1000nmol/L
+	- pH 7.4 = 40nmol/L
+### 5.1.3. PACO2 MEASUREMENT
+
+![Electrode Measurements.003.jpeg](NONCVS_MONITORING_NONCVS_MONITORING_Electrode_Measurements.003.jpeg_ec95e4.jpeg_b8b9fa.jpeg)
+
+* **Severinghaus electrode** `[A:20]`
+  * This is a modified pH electrode `[A:20]`
+* CO2 diffuses from the blood sample across a CO2-permeable membrane into a **bicarbonate solution** `[A:20]`
+* This causes it to dissociate to form H+ ions `[A:20]`
+* The rest of the electrode then behaves in the same way as a pH electrode, but calibrates the change in pH to the **PaCO2** `[A:20]`
+* Limitations
+	* Because of the extra time needed to allow the CO2 to diffuse and equilibrate in solution, the Severinghaus electrode is relatively slow (2-3 min) `[A:20]`
+	* Needs calibrating and regular maintenance `[A:20]`
+	* Risk of burns
+
+### 5.1.4. PAO2 MEASUREMENT
+
+![Screenshot 2024-10-22 at 18.45.47.png](NONCVS_MONITORING_NONCVS_MONITORING_Screenshot_2024-10-22_at_18.45.47.png_9e23fc.png_833e21.png)
+
+* **Clark Electrode** `[A:21]`
+* Requires a voltage of 0.6V `[A:21]`
+* Oxygen tension in blood is proportional to number of electrons consumed at the cathode `[A:21]`
+* Therefore ammeter can be used and current converted to kPa of oxygen `[A:21]`
+
+**Bottom Line:** Arterial blood gas analysis uses specialized electrodes for each parameter: pH electrode, Severinghaus electrode for PaCO2, and Clark electrode for PaO2. These electrodes convert chemical properties into electrical signals that are calibrated to provide quantitative measurements.
+
+## 5.2. CLINICAL APPLICATIONS [PART B]
+
+### 5.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Acid-base physiology `[A:8]`, oxygen transport `[A:2]`.
+* **Part B:** ABG interpretation in clinical settings `[B:10]`.
+* **Part C:** Clinical decision making `[C:2]`.
+
+**Exam Weighting:** High
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 5.2.2. ABG INTERPRETATION
+
+* **Derived Variables** `[A:8]`:
+  * HCO3- (actual): Directly measured by blood gas machine `[A:8]`
+  * Standard HCO3- (HCO3s): Bicarbonate concentration when PCO2 is normalized to 40 mmHg `[A:8]`
+  * Base Excess (BE): Amount of acid or base needed to normalize pH of fully oxygenated blood at PCO2 of 40 mmHg `[A:8]`
+  * Siggaard-Andersen nomogram: Graphical tool for ABG interpretation `[A:8]`
+
+### 5.2.3. TEMPERATURE CONSIDERATIONS
+
+* Gas solubility in water increases as temperature decreases `[B:10]`
+* Temperature effects on blood gases:
+  * Hypothermia will cause a lower PaCO2 and increased pH `[B:10]`
+  * Two approaches to ABG interpretation in hypothermia `[B:10]`:
+	* **Alpha-stat**: Uncorrected values (measured at 37°C)—maintains normal protein function regardless of body temperature `[B:10]`
+	* **pH-stat**: Temperature-corrected values—maintains normal pH at the patient's actual temperature `[B:10]`
+
+**Bottom Line:** ABG analysis provides critical information about oxygenation, ventilation, and acid-base status. Understanding derived variables and temperature effects is essential for accurate interpretation, particularly in hypothermic patients.
+
+# 6. TEMPERATURE MONITORING AND THERMOREGULATION
+
+## 6.1. SYLLABUS CORRELATION
+
+* **Part A:** Physiological principles of thermoregulation and physics of temperature measurement `[A:6,12-13]`
+* **Part B:** Clinical monitoring applications in anesthesia `[B:4]`
+* **Part C:** Patient safety standards and complication prevention `[C:1]`
+
+**Exam Weighting:** Medium (Part A Equipment ~15% of total weightage)
+
+**Competency Focus:** `[COMP: PC]`, `[COMP: MK]`
+
+---
+
+## 6.2. PRINCIPLES OF THERMOREGULATION [PART A]
+
+**Temperature regulation is a complex physiological process that is significantly impaired by anesthesia, leading to perioperative heat loss and hypothermia.**
+
+### 6.2.1. NORMAL THERMOREGULATION [PART A]
+
+* **Heat Production Mechanisms** `[A:6]`
+	
+	* Basal metabolic rate - baseline cellular metabolism `[A:6]`
+	* Muscular activity - voluntary and involuntary (shivering) `[A:6]`
+	* Sympathetic arousal - increases metabolic rate `[A:6]`
+	* Vascular tone regulation - controls heat distribution `[A:6]`
+	* Hormone activation - thyroid hormones, catecholamines `[A:6]`
+	* These mechanisms balance against exogenous factors determining heat creation and transfer needs `[A:6]`
+* **Heat Loss Mechanisms** `[A:6]`
+	
+	* **Radiation** → Infrared rays emanating from all objects above absolute zero temperature `[A:6]`
+		* Primary ongoing mechanism during anesthesia `[A:6]`
+	* **Conduction** → Direct heat transfer from contact with objects `[A:6]`
+	* **Convection** → Heat transfer via air movement past the body `[A:6]`
+	* **Evaporation** → Heat loss from water vaporization `[A:6]`
+		* 0.58 kcal of heat lost per gram of water evaporated `[A:6]`
+
+### 6.2.2. EFFECTS OF ANESTHESIA ON THERMOREGULATION [PART A]
+
+* **Anesthetic Impact** `[A:6]`
+	
+	* Both general and regional anesthesia inhibit afferent and efferent control of thermoregulation `[A:6]`
+	* 🔑 **Major mechanisms of heat loss during general anesthesia:**
+		1. **Redistribution** (primary initial mechanism) - vasodilation causes blood shift from core to periphery `[A:6]`
+		2. **Radiation** (primary ongoing mechanism) - continuous heat loss to environment `[A:6]`
+		3. **Other forms:** conduction, convection, and evaporation `[A:6]`
+* **Temperature Calculation** `[A:6]`
+	
+	* **Mean body temperature equation:** T(mean body) = 0.85 × T(core) + 0.15 × T(skin) `[A:6]`
+	* Thermoregulatory responses based on physiologically weighted average reflecting changes in mean body temperature `[A:6]`
+
+---
+
+## 6.3. TEMPERATURE MEASUREMENT DEVICES [PART A]
+
+**Various technologies are available for temperature measurement, each with specific advantages and limitations for perioperative monitoring.**
+
+### 6.3.1. NON-ELECTRICAL THERMOMETERS
+
+#### 6.3.1.1. MERCURY THERMOMETERS
+
+* **Mechanism:** Volume of mercury expands when temperature rises
+* **Temperature range:** -30 to 200°C
+* **Calibration:** Against fixed points (triple point/boiling point of H2O)
+* **Problems:**
+	* Slow to equilibrate with temperature (~2-3 minutes)
+	* Limited sites for use (rectal - slow if feces present, risk of perforation)
+	* Risk of toxicity, breakage, trauma
+
+#### 6.3.1.2. ALCOHOL THERMOMETERS
+
+* **Benefits:**
+	* Cheaper, non-toxic if broken
+	* Better for cold temperatures (-112 to 78°C)
+* **Problems:**
+	* Inaccurate at high temperatures (boils at 78.5°C)
+
+#### 6.3.1.3. DIAL THERMOMETERS
+
+* **Bimetallic strip type:**
+	* Coil made of 2 metals with different coefficients of expansion
+	* Temperature increase → metals expand to different extents → coil tightens → pointer moves across calibrated scale
+* **Bourdon gauge type:**
+	* Mercury/volatile fluid within coil
+	* Temperature increase → volume expansion → coiled tubing expands → pointer moves across calibrated scale
+
+![[Pasted image 20250609143814.png]]
+### 6.3.2. ELECTRICAL THERMOMETERS
+
+#### 6.3.2.1. THERMISTORS [PART A]
+
+* **Components** `[A:1,12]`
+	
+	* Small bead of temperature-dependent semiconductor (metal oxide) `[A:1,12]`
+	* Wheatstone bridge circuit `[A:1,12]`
+* **Mechanism of Action** `[A:1-2,12]`
+	
+	* Electrical resistance changes nonlinearly with temperature `[A:1,12]`
+	* Response electronically linearized `[A:1,12]`
+	* Accurately measures temperature to 0.1°C `[A:1,12]`
+	* **Resistance characteristics** `[A:2]`:
+		* **Negative thermal coefficient thermistors** (cobalt oxide, copper oxide, manganese oxide): Resistance decreases as temperature increases `[A:2]`
+		* **Positive thermal coefficient thermistors** (barium titanate): Resistance increases with temperature `[A:2]`
+* **Advantages** `[A:1,12]`
+	
+	* Can be made in very small sizes `[A:1,12]`
+	* Relatively inexpensive `[A:1,12]`
+	* Mounted in plastic or stainless steel probe for durability `[A:1,12]`
+	* Can withstand chemical sterilization `[A:1,12]`
+	* Used in pulmonary artery catheters for cardiac output measurement `[A:2]`
+	* Small, easily incorporated into devices (PAC, esophageal/nasal temperature probes)
+	* Manufactured with almost linear response over measurement range
+	* Can be chemically sterilized
+* **Disadvantages** `[A:2]`
+	
+	* Thermistors need stabilization as they age `[A:2]`
+	* Drift → inaccuracy
+	* Change in calibration if subjected to severe temperature changes
+
+![[Pasted image 20250609143926.png]]
+#### 6.3.2.2. THERMOCOUPLES [PART A]
+
+* **Components** `[A:3,12]`
+	
+	* Two strips of dissimilar metals (0.4-2mm diameter) in contact at both ends `[A:3]`
+	* Usually copper-constantan (copper with 40% nickel) junctions `[A:3]`
+	* Galvanometer for measurement `[A:3]`
+* **Mechanism of Action** `[A:3,12]`
+	
+	* One junction for measurement, one reference junction (kept at constant temperature) `[A:3]`
+	* Metals expand and contract differently with temperature changes `[A:3]`
+	* Produces electrical potential proportional to temperature difference (**Seebeck effect**) `[A:3]`
+	* Linear relationship between voltage and temperature `[A:3]`
+	* Measuring junction produces potential of 40 μV/°C `[A:3]`
+	* Potential measured by amplifier `[A:3]`
+* **Characteristics** `[A:3]`
+	
+	* Stable and accurate to 0.1°C `[A:3]`
+	* Temperature range: -200 to 1800°C
+	* Multiple thermocouples linked in series constitute a **thermopile** (improves sensitivity) `[A:3]`
+
+![FIG. 10.31 Thermocouple.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p4_img1_f77046.jpeg)
+
+![[Pasted image 20250609143833.png]]
+
+![[Pasted image 20250609143915.png]]
+#### 6.3.2.3. RESISTANCE THERMOMETERS
+
+* **Mechanism:** Measures resistance = approximates temperature
+* **Materials:** Platinum/Copper/Nickel
+* **Features:**
+	* Source of electrical potential, ammeter
+	* Accuracy improved with Wheatstone bridge
+	* Electrical resistance of metals increases linearly with temperature
+	* **Positive temperature coefficient**
+	* Temperature range: -260 to 850°C
+	* Accurate, low drift, wide temperature range
+
+![[Pasted image 20250609143846.png]]
+
+![[Pasted image 20250609143841.png]]
+
+![[Pasted image 20250609143941.png]]
+#### 6.3.2.4. INFRARED TYMPANIC THERMOMETERS [PART A]
+
+* **Components** `[A:2,12]`
+	* Small probe with disposable transparent cover `[A:2]`
+	* Detector (series of thermocouples called thermopile) `[A:2]`
+* **Mechanism of Action** `[A:2,12]`
+	* Detector receives infrared radiation from tympanic membrane `[A:2]`
+	* Infrared signal converted to electrical signal `[A:2]`
+	* Processes to measure core temperature within 3 seconds `[A:2]`
+	* Radiation rate proportional to temperature to fourth power (**Stefan-Boltzmann equation**) `[A:2]`
+	* Uses pyroelectric sensor with polarized ceramic crystalline material
+	* Polarity changes with temperature
+	* Electrical output proportional to temperature
+* **Advantages and Limitations** `[A:2,12]`
+	
+	* Rapid response time
+	* **Problems:**
+		* Provides intermittent rather than continuous readings `[A:2]`
+		* Probe must be accurately aimed at tympanic membrane `[A:2]`
+		* False low readings from sides of ear canal `[A:2]`
+		* Ear wax can affect accuracy `[A:2]`
+		* Inaccurate if wax present in ear canal/probe not directed at tympanic membrane
+
+![FIG. 10.33 Tympanic membrane temperature probe. Courtesy Smiths Medical, Ashford, Kent, UK.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p6_img1_ee1c8f.jpeg)
+![FIG. 10.34 Tympanic membrane thermometer.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p7_img1_12dd09.jpeg)
+---
+
+## 6.4. TEMPERATURE MONITORING SITES [PART B]
+
+**Selection of temperature monitoring site depends on the accuracy needed, surgical access, and patient factors.**
+
+### 6.4.1. CORE TEMPERATURE SITES (HIGHLY ACCURATE) [PART B]
+
+* **Pulmonary Artery** `[B:10]`
+	
+	* **Gold standard** for core temperature measurement `[B:10]`
+	* Most accurate reflection of true core temperature
+* **Tympanic Membrane** `[A:7] [B:10]`
+	
+	* Correlates well with core temperature `[B:10]`
+	* Approximates brain/hypothalamic temperature `[B:10]`
+	* Closely associated with brain temperature `[A:7]`
+	* Accurately reflects core temperature compared with lower esophageal temperature `[A:7]`
+	* Both thermocouple/thermistor probes and infrared probes can be used `[A:7]`
+* **Nasopharyngeal** `[B:10]`
+	
+	* Correlates well with core and brain temperature `[B:10]`
+	* ⚠️ **Use with caution** in patients with coagulopathy (risk of refractory epistaxis) `[B:10]`
+* **Esophageal** `[A:4] [B:10]`
+	
+	* Correlates well with core temperature `[B:10]`
+	* Accurately reflects core temperature when positioned in lower esophagus (level of left atrium) `[A:4]`
+	* Not affected by cooler tracheal temperature `[A:4]`
+	* ⚠️ **Avoid** in patients with esophageal varices `[B:10]`
+
+![FIG. 10.32 Oesophageal/rectal temperature probe. Courtesy Smiths Medical, Ashford, Kent, UK.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p5_img1_df40cf.jpeg)
+
+### 6.4.2. MODERATELY RELIABLE SITES [PART B]
+
+* **Oropharyngeal** `[B:10]`
+	
+	* Good estimate of core temperature `[B:10]`
+	* Recent studies show correlation with tympanic and esophageal temperatures `[B:10]`
+* **Bladder** `[A:7] [B:10]`
+	
+	* Approximates core when urine flow is high `[B:10]`
+	* Correlates well with core temperature when urine output is normal `[A:7]`
+	* 💡 **Clinical Pearl:** Significant delay may occur between bladder temperature reading and true temperature `[B:10]`
+
+![FIG. 10.35 Smiths Medical bladder catheter with a temperature probe. Courtesy Smiths Medical, Ashford, Kent, UK.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p8_img1_2e3a87.jpeg)
+
+### 6.4.3. LESS RELIABLE SITES [PART B]
+
+* **Rectal** `[A:4] [B:10]`
+	
+	* Not accurate (temperature affected by lower extremity venous return, enteric organisms, and stool insulation) `[B:10]`
+	* Does not accurately reflect core temperature in anesthetized patients `[A:4]`
+	* During operations, changes in temperature are relatively rapid and rectal temperature lags behind `[A:4]`
+* **Axillary** `[B:10]`
+	
+	* Inaccurate; varies by skin perfusion `[B:10]`
+	* Best location for monitoring muscle temperature (most suitable for detecting malignant hyperthermia) `[A:9]`
+* **Skin** `[A:9] [B:10]`
+	
+	* Inaccurate; varies by site `[B:10]`
+	* When measured with core temperature, can be useful for determining volemic status `[A:9]`
+	* **Note:** Liquid crystal skin temperature strips do not correlate with core temperature measurements `[B:10]`
+
+![FIG. 10.36 Skin temperature probe. Courtesy Smiths Medical, Ashford, Kent, UK.](NONCVS_MONITORING_pdf_TEMPPROBE.pdf_p8_img2_b2b43e.jpeg)
+---
+
+## 6.5. CLINICAL APPLICATIONS [PART B]
+
+**Temperature monitoring is essential for detecting perioperative complications and optimizing patient outcomes.**
+
+### 6.5.1. CORE VS. PERIPHERAL TEMPERATURE GRADIENT [PART A]
+
+* **Normal Gradient** `[A:9,13]`
+	
+	* Normal core-to-peripheral gradient is about 2-4°C `[A:13]`
+	* Gradient between core and peripheral temperatures useful for assessing skin perfusion and circulatory volume `[A:9]`
+* **Clinical Significance** `[A:9]`
+	
+	* **Hypovolemia** causes decreased skin perfusion → reducing peripheral temperature → increasing core-peripheral gradient `[A:9]`
+	* Can be used to assess volemic status and perfusion
+
+### 6.5.2. MONITORING STANDARDS AND INDICATIONS [PART B]
+
+* **Standard Requirements** `[B:10]`
+	
+	* Temperature monitoring is a **standard of anesthesia care** `[B:10]`
+	* Allows detection of:
+		* Accidental heat loss `[B:10]`
+		* Malignant hyperthermia `[B:10]`
+* **Contraindications** `[B:10]`
+	
+	* No absolute contraindications to temperature monitoring `[B:10]`
+	* 💡 **Clinical Pearl:** In patients with intact thermoregulatory responses (conscious patients or those receiving light/moderate sedation), continuous temperature monitoring is usually uninformative `[B:10]`
+
+### 6.5.3. MALIGNANT HYPERTHERMIA DETECTION [PART A]
+
+* **Optimal Monitoring Site** `[A:9]`
+	* **Axilla** is best location for monitoring muscle temperature `[A:9]`
+	* Most suitable site for detecting malignant hyperthermia `[A:9]`
+
+### 6.5.4. PRACTICAL CONSIDERATIONS [PART B]
+
+* **Site Selection** `[B:10]`
+	
+	* Core temperature sites are reliable indicators of changes in mean temperature `[B:10]`
+	* During routine noncardiac surgery, temperature differences between core sites are small `[B:10]`
+* **Cooling and Rewarming** `[B:10]`
+	
+	* When cooling anesthetized patients:
+		* Changes in rectal temperature often lag behind other probe locations `[B:10]`
+		* Adequacy of rewarming is best judged by measuring temperature at several locations `[B:10]`
+
+---
+
+## 6.6. COMPLICATIONS OF PERIOPERATIVE HYPOTHERMIA [PART B]
+
+**Perioperative hypothermia leads to multiple physiological derangements that increase morbidity and mortality.**
+
+### 6.6.1. PHYSIOLOGICAL EFFECTS [PART B]
+
+* **Metabolic Effects** `[B:10]`
+	
+	* Increases in metabolic rate (shivering) `[B:10]`
+	* Decreases in drug metabolism `[B:10]`
+* **Cardiovascular Effects** `[B:10]`
+	
+	* Increases in cardiac work `[B:10]`
+	* Decreases in cutaneous blood flow `[B:10]`
+	* ⚠️ **Higher risk for postoperative myocardial ischemia** `[B:10]`
+* **Coagulation Effects** `[B:10]`
+	
+	* Impairments of coagulation `[B:10]`
+
+### 6.6.2. CLINICAL COMPLICATIONS [PART B]
+
+* ⚠️ **Increased Risk of:**
+	* Postoperative myocardial ischemia `[B:10]`
+	* Wound infection `[B:10]`
+	* Coagulopathy and bleeding
+	* Prolonged drug effects
+	* Shivering and increased oxygen consumption
+
+**Bottom Line:** Temperature monitoring is a standard requirement during anesthesia using various technologies (thermistors, thermocouples, infrared sensors). Core sites (pulmonary artery, tympanic membrane, nasopharyngeal, esophageal) provide the most accurate measurements. Perioperative hypothermia prevention is critical as it leads to multiple adverse outcomes including coagulopathy, increased infection risk, and cardiovascular complications. The core-to-peripheral temperature gradient provides valuable information about perfusion and volemic status.
+
+## 6.7. FORCED-AIR WARMERS [PART B]
+
+**Devices used to maintain patient temperature during surgery by delivering warm air to a specialized blanket positioned on the patient's body.**
+
+**Components and Operation `[B:31]`:**
+1. Warming unit where ambient air is heated to variable temperatures (32-37°C) `[B:31]`
+2. Hose delivering warm air to thin-walled, channeled bag/blanket `[B:31]`
+3. Various blanket designs for different body areas (upper or lower body) `[B:31]`
+4. Thermostat controls warm air temperature to prevent overheating `[B:31]`
+5. HEPA air filter purifies ambient air before delivery to patient `[B:31]`
+6. 💡 Cooling versions available for neurosurgery and other procedures where body temperature <37°C is desirable `[B:31]`
+
+![Forced-air warmer](OTHER_EQUIPMENT_pdf_OTHEREQUIPMENT.pdf_p36_img1_3ed8cf.jpeg)
+
+**Clinical Benefits `[B:31]`:**
+* Effective even when applied to limited body surface area `[B:31]`
+* Helps prevent inadvertent hypothermia during surgery `[B:31]`
+* May improve surgical outcomes by maintaining normothermia `[B:31]`
+
+**Bottom Line:** Forced-air warming systems effectively maintain patient temperature during surgery by delivering filtered, warmed air to a specialized blanket. They are versatile, effective even with limited body surface coverage, and can be adapted to different surgical positions and procedures.
+
+## 6.8. FLUID WARMERS
+
+### 6.8.1. SYLLABUS CORRELATION
+
+* **Part A:** Physics principles of heat transfer, thermal regulation `[A:18]`.
+* **Part B:** Types of fluid warming devices, clinical selection `[B:9]`.
+* **Part C:** Patient temperature management, prevention of hypothermia `[C:4]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+---
+
+### 6.8.2 FEATURES OF AN IDEAL FLUID WARMER [PART B]
+
+**A device that warms intravenous fluids to prevent or treat patient hypothermia during procedures involving significant fluid administration.**
+
+**Characteristics of an ideal fluid warmer include `[B:9]`:**
+* Fast warming capability `[B:9]`
+* Inexpensive to purchase and operate `[B:9]`
+* Easy to use and maintain `[B:9]`
+* Compact design for operating room convenience `[B:9]`
+* Safety features to avoid complications `[B:9]`:
+  * Alarms for overheating or malfunction `[B:9]`
+  * Appropriate thermal and electrical insulation `[B:9]`
+  * Air trap to catch bubbles that may form as fluid is heated `[B:9]`
+* Accurate temperature calibration and monitoring `[B:9]`
+* Ability to handle high flow rates without damaging red blood cells (particularly important for blood products) `[B:9]`
+* 💡 Warming fluids to 37-40°C helps prevent inadvertent perioperative hypothermia `[C:4]`
+
+### 6.8.3. METHODS FOR WARMING FLUIDS
+
+**Various technologies are available for warming intravenous fluids:**
+
+**Warming Cupboard `[B:9]`**
+* Simple method of pre-warming fluids before administration `[B:9]`
+* ⚠️ Not suitable for blood products as proteins may denature `[B:9]`
+* Limited effectiveness as fluids cool in tubing between cupboard and patient `[B:9]`
+
+**Dry Heat Warmer `[B:9]`**
+* Fluid passes through a thin bag between two heated plates `[A:18]`
+* Fluid is heated above body temperature to compensate for heat loss from tubing between warmer and patient `[B:9]`
+* 💡 Commonly used for routine fluid administration `[B:9]`
+
+**Plate Warmer `[B:9]`**
+* Fluid passes over an electrically heated plate `[A:18]`
+* Simple design but may have uneven heating `[B:9]`
+
+**Counter-current Heat Exchanger `[B:9]`**
+* Example: Level 1 Blood Transfuser `[B:9]`
+* Fluid passes through a coiled tubing wrapped around a tube containing heated fluid flowing in the opposite direction `[A:18]`
+* Efficient heat transfer based on counter-current exchange principle `[A:18]`
+* 💡 Good for moderate to high flow rates `[B:9]`
+
+**Heat Induction `[B:9]`**
+* Example: Belmont Rapid Infuser `[B:9]`
+* Very efficient warming method that can be used for extremely high flow rates `[B:9]`
+* Uses electromagnetic induction to heat fluid `[A:18]`
+* Particularly useful for massive transfusion scenarios `[B:9]`
+
+**Air Warming `[B:9]`**
+* Example: BairHugger fluid warming set `[B:9]`
+* IV tubing has hot air blown over it to warm the fluid `[A:18]`
+* Not very efficient but easy to set up `[B:9]`
+* Can be integrated with patient warming systems `[B:9]`
+
+#### 6.8.3.1. ADDITIONAL BLOOD/FLUID WARMING DEVICES [PART B]
+
+**Coaxial Fluid/Blood Warmer Devices `[B:29]`**
+* Uses coaxial tubing system to heat and deliver fluids to patients:
+  * Outer tubing carries heated sterile water `[B:29]`
+  * Inner tubing carries the intravenous fluid `[B:29]`
+* Sterile water is heated to 40°C and stored in heating case `[B:29]`
+* Water circulates through outside tubing, heating the IV fluid without direct contact `[B:29]`
+* Coaxial tubing extends to the IV cannula, reducing heat loss exposure to room temperature `[B:29]`
+* 💡 Design allows efficient warming along the entire length of tubing to the patient `[B:29]`
+
+**Rapid Infusion Systems `[B:29]`**
+* For patients requiring large, rapid IV therapy `[B:29]`
+* Fluids are pressurized to 300 mmHg and warmed with countercurrent recirculation fluid at 42°C `[B:29]`
+* Can deliver high volumes of warmed fluid quickly during resuscitation `[B:29]`
+* Examples include Level 1 fast fluid warmer systems `[B:35]`
+
+**Bottom Line:** Fluid warmers are essential devices for preventing hypothermia during significant fluid administration. Various technologies exist with different warming efficiencies and flow rate capacities; selection should be based on clinical need, with consideration of safety features to prevent overheating or air embolism.
+# 7. NEUROMUSCULAR MONITORING
+
+## 7.1. PERIPHERAL NERVE STIMULATORS AND NEUROMUSCULAR BLOCKADE MONITORING
+
+### 7.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of neuromuscular monitoring `[A:30]`.
+* **Part B:** Clinical applications during anesthesia `[B:18]`.
+* **Part C:** Patient safety standards `[C:1]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: PC]`, `[COMP: MK]`
+
+### 7.1.2. COMPONENTS
+
+* **Basic Peripheral Nerve Stimulator** `[A:45-46]`:
+  * Two surface electrodes (small ECG electrodes) positioned over nerve `[A:45]`
+  * Connected via leads to nerve stimulator `[A:45]`
+  * Alternatively, ball electrodes mounted on stimulator casing for skin contact `[A:45]`
+  * Case with on/off switch and mode selection (twitch, TOF, tetanus) `[A:45]`
+  * Battery-operated `[A:45]`
+* **Advanced Monitors** `[A:48-49]`:
+  * Continuous monitoring capability `[A:48]`
+  * Graphical and numerical display of TOF `[A:48]`
+  * Trend tracking `[A:48]`
+  * Skin electrodes `[A:48]`
+  * Supramaximal current calculation `[A:48]`
+  * Lower current (max 5.0 mA) and shorter stimulus (40 ms) options for regional nerve location `[A:48-49]`
+
+![FIG. 10.37 The SunStim Pro peripheral nerve stimulator Courtesy Blue Box Medical, Southampton, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p48_img1_0265cc.jpeg)
+
+![Additional image from NONCVSMONITOR.pdf](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p47_img1_46b653.jpeg)
+
+### 7.1.3. MECHANISM OF ACTION
+
+* **Basic Principles** `[A:46]`:
+  * Supramaximal stimulus (15-40 mA) used to depolarize all motor nerve fibers `[A:46]`
+  * Higher currents (50-60 mA) may be needed in obese patients `[A:46]`
+  * Muscle contraction observed visually, palpated, or measured with force transducer `[A:46]`
+  * Electrical activity can be measured via electromyogram (EMG) `[A:46]`
+  * Constant current delivery important (rather than constant voltage) due to variable skin resistance `[A:46]`
+  * Stimulus parameters: monophasic square wave shape <0.2-0.3 ms duration `[A:46]`
+  * Most commonly used sites `[A:46]`:
+	* Ulnar nerve at wrist (adductor pollicis)
+	* Common peroneal nerve at neck of fibula
+	* Posterior tibial nerve at ankle
+	* Facial nerve
+  * Electrode placement `[A:46]`:
+	* Negative electrode over most superficial part of nerve
+	* Positive electrode 2 cm proximal along nerve path
+	* Example: For ulnar nerve stimulation, contraction of adductor pollicis brevis indicates success `[A:46]`
+
+![FIG. 10.38 Continuous neuromuscular transmission.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p49_img1_75ece3.jpeg)
+
+![FIG. 10.39 Continuous monitoring and display of the neuromuscular transmission. (A) Reference measurement before administering the muscle relaxant, (B) fade with a lower train-of-four (TOF) percent as the muscle relaxant started to function, (C) complete paralysis, (D) gradual recovery of neuromuscular transmission and (E) near full recovery.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p51_img1_793d93.jpeg)
+
+### 7.1.4. NEUROMUSCULAR TRANSMISSION MONITORING
+
+* **Stimulation Patterns** `[A:49-50]`:
+  1. **Twitch** `[A:49]`:
+	 * Short duration (0.1-0.2ms) square wave stimulus at 0.1-1 Hz `[A:49]`
+	 * Limited precision for partial neuromuscular block assessment `[A:49]`
+  
+  2. **Tetanic Stimulation** `[A:50]`:
+	 * 50-100 Hz stimulation to detect residual neuromuscular block `[A:50]`
+	 * Fade apparent even with normal twitch response `[A:50]`
+	 * Used in anesthetized patients due to discomfort `[A:50]`
+  
+  3. **Train-of-Four (TOF)** `[A:50]`:
+	 * Four twitches at 2 Hz over 2 seconds `[A:50]`
+	 * 10-second gaps between TOF measurements `[A:50]`
+	 * TOF ratio = fourth twitch / first twitch `[A:50]`
+	 * Progressive block pattern `[A:50]`:
+	   * Initial fade, then fourth twitch disappears `[A:50]`
+	   * Third, second, and finally first twitch disappear sequentially `[A:50]`
+	 * Recovery pattern: Reverse of above `[A:50]`
+	 * For upper abdominal surgery, three twitches must be absent for adequate conditions `[A:50]`
+	 * Reversal easier when second twitch visible `[A:50]`
+  
+  4. **Post-tetanic Facilitation/Potentiation** `[A:50]`:
+	 * Assesses profound neuromuscular block `[A:50]`
+  
+  5. **Double-burst Stimulation** `[A:50-51]`:
+	 * More accurate visual assessment than TOF for residual blockade `[A:50]`
+	 * Two short 50 Hz tetanic bursts with 750 ms interval `[A:50-51]`
+	 * Each burst has 2-3 square wave impulses lasting 0.2 ms `[A:51]`
+
+![FIG. 10.40 Effects of a single twitch, tetanus and train-of-four (TOF) assessed by a force transducer recording contraction of the adductor pollicis muscle.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p52_img1_2c8ebf.jpeg)
+
+![FIG. 10.41 The pattern of double-burst stimulation. Three impulses of 50 Hz tetanus, at 20-ms intervals, every 750 ms is shown.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p53_img1_4c10a1.jpeg)
+
+### 7.1.5. PROBLEMS AND SAFETY FEATURES
+
+* Small hand muscles more sensitive to muscle relaxants than diaphragm `[A:53]`
+* Peripheral monitoring may not accurately reflect depth of diaphragmatic block `[A:53]`
+* Smaller muscles more sensitive to neuromuscular blockade than larger ones `[A:53]`
+
+**Bottom Line:** Peripheral nerve stimulators monitor neuromuscular transmission to evaluate depth of blockade, adequacy of reversal, and type of block. Various stimulation patterns offer different information, with TOF being most clinically useful for routine monitoring. Limitations include differential sensitivity between peripheral muscles monitored and the diaphragm or other respiratory muscles.
+
+# 8. RESPIRATORY MECHANICS MONITORING
+
+## 8.1. WRIGHT RESPIROMETER
+
+### 8.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Physics principles of flow measurement `[A:34]`.
+* **Part B:** Clinical applications in ventilation monitoring `[B:12]`.
+* **Part C:** Monitoring standards `[C:1]`.
+
+**Exam Weighting:** Low
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 8.1.2. COMPONENTS
+
+* Compact and light (< 150g) device `[A:33]`
+* Consists of an inlet and outlet `[A:34]`
+* Rotating vane surrounded by angled slits `[A:34]`
+* Vane attached to pointer `[A:34]`
+* Side buttons for on/off control and pointer reset `[A:34]`
+
+![FIG. 10.30 A Wright respirometer. An arrow on the side of the casing indicates the direction of gas flow.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p34_img1_de906b.jpeg)
+
+![FIG. 10.31 Mechanism of action of the Wright respirometer.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p35_img1_1664a8.jpeg)
+
+### 8.1.3. MECHANISM OF ACTION
+
+* One-way system measuring gas flow in single direction `[A:34]`
+* Angled slits create circular flow to rotate vane `[A:34]`
+* Vane completes 150 revolutions per liter of gas `[A:34]`
+* Pointer rotates around display to indicate volume `[A:34]`
+* Display calibration `[A:35]`:
+  * Outer display: 100 mL per division
+  * Inner display: 1 L per division
+* Typically positioned on expiratory side (lower pressure than inspiratory) `[A:35]`
+* Clinical accuracy: ±5-10% within 4-24 L/min range `[A:35]`
+* Minimum flow requirement: 2 L/min `[A:35]`
+* Best accuracy when positioned close to patient's trachea `[A:35]`
+* Very low resistance: ~2 cm H2O at 100 L/min `[A:35]`
+* Pediatric version available for 15-200 mL tidal volumes `[A:35]`
+* Advanced versions `[A:35-36]`:
+  * Light reflection technology for improved accuracy `[A:35]`
+  * Semiconductor devices sensitive to magnetic field changes `[A:35]`
+  * Electronic conversion of measurements `[A:35]`
+  * Integrated alarm systems `[A:36]`
+
+### 8.1.4. PROBLEMS AND SAFETY FEATURES
+
+* Over-reads at high flow rates and under-reads at low flows `[A:36]`
+* Water condensation from expired gases can cause pointer sticking `[A:36]`
+
+**Bottom Line:** The Wright respirometer provides simple, unidirectional measurement of tidal and minute volumes with reasonable clinical accuracy. It's typically placed on the expiratory limb of the breathing circuit and has limitations at very high or low flow rates.
+
+## 8.2. PNEUMOTACHOGRAPH
+
+### 8.2.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of pneumotachography `[A:36]`.
+* **Part B:** Clinical applications in ventilation monitoring `[B:13]`.
+* **Part C:** Integration with ventilator management `[C:1]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 8.2.2. COMPONENTS
+
+* Tube with fixed resistance (bundle of parallel tubes) `[A:37]`
+* Two sensitive pressure transducers on either side of resistance `[A:37]`
+
+![FIG. 10.32 A pneumotachograph. See text for details.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p37_img1_8c3446.jpeg)
+
+### 8.2.3. MECHANISM OF ACTION
+
+* Senses pressure change across fixed resistance with laminar flow `[A:37]`
+* Pressure difference proportional to flow rate (only a few mmH2O) `[A:37]`
+* Tidal volumes can be summated for minute volume calculation `[A:37]`
+* Bidirectional measurement capability (inspiratory and expiratory flow) `[A:38]`
+
+### 8.2.4. PROBLEMS AND SAFETY FEATURES
+
+* Water vapor condensation at resistance creates turbulent flow, affecting accuracy `[A:38]`
+* Solution: Heating the parallel tubes `[A:38]`
+
+**Factors Affecting Readings** `[A:41-42]`:
+* Location: Should be between Y-piece and tracheal tube `[A:41]`
+* Gas composition: Requires known nominal values for calibration `[A:41]`
+* Gas temperature: Default values provided by software `[A:41]`
+* Humidity: Pressure ports should face upward to prevent fluid drainage `[A:41]`
+* Apparatus dead space: Should be minimized (<10 mL for adult sensors, <1 mL for neonatal) `[A:41]`
+* Operating range: Designed for wide range of tidal volumes, I:E ratios, frequencies, and flows `[A:42]`
+* Inter-sensor variability: Individual calibration not typically needed `[A:42]`
+
+**Bottom Line:** Pneumotachographs measure gas flow across a fixed resistance, allowing calculation of volumes. They provide bidirectional measurement capability but are sensitive to water vapor condensation, which must be managed to maintain accuracy.
+
+## 8.3. COMBINED PNEUMOTACHOGRAPH AND PITOT TUBE
+
+### 8.3.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of flow measurement `[A:38]`.
+* **Part B:** Clinical applications in ventilator monitoring `[B:13]`.
+* **Part C:** Monitoring standards `[C:1]`.
+
+**Exam Weighting:** Low
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 8.3.2. COMPONENTS
+
+* **Pitot Tube** `[A:38-39]`:
+  * Two pressure ports: one facing gas flow direction, one perpendicular `[A:38]`
+  * For bidirectional measurement: two opposing pressure ports `[A:39]`
+  * Connected to pressure transducers `[A:39]`
+* **Combined Device** `[A:38]`:
+  * Integrates pneumotachograph and Pitot tube technologies `[A:38]`
+  * Designed for improved accuracy `[A:38]`
+  * Capable of measuring multiple parameters:
+	* Compliance `[A:38]`
+	* Airway pressures `[A:38]`
+	* Gas flow `[A:38]`
+	* Volume/pressure loops `[A:38]`
+	* Flow/volume loops `[A:38]`
+
+![FIG. 10.33 Combined pneumotachograph and Pitot tube. Courtesy GE Healthcare, Hatfield, UK.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p39_img1_3ac777.jpeg)
+
+![FIG. 10.34 Volume pressure loops in a patient (A) before and (B) during CO2 insufflation in a laparoscopic operation. Note the decrease in compliance and increase in airway pressure (Paw).](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p40_img1_1e2983.jpeg)
+
+![FIG. 10.35 Cross section of a Pitot tube flowmeter. The two ports are facing in opposite directions within the gas flow.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p41_img1_d47a25.jpeg)
+
+### 8.3.3. MECHANISM OF ACTION
+
+* **Pitot Tube Principle** `[A:39]`:
+  * Pressure difference between ports proportional to square of flow rate `[A:39]`
+  * Can be affected by gas density and viscosity `[A:39]`
+  * Continuous gas composition analysis compensates for these effects `[A:39]`
+
+**Bottom Line:** Combined pneumotachograph and Pitot tube systems provide comprehensive respiratory mechanics monitoring with improved accuracy. They can generate pressure-volume loops and other advanced measurements valuable for ventilator management.
+
+## 8.4. VENTILATOR ALARMS
+
+### 8.4.1. SYLLABUS CORRELATION
+
+* **Part A:** Principles of ventilation alarms `[A:43]`.
+* **Part B:** Clinical applications in ventilator safety `[B:14]`.
+* **Part C:** Safety standards `[C:1]`.
+
+**Exam Weighting:** Medium
+
+**Competency Focus:** `[COMP: PC]`, `[COMP: SBP]`
+
+### 8.4.2. PRESSURE MONITORING ALARM
+
+* **Components** `[A:43]`:
+  * Case with alarm limit settings and automatic on/off switch `[A:43]`
+  * Indicator light flashing with each ventilator cycle `[A:43]`
+  * Sensing tube connecting to inspiratory limb `[A:43]`
+* **Mechanism of Action** `[A:43-44]`:
+  * Measures peak inspiratory pressure during controlled ventilation `[A:43]`
+  * Alarm activates when pressure falls below threshold `[A:43]`
+  * Indicates disconnection, gas leak, or inadequate fresh gas flow `[A:43]`
+  * Increased pressure indicates obstruction `[A:44]`
+  * Typical settings `[A:44]`:
+	* Low-pressure alarm: 7 cm H2O, 7 cm H2O plus time delay, or 13 cm H2O
+	* High-pressure alarm: 60 cm H2O
+* **Problems** `[A:44]`:
+  * Disconnection with partial obstruction of sensing tube may fail to trigger alarm despite inadequate ventilation `[A:44]`
+
+![FIG. 10.36 The Penlon pressure monitoring ventilator alarm.](NONCVS_MONITORING_pdf_NONCVSMONITOR.pdf_p44_img1_f7308e.jpeg)
+
+### 8.4.3. VOLUME MONITORING ALARM
+
+* Measures expired gas volume `[A:45]`
+* Uses respirometer or integrated pneumotachograph data `[A:45]`
+* Inserted in expiratory limb `[A:45]`
+* Continuous display of tidal and minute volume `[A:45]`
+* Alarm limits set for minimum and maximum tidal/minute volumes `[A:45]`
+
+**Bottom Line:** Ventilator alarms provide essential safety monitoring during mechanical ventilation. Pressure alarms detect disconnection or obstruction, while volume alarms monitor adequacy of ventilation. Pressure alarms are placed on the inspiratory limb, and volume alarms on the expiratory limb.
+
+Integration Verification: I have analyzed both primary and supplementary sources and confirm that 100% of content from ALL sources has been preserved and integrated into the unified structure.

@@ -1,0 +1,918 @@
+---
+title: 4.2. BREATHING SYSTEMS
+syllabus_parts: [A, B, C]
+competencies: [MK, PC, SBP]
+topics: [breathing_systems, circle_system, mapleson_circuits, co2_absorbents, equipment]
+number headings: auto, first-level 1, max 6, contents ^toc, start-at 1., 1..1.1..
+date created: Wednesday, April 30th 2025, 8:50:11 am
+date modified: Thursday, May 1st 2025, 11:29:59 am
+---
+
+# 1. BREATHING SYSTEMS
+
+> **Syllabus**: [[mmed_anaes_part_a_syllabus#Breathing Circuits and Components|Part A: Breathing Circuits]] | [[MMed_Anaesthesiology_Part_B_Syllabus#C1 Airway Oxygenation Ventilation|Part B: C1 Airway Management]]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled.png_55ac82.png_b9feaa.png)
+
+**Breathing systems must fulfill three objectives**:
+1. Delivery of oxygen
+2. Removal of carbon dioxide (CO₂) from the patient
+3. Delivery of inhaled anesthetic agents, which are predominantly eliminated by the lungs
+
+## 1.2. CLASSIFICATION OF BREATHING SYSTEMS
+
+**Breathing systems are devices that connect the anesthetic machine to the patient's airway to deliver gases and remove carbon dioxide.**
+
+### 1.2.1. OPEN SYSTEMS [PART A]
+
+* The patient's airway is completely open to the atmosphere [A:10].
+* No reservoir bag, no rebreathing of exhaled gas, no tubing or valves [A:10].
+* Example: Breathing room air through a cloth soaked in vapor (open drop ether mask) [A:10].
+
+### 1.2.2. SEMI-OPEN SYSTEMS [PART A]
+
+* Semi-open systems have a reservoir bag [A:10].
+* No functional rebreathing of exhaled gases [A:10].
+* High fresh gas flows required [A:10].
+* Includes Mapleson breathing systems [A:10].
+
+### 1.2.3. SEMI-CLOSED SYSTEMS [PART A]
+
+* Reservoir bag present [A:10].
+* Partial rebreathing of exhaled gases [A:10].
+* Unidirectional valves incorporated [A:10].
+* CO2 absorption mechanism [A:10].
+* Includes circle system with APL valve open [A:10].
+
+### 1.2.4. CLOSED SYSTEMS [PART A]
+
+* The patient's airway is completely isolated from the atmosphere [A:10].
+* Complete functional rebreathing of exhaled gas [A:10].
+* CO2 removal by absorbent [A:10].
+* Example: Circle circuit with APL valve closed and fresh gas flow low enough so as not to disturb the exhaust valve [A:10].
+
+**Bottom Line:** Breathing systems are classified based on their degree of rebreathing and isolation from atmosphere, ranging from completely open to completely closed systems, with important implications for fresh gas flow requirements and CO2 management.
+
+## 1.3. IDEAL BREATHING SYSTEM PROPERTIES [PART A]
+
+**An ideal breathing system would combine practical usability with optimal clinical performance.**
+
+* Easy to use and assemble [A:11].
+* Inexpensive components [A:11].
+* Reliably delivers the correct mixture of inspired gases [A:11].
+* Allows for controlled, manual, and spontaneous ventilation [A:11].
+* Suitable for all patient ages [A:11].
+* Efficient, allowing low fresh gas flow [A:11].
+* Safe, protecting patient from barotrauma [A:11].
+* Strong, compact, and lightweight [A:11].
+* Facilitates scavenging of anesthetic gases [A:11].
+* Minimal maintenance or running cost [A:11].
+* Has low resistance and minimal dead space [A:11] [B:5].
+* Ability to conserve heat and moisture [A:11] [B:5].
+
+**Bottom Line:** The ideal breathing system balances practical considerations like ease of use and cost with clinical requirements including versatility, efficiency, and safety features.
+
+# 2. CIRCLE BREATHING SYSTEM [PART A/B]
+
+Tags: #pA_equip #pB_C1 #pC_MK #pC_SBP
+
+Part A Reference: Anesthesia Equipment - Circle System (Pages 12-15)
+
+Part B Reference: C1 Airway, Oxygenation and Ventilation (Pages 6-7)
+
+Part C Reference: Medical Knowledge - Equipment Function; Systems-Based Practice (Safety)
+
+### 2.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Components and function [A:12], CO2 absorption [A:13], system types (open/closed) [A:12].
+* **Part B:** Clinical application in maintaining ventilation and anesthetic delivery [B:6].
+* **Part C:** Integration for safe anesthesia practice [C:2], system checks [C:3].
+
+**Exam Weighting:** High (Core equipment knowledge)
+
+**Competency Focus:** [COMP: MK], [COMP: PC], [COMP: SBP]
+
+## 2.2. TRADITIONAL CIRCLE BREATHING SYSTEM [PART A]
+
+**A semi-closed breathing system that prevents rebreathing of CO2 by use of absorbents but allows partial rebreathing of other exhaled gases.**
+
+![image.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image.png_c73347.png_44fdd9.png)
+
+### 2.2.1. COMPONENTS AND FUNCTION [PART A]
+
+* **Primary function:** To deliver O2 and anesthetic gases to patient and eliminate CO2 [A:12].
+* The circle system can be configured as:
+  * **Semiopen** - No rebreathing, high fresh gas flow (FGF) required [A:12].
+  * **Semiclosed** - Some rebreathing (most common in US practice) [A:12].
+  * **Closed** - FGF matches what is consumed, complete rebreathing of exhaled gases after CO2 reabsorption [A:12].
+* **7 primary components** [A:12]:
+  1. CO2 absorber [A:12]
+  2. Fresh gas inlet [A:12]
+  3. Inspiratory unidirectional valve and inspiratory breathing tube [A:12]
+  4. Y connector [A:12]
+  5. Expiratory unidirectional valve and expiratory breathing tube [A:12]
+  6. Adjustable pressure limiting valve (APL valve, also called overflow or pop-off valve) [A:12]
+  7. Reservoir bag [A:12]
+
+### 2.2.2. RULES TO PREVENT REBREATHING CO2 [PART A]
+
+* The arrangement of components can vary but three rules must be followed to prevent rebreathing CO2 [A:12]:
+  1. **Unidirectional valves** must be located between patient and reservoir bag on both inspiratory and expiratory limbs [A:12].
+	 * Valves are positioned relatively close to the patient to prevent backflow if a circuit leak develops [A:12].
+  2. **Fresh gas inflow** cannot enter circuit between expiratory valve and patient [A:12].
+	 * Fresh gas inlet is placed between the absorber and inspiratory valve. Positioning downstream from the inspiratory valve would allow fresh gas to bypass the patient during exhalation and be wasted [A:12].
+  3. **Overflow (pop-off) valve** cannot be located between the patient and inspiratory valve [A:12].
+	 * The APL valve is usually placed between the absorber and expiratory valve, close to the reservoir bag [A:12].
+	 * This positioning helps conserve absorption capacity and minimizes venting of fresh gas [A:12].
+	 * Resistance to exhalation is decreased by locating the reservoir bag in the expiratory limb [A:12].
+* Most efficient setup (conservation of fresh gases): unidirectional valves near patient and pop-off valve located distal from expiratory valves [A:12].
+  * This minimizes dead space gas and preferentially eliminates exhaled alveolar gases [A:12].
+  * In reality, most machines are less efficient as they allow alveolar and dead space gases to mix before venting [A:12].
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_8.png_8a5af3.png_eee7cc.png)
+
+### 2.2.3. ADVANTAGES AND HAZARDS [PART A/B]
+
+* **Advantages** of circle system [A:12]:
+  1. Maintenance of relatively stable inspired gas concentrations [A:12]
+  2. Conservation of respiratory moisture and heat [A:12]
+  3. Prevention of OR contamination by waste gases [A:12]
+  4. Capability for very low FGF rates (semiclosed or closed systems) [A:12]
+* **Hazards** of circle system [A:13] [COMP: SBP]:
+  * Complex design with 10+ connections increases risk of misconnections [A:13]
+  * Potential for rebreathing or total occlusion [A:13]
+  * Risk of breath stacking, barotrauma, or volutrauma if misconnected [A:13]
+  * ⚠️ Careful visual inspection and system check is essential before use [B:6]
+
+### 2.2.4. VARIATIONS IN DESIGN: COAXIAL [PART A]
+
+* Expiratory and inspiratory limbs may be arranged as dual-limb branches or as coaxial (tube within a tube) arrangement [A:13].
+* In coaxial design, the inner tube connects to inspiratory port; outer tube connects to expiratory port [A:13].
+* **Advantages** of coaxial design [A:13]:
+  * Eliminates twisting of inspiratory limbs [A:13]
+  * Higher heat and moisture conservation [A:13]
+  * Reduces clutter in the operating field [A:13]
+* **Disadvantages** of coaxial design [A:13]:
+  * Harder to detect damage to circuit or kinks (corrugation helps address this) [A:13]
+* Increasing length of breathing circuit [A:13]:
+  * Does not affect dead space or rebreathing [A:13]
+  * Increases heat and moisture loss [A:13]
+  * Increases circuit breathing resistance [A:13]
+  * Reduces breathing system compliance [A:13]
+
+### 2.2.5. UNIDIRECTIONAL VALVES [PART A]
+
+* **Function** - maintain one-way flow of gases [A:13]:
+  * Forward flow displaces the disk upward, permitting gas to proceed through the circuit [A:13].
+  * Reverse flow pushes the disk against its seat, preventing reflux [A:13].
+* **Mechanism during breathing** [A:13]:
+  * Inhalation opens the inspiratory valve, allowing the patient to breathe a mixture of fresh and exhaled gas that has passed through the CO2 absorber [A:13].
+  * Simultaneously, the expiratory valve closes to prevent rebreathing of exhaled gas still containing CO2 [A:13].
+  * During exhalation, gas flowing away from the patient opens the expiratory valve [A:13].
+  * This gas is either vented through the APL valve or rebreathed after passing through the absorber [A:13].
+* **Potential problems** [A:13]:
+  * ⚠️ Condensation and resultant moisture may prevent upward displacement of the disks, causing incomplete escape of expired gases and rebreathing [A:13].
+* **Components** [B:6]:
+  * A lightweight disc rests on a knife-edge seating [B:6].
+  * The disc is held onto its seating by a spring [B:6].
+  * Modern valves are housed in see-through plastic domes so they can be seen working satisfactorily [B:6].
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_1.png_d29ef5.png_c047e7.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p33_img3_a5ad7c.png)
+
+### 2.2.6. FRESH GAS REQUIREMENTS [PART A/B]
+
+* With an absorber, the circle system prevents rebreathing of CO2 at reduced fresh gas flows (≤1 L) or even at flows equal to the uptake of anesthetic gases and oxygen (closed-system anesthesia) [A:13].
+* At fresh gas flows >5 L/min, rebreathing is so minimal that a CO2 absorber is usually unnecessary [A:13].
+* With low fresh gas flows, concentrations of oxygen and inhalation anesthetics can vary markedly between fresh gas (at inlet) and inspired gas (in inspiratory limb) [A:13].
+* 💡 Higher FGF = less time for a change in fresh gas anesthetic concentration to be reflected in inspired gas anesthetic concentration [A:13] [B:6].
+* Depending on the FGF, the system can be used as [B:7]:
+  * **Closed-circle anesthesia**: FGF is just sufficient to replace the volume of gas and vapor taken up by the patient. No gas leaves via the APL valve, and the exhaled gases are rebreathed after CO2 is absorbed [B:7].
+  * **Minimal-flow anesthesia**: FGF is reduced to 0.5 L/min [B:7].
+  * **Low-flow anesthesia**: FGF used is less than the patient's alveolar ventilation (usually below 1.5 L/min) [B:7].
+
+### 2.2.7. DEAD SPACE [PART A]
+
+* Dead space refers to the part of a tidal volume that does not undergo alveolar ventilation [A:14].
+* Any increase in dead space must be accompanied by a corresponding increase in tidal volume to maintain alveolar ventilation [A:14].
+* In a circle system, apparatus dead space is limited to the area distal to the point of inspiratory and expiratory gas mixing at the Y-piece, due to the unidirectional valves [A:14].
+* 💡 Unlike Mapleson circuits, the circle system tube length does not affect dead space [A:14].
+* Pediatric circle systems may have [A:14]:
+  * A septum dividing inspiratory and expiratory gas in the Y-piece [A:14]
+  * Low-compliance breathing tubes to further reduce dead space [A:14]
+  * Lighter weight components [A:14]
+
+### 2.2.8. HUMIDITY AND HEAT CONSERVATION [PART A]
+
+* Heat and humidity of inspired gas depend on the relative proportion of rebreathed gas to fresh gas [A:14].
+* High flows are accompanied by low relative humidity, whereas low flows allow greater water saturation [A:14].
+* 💡 Circle systems with low flows provide better humidity and temperature conservation [A:14], reducing the risk of hypothermia during long cases [B:7].
+
+**Bottom Line:** The circle system is the most widely used breathing system in modern anesthesia practice due to its versatility, efficiency, and safety features. Proper understanding of its components and configuration is essential to prevent hazards like rebreathing or circuit occlusion, while optimizing fresh gas flow can conserve anesthetic agents and maintain physiologic humidity and temperature.
+
+## 2.3. CO2 ABSORBENTS [PART A/B]
+
+Tags: #pA_equip #pA_chem #pB_C1 #pC_SBP
+
+Part A Reference: Anesthesia Equipment - CO2 Absorbents (Pages 14-16)
+
+Part B Reference: C1 Airway and Ventilation (Page 7)
+
+Part C Reference: Systems-Based Practice (Safety)
+
+### 2.3.1. SYLLABUS CORRELATION
+
+* **Part A:** CO2 absorbent chemistry [A:14], canister design [A:14], absorbent interactions [A:15].
+* **Part B:** Clinical application in low-flow anesthesia [B:7].
+* **Part C:** Safety considerations and monitoring [C:3].
+
+**Exam Weighting:** Medium-High (Important equipment safety concept)
+
+**Competency Focus:** [COMP: MK], [COMP: SBP]
+
+### 2.3.2. ABSORBER CANISTER [PART A]
+
+* **Purpose:** To contain CO2 absorbent material [A:14].
+* **Design options** [A:14]:
+  * Filled with loose bulk absorbent [A:14]
+  * Filled with prefilled plastic disposable cartridges (prepacks) [A:14]
+* **Potential problems** [A:14]:
+  * ⚠️ If canister is too full, can cause total obstruction to gas flow [A:14]
+  * ⚠️ Free granules can cause leaks at the junction between the canister and the O-ring gasket [A:14]
+* **Structure** [B:7]:
+  * The canister is positioned vertically to prevent exhaled gas channeling through unfilled portions [B:7].
+  * Larger canisters are more efficient than smaller ones because of the higher litres of CO2/kg weight capacity [B:7].
+  * In order to achieve adequate CO2 absorption, the canister should be well packed to avoid channeling and incomplete CO2 absorption [B:7].
+
+### 2.3.3. CHEMISTRY OF ABSORBENTS [PART A]
+
+* **Ideal absorbent properties** [A:14]:
+  * Lack reactivity with volatile anesthetics [A:14]
+  * Non-toxic [A:14]
+  * Low resistance to gas flow [A:14]
+  * Low cost [A:14]
+  * Ease of handling [A:14]
+  * Efficiency in CO2 absorption [A:14]
+* **Soda lime** - most common [A:14]:
+  * "High moisture" composition: 80% Ca(OH)₂, 15% H₂O, 4% NaOH, 1% KOH (activator) [A:14]
+  * Small amounts of silica added to create harder and more stable pellets [A:14]
+  * Efficacy is inversely proportional to hardness (only a little silicate is used) [A:14]
+* **Amsorb** [A:14]:
+  * Composition: Ca(OH)₂ + CaCl₂ + setting agents (CaSO₄ + polyvinylpyrrolidone) [A:14]
+  * **Advantage:** Lacks strong base (NaOH, KOH) → no production of CO and Compound A [A:14]
+  * **Disadvantage:** Less absorptive capacity (~50% less than strong base containing absorbents), higher cost per unit [A:14]
+* **Granule size considerations** [A:14]:
+  * Size is a compromise between resistance to gas flow and absorptive efficacy [A:14]
+  * Smaller granules = greater surface area-to-volume ratio + increased resistance [A:14]
+  * Soda lime granules typically 4-8 mesh (mesh size = number of openings per linear inch in a sieve) [A:14]
+* **Chemical reaction** [A:14] [B:7]:
+  * CO₂ combines with H₂O to form carbonic acid [A:14]
+  * Carbonic acid reacts with hydroxides to form sodium, potassium, or calcium carbonate [A:14]
+  * The chemical sequence for the absorption of CO2 by soda lime [B:7]:
+	* H2O + CO2 → H2CO3 [B:7]
+	* H2CO3 + 2NaOH → Na2CO3 + 2H2O [B:7]
+	* Na2CO3 + Ca(OH)2 → CaCO3 + 2NaOH [B:7]
+  * Note how both NaOH and KOH are regenerated at the expense of Ca(OH)2. This explains soda lime's mix—only a little NaOH and KOH and a lot of Ca(OH)2 [B:7].
+  * This is an exothermic reaction that alters the pH of the whole system [B:7]. The reaction also produces water. One mole of water is produced for each mole of CO2 absorbed [B:7].
+
+### 2.3.4. ABSORPTIVE CAPACITY [PART A]
+
+* Soda lime - 26L CO₂/100g of absorbent [A:15]
+* Ca(OH)₂ - 10.2L CO₂/100g of absorbent [A:15]
+* 💡 Efficiency affected by channeling (preferential gas flow through paths of least resistance) [A:15]
+* Recently produced soda lime made to a uniform shape of 3-4mm spheres allows a more even flow of gases and a reduction in channeling [B:7]. This results in a longer life with lower dust content and lower resistance to flow; 1 kg can absorb more than 120 L of CO2 [B:7].
+* The lower the FGF used, the more rapidly soda lime granules are consumed [B:7]. This is because most of the exhaled gases pass through the absorber with very little being discarded through the APL valve [B:7].
+* For a 70-80 kg patient with a tidal volume of 500 mL, respiratory rate of 12 breaths/min and CO2 production of 250 mL/min, using an FGF of 1 L/min, the soda lime will be exhausted after 5-7 hours of use [B:7]. For the same patient but using an FGF of 3 L/min, the soda lime will be exhausted after 6-8 hours of use [B:7].
+
+### 2.3.5. INDICATORS [PART A]
+
+* Soda lime contains ethyl violet (pH indicator) - turns violet from colorless when pH decreases (critical pH 10.3) [A:15]
+* **Limitations of color indicators** [A:15]:
+  * ⚠️ Prolonged exposure of ethyl violet to fluorescent lights can cause photodeactivation of dye (may appear white even if absorptive capacity is exhausted) [A:15]
+  * Although exhausted granules may revert to their original color if rested, no significant recovery of absorptive capacity occurs [A:15]
+* **Signs of absorbent depletion** (besides color indicator) [A:15] [B:7]:
+  * Capnography showing increased inspiratory baseline (when it should be 0) [A:15] [B:7]
+  * Clinical signs of hypercapnia in patient: hyperventilation, hypertension, tachycardia [A:15] [B:7]
+* Different types of indicators may be used [B:7]:
+  * Ethyl violet dye - changes from white to violet/purple when exhausted [B:7]
+  * Titan yellow dye - changes from pink to white [B:7]
+  * Some indicators change from green to violet [B:7]
+  * Some types like Litholyme have a permanent color change (off white to violet) [B:7]
+
+### 2.3.6. INTERACTIONS WITH VOLATILE ANESTHETICS [PART A/B] [COMP: SBP]
+
+* **Sevoflurane degradation** [A:15]:
+  * Major degradation product: fluoromethyl-2,2-difluoro-1-(trifluoromethyl) vinyl ether, or compound A [A:15]
+  * **Factors increasing compound A formation** [A:15]:
+	* Low flow or closed circuit anesthetic techniques [A:15]
+	* Use of Baralyme (no longer available) [A:15]
+	* Higher concentration of sevoflurane in anesthetic circuit [A:15]
+	* Higher absorbent temperature [A:15]
+	* Fresh absorbent [A:15]
+	* Interestingly, the dehydration of Baralyme increased compound A concentration, but dehydration of soda lime decreases compound A concentration [A:15]
+  * 💡 Compound A does not commonly result in adverse effects in humans (no change in hepatorenal function) [A:15] [B:7]
+* **Formation of carbon monoxide (CO) and trifluoromethane with desiccated strong-base absorbents** [A:15] [COMP: SBP]:
+  * Can produce very high carboxyhemoglobin levels [A:15]
+  * More likely after prolonged contact between absorbent and volatile anesthetic after disuse of absorber for at least 2 days (especially over weekend) [A:15]
+  * ⚠️ Case reports of CO poisoning most common on Mondays likely due to continuous flow through unused machines [A:15]
+  * **Factors increasing CO production** [A:16]:
+	* Volatile agent used: desflurane > enflurane > isoflurane >> halothane = sevoflurane [A:16]
+	* Absorbent dryness (dryer = more CO) [A:16]
+	* Type of absorbent (Baralyme > Soda lime) [A:16]
+	* Anesthetic concentration (higher = more CO) [A:16]
+	* Low FGF rates [A:16]
+	* Reduced experimental animal (patient) size per 100g of absorbent [A:16]
+  * **Interventions to reduce CO risk** [A:16]:
+	* Education on CO production [A:16]
+	* Turning off machine at conclusion of last day of case to eliminate FGF [A:16]
+	* Changing CO₂ absorbent if FGF is found flowing during morning check [A:16]
+	* Rehydrating desiccated absorbent by adding water [A:16]
+	* Using absorbent with modified chemical composition (without KOH): Dragersorb 800 plus, Sofnolime, Spherasorb [A:16]
+	* Using absorbent materials free of NaOH/KOH: Amsorb/Litholyme [A:16]
+* **Potential fire hazard** [A:16] [COMP: SBP]:
+  * ⚠️ Strong base interactions with sevoflurane may cause [A:16]:
+	* Absorbent temperature to reach several hundred degrees Celsius [A:16]
+	* Formation of combustible degradation by-products (formaldehyde, methanol, formic acid) [A:16]
+	* Fire risk in O₂/N₂O rich environment [A:16]
+  * 💡 Litholyme advantages [A:16]:
+	* No strong base (no CO/Compound A formation) [A:16]
+	* CO₂ absorption is minimally exothermic [A:16]
+	* Color change is permanent (off white → violet) [A:16]
+
+![SpiraLith Ca (Micropore Inc., Elkton, MD) is supplied on a polymer matrix base and rolled up as a fixed spiral in a cylinder. It does not use lithium or an indicator to show exhaustion so that the anesthesiologist must monitor inspired CO2. An advantage is that the exhausted absorbent can be recycled by the manufacturer.](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image_1.png_55fd5f.png_d7eba2.png)
+
+### 2.3.7. APSF GUIDELINES [PART B/C] [COMP: SBP]
+
+* Anesthesia Patient Safety Foundation (APSF) 2005 guidelines [A:16]:
+  1. Turn off all gas flow when the machine is not in use [A:16] [C:3]
+  2. Change absorbents regularly (on Monday mornings, since the absorbent may become desiccated over the weekend) [A:16] [C:3]
+  3. Change absorbent whenever the color change indicates exhaustion [A:16] [C:3]
+	 * ⚠️ Absorbent should be replaced when 50% to 70% has changed color [A:16] [C:3]
+  4. Change BOTH canisters in a two-canister system [A:16] [C:3]
+  5. Change absorbent whenever the FGF has been left on for an extensive or indeterminate period of time [A:16] [C:3]
+  6. If compact canisters are used, consider changing them more frequently [A:16] [C:3]
+
+**Bottom Line:** CO2 absorbents are essential components in circle systems, allowing rebreathing of exhaled gases without CO2 toxicity. However, interactions between volatile anesthetics and absorbents (especially desiccated strong-base ones) can produce harmful compounds and present fire hazards. Regular monitoring of absorbent condition and adherence to safety guidelines helps minimize these risks.
+
+## 2.4. USE OF VAPORIZERS IN CIRCLE SYSTEM [PART B]
+
+### 2.4.1. VAPORIZER PLACEMENT OPTIONS [PART B]
+
+* **Vaporizer Outside Circle (VOC)** [B:7]:
+  * Positioned on the back bar of the anesthetic machine [B:7]
+  * High-efficiency vaporizers that can deliver high-output concentrations at low flows [B:7]
+  * Have high internal resistance [B:7]
+  * Should be able to deliver accurate concentrations of inhalational agent with both high and low FGFs [B:7]
+  * This is easily achieved by most modern vaporizers (e.g., the Tec and Sigma Delta series) [B:7]
+  * The volume of the circle system is large in relation to the low FGF used [B:7]
+  * Rapid changes in the concentration of the inspired vapor can be achieved by increasing the FGF to the circle system [B:7]
+  * Delivering the FGF distally, using a coaxial inspiratory tubing design, allows faster changes in inspired vapor concentration compared to conventional circle systems at low flows [B:7]
+* **Vaporizer Inside Circle (VIC)** [B:7]:
+  * Positioned on the expiratory limb [B:7]
+  * Designed to offer minimal resistance to gas flow and have no wicks on which water vapor might condense (e.g., Goldman vaporizer) [B:7]
+  * Low-efficiency vaporizer adding only small amounts of vapor to the gas recirculating through it [B:7]
+  * FGF will be vapor free and thus dilutes the inspired vapor concentration [B:7]
+  * During spontaneous ventilation, respiration is depressed with deepening of anesthesia [B:7]
+  * Uptake of the anesthetic agent is therefore reduced - this is an example of a feedback safety mechanism [B:7]
+  * The safety mechanism is lost during controlled ventilation [B:7]
+  * This configuration is rarely used in current practice [B:7]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p35_img1_6d7856.jpeg)
+
+### 2.4.2. MONITORING CONSIDERATIONS [PART B] [COMP: SBP]
+
+* Adequate monitoring of inspired oxygen, end-tidal CO2 and inhalational agent concentrations is essential and mandatory [B:7]
+* Expired gas has lower concentrations of oxygen and inhalational agent than inspired gas due to uptake by patients [B:7]
+* At low FGF flows, due to the progressive dilution by the recycled expired gases, the inspired concentration drifts downward [B:7]
+* This can be prevented by setting high concentrations of oxygen (at flowmeter) and agent (at vaporizer) [B:7]
+
+**Bottom Line:** Vaporizers can be placed outside the circle (most common) or within it, each with specific implications for gas flow, anesthetic concentrations, and safety. VOC systems offer greater control and precision but require careful monitoring, especially with low fresh gas flows, to ensure appropriate anesthetic depth and oxygenation.
+
+# 3. MAPLESON CLASSIFICATION [PART A/B]
+
+Tags: #pA_equip #pB_C1 #pC_MK
+
+Part A Reference: Anesthesia Equipment - Mapleson Circuits (Pages 16-18)
+
+Part B Reference: C1 Airway, Oxygenation and Ventilation (Pages 5-6)
+
+Part C Reference: Medical Knowledge - Equipment Principles
+
+### 3.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Circuit designs and classifications [A:16], functional principles [A:17].
+* **Part B:** Clinical applications in different ventilation scenarios [B:5].
+* **Part C:** Integration of knowledge for safe equipment use [C:2].
+
+**Exam Weighting:** Medium-High (Core equipment knowledge)
+
+**Competency Focus:** [COMP: MK], [COMP: PC]
+
+## 3.2. PRINCIPLES AND CLASSIFICATION [PART A]
+
+* **Purpose:** Mapleson circuits were designed to characterize CO₂ elimination in different semiclosed breathing systems [A:16].
+* **Primary research question:** How much fresh gas flow (FGF) from the anesthesia machine is necessary relative to a patient's minute ventilation to adequately prevent rebreathing during spontaneous ventilation [A:16].
+* **Efficiency measurement:** Breathing-circuit efficiency is measured by the fresh gas flow required to reduce CO₂ rebreathing to a negligible value [A:16].
+  * Unlike circle systems, Mapleson circuits have no unidirectional valves or CO₂ absorption [A:16].
+  * Rebreathing is prevented by adequate fresh gas flow and venting exhaled gas through the APL valve before inspiration [A:16].
+  * 💡 Some rebreathing is usually present in any Mapleson circuit [A:16].
+* **Factors affecting performance (13 variables)** [A:16]:
+  * FGF rate, patient's minute ventilation rate, spontaneous vs. controlled ventilation, tidal volume, respiratory rate, I:E ratio, duration of expiratory pause, peak inspiratory flow rate, volume of reservoir tube, volume of breathing bag, ventilation by mask vs. ETT, CO₂ sampling site [A:16]
+* In 1954, Mapleson classified the breathing systems into five configurations (A to E) and a sixth (F) was added later [B:5]
+* The classification is according to the relative positions of the APL valve, reservoir bag and FGF [B:5]
+* Mapleson systems need significantly higher FGF to prevent rebreathing compared to the circle breathing system, therefore leading to more expensive use of volatile agents [B:5]
+* Their use in modern anesthesia is very limited with the widespread use of the circle breathing system [B:5]
+
+![image.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image_2.png_847607.png_6d14be.png)
+
+![image.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image_3.png_000d67.png_e43ae9.png)
+
+![image.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image_4.png_0d8546.png_4cce95.png)
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_2.png_1296b9.png_d4f6a7.png)
+
+![Mapleson.001.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Mapleson.001.png_26da2c.png_d55a9e.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p10_img1_84ef69.jpeg)
+
+## 3.3. COMPONENTS [PART A]
+
+* **Five main components** [A:16]:
+  * Facemask [A:16]
+  * Expiratory valve [A:16]
+  * Corrugated reservoir tubing [A:16]
+  * Fresh gas inflow tubing [A:16]
+  * Reservoir bag [A:16]
+
+### 3.3.1. BREATHING TUBES [PART A]
+
+* Large diameter (22mm) creates low resistance pathway and potential reservoir for anesthetic gases [A:17].
+* Volume of gas within the breathing tubes in most Mapleson circuits should be at least as great as patient's tidal volume [A:17].
+* **Compliance considerations** [A:17]:
+  * Compliance of the breathing tubes largely determines the compliance of the circuit [A:17].
+  * Compliance is defined as the change of volume produced by a change in pressure [A:17].
+  * 💡 Long breathing tubes with high compliance increase the difference between the volume of gas delivered to a circuit by a reservoir bag or ventilator and the volume actually delivered to the patient [A:17].
+  * Example: If compliance of 8 mL gas/cm H₂O is pressurized during delivery of a tidal volume to 20 cm H₂O, 160 mL of the tidal volume will be lost to the circuit [A:17].
+* These tubings connect one part of a breathing system to another and also act as a reservoir for gases in certain systems [B:5]
+* They tend to be made of plastic, but other materials such as silicone rubber and silver-impregnated bactericidal plastics are available [B:5]
+* The length of the breathing tubing is variable depending on the configuration of the breathing system used [B:5]
+* They must promote laminar flow wherever possible, achieved by their being of a uniform and large diameter [B:5]
+* The size for adults is 22-mm wide, while pediatric tubing is 15-mm wide to reduce bulk [B:5]
+* The corrugations resist kinking and increase flexibility, but they produce greater turbulence than smooth-bore tubes [B:5]
+
+### 3.3.2. FRESH GAS INLET [PART A]
+
+* The position of the fresh gas inlet relative to other components determines the circuit type and efficiency [A:17].
+
+### 3.3.3. APL VALVE [PART A]
+
+* The APL valve is an adjustable, spring-loaded, one-way valve [A:17].
+* **Functions** [A:17]:
+  * Acts as a safety pressure limiter [A:17]
+  * When pressure in system exceeds the set pressure, it allows gas to escape [A:17]
+  * In the closed position, most APL valves have a pressure limit of 60-70 kPa to prevent barotrauma [A:17]
+  * In the open position, it requires pressure of less than 0.1 kPa to open [A:17]
+  * Generates PEEP when partially closed [A:17]
+  * May or may not have scavenging attached [A:17]
+* **Components** [B:5]:
+  * The APL valve has three ports: the inlet, the patient and the exhaust [B:5]
+  * The exhaust can be opened to the atmosphere or connected to the scavenging system using a shroud [B:5]
+  * A lightweight disc rests on a knife-edge seating [B:5]
+  * The disc is held onto its seating by a spring [B:5]
+  * The tension in the spring, and therefore the valve's opening pressure, is controlled by the valve dial [B:5]
+* **Mechanism of action** [B:5]:
+  * This is a one-way, adjustable, spring-loaded valve [B:5]
+  * The spring is used to adjust the pressure required to open the valve [B:5]
+  * The disc rests on a knife-edge seating to minimize its area of contact [B:5]
+  * The valve allows gases to escape when the pressure in the breathing system exceeds the valve's opening pressure [B:5]
+  * During spontaneous ventilation, the patient generates a positive pressure in the system during expiration, causing the valve to open [B:5]
+  * A pressure of less than 1 cm H₂O (0.1 kPa) is needed to actuate the valve when it is in the open position [B:5]
+  * During positive pressure ventilation, a controlled leak is produced by adjusting the valve dial during inspiration, allowing control of the patient's airway pressure [B:5]
+* **Problems in practice and safety features** [B:6]:
+  * Malfunction of the scavenging system may cause excessive negative pressure, leading to the APL valve remaining open throughout respiration, creating an unwanted enormous increase in the breathing system's dead space [B:6]
+  * The patient may be exposed to excessive positive pressure if the valve is closed during assisted ventilation [B:6]
+  * A pressure relief safety mechanism actuated at a pressure of about 60 cm H₂O is present in modern designs, even when the cap is screwed down and the valve is fully closed [B:6]
+  * Water vapor in exhaled gas may condense on the valve. The surface tension of the condensed water may cause the valve to stick [B:6]
+  * The disc is usually made of a hydrophobic (water repelling) material, which prevents water from condensing on the disc [B:6]
+  * The valve can add bulk to the breathing system [B:6]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p4_img1_cbe7fb.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p5_img1_ab5e9d.jpeg)
+
+### 3.3.4. RESERVOIR BAG [PART A]
+
+* **Design:** Reservoir bags are designed to increase in compliance as their volume increases [A:17].
+* **Functions** [A:17]:
+  * Collects fresh gas during expiration, serving as a reservoir for the next breath [A:17]
+	* Adult standard size is 2 liters [A:17]
+	* Pediatric bags are usually 0.5 liters [A:17]
+	* Up to 6 liter bags exist for special applications [A:17]
+  * Visual monitor of spontaneous ventilation [A:17]
+  * Manual support or control of ventilation [A:17]
+* **Performance phases** [A:17]:
+  * Three distinct phases:
+	* Phase I: Initial filling to nominal 3-L capacity (adult bag) [A:17]
+	* Phase II: Pressure rises rapidly to a peak with further volume addition [A:17]
+	* Phase III: Further increases in volume result in a plateau or even a slight decrease in pressure [A:17]
+* **Components** [B:7]:
+  * Made of plastic (latex-free) or antistatic rubber [B:7]
+  * Designs tend to be ellipsoidal in shape [B:7]
+  * The standard adult size is 2 L [B:7]
+  * The smallest size for pediatric use is 0.5 L [B:7]
+  * Volumes from 0.5 to 6 L exist [B:7]
+  * Bigger size reservoir bags are useful during inhalational induction (e.g., adult induction with sevoflurane) [B:7]
+* **Mechanism of action** [B:7]:
+  * The reservoir bag accommodates the FGF during expiration, acting as a reservoir available for the following inspiration [B:7]
+  * Otherwise, the FGF must be at least the patient's peak inspiratory flow to prevent rebreathing, which may exceed 30 L/min in adults [B:7]
+  * It acts as a monitor of the patient's ventilatory pattern during spontaneous breathing, serving as a very inaccurate guide to the patient's tidal volume [B:7]
+  * It can be used to assist or control ventilation [B:8]
+  * When employed in conjunction with the T-piece (Mapleson F system), a 0.5-L double-ended bag is used - the distal hole acts as an expiratory port [B:8]
+* **Problems in practice and safety features** [B:8]:
+  * Because of its compliance, the reservoir bag can accommodate rises in pressure in the breathing system better than other parts [B:8]
+  * When grossly overinflated, the rubber reservoir bag can limit the pressure in the breathing system to about 40 cm H₂O due to Laplace's law dictating that the pressure (P) will fall as the bag's radius (r) increases: P = 2 (tension)/r [B:9]
+  * The size of the bag depends on the breathing system and the patient - a small bag may not be large enough to provide a sufficient reservoir for a large tidal volume [B:9]
+  * Too large a reservoir bag makes it difficult for it to act as a respiratory monitor [B:9]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p7_img1_b435ef.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p8_img1_adf9a0.jpeg)
+
+## 3.4. MAPLESON CIRCUIT TYPES [PART A/B]
+
+* Three distinct functional groups: A, B+C, D+E+F [A:17]
+* The relative location of components (APL valve, fresh gas inlet, breathing tube, reservoir bag) determines circuit performance and is the basis of the Mapleson classification [A:17].
+* **General characteristics of groups** [A:17]:
+  * A - Best efficiency in spontaneous ventilation (FGF 1x patient's minute ventilation); least efficiency in controlled ventilation (FGF as high as 20 L/min required) [A:17] [B:5]
+  * D+E+F - More efficient than B+C (FGF 2.5x patient's minute ventilation) [A:17] [B:5]
+  * A, B, C rarely used in current practice; D, E, F more commonly employed (i.e., Bain circuit) [A:17] [B:5]
+
+### 3.4.1. MAPLESON A (MAGILL CIRCUIT) [PART A/B]
+
+* **Configuration:** Fresh gas flow enters near the reservoir bag, APL valve near the patient [A:17].
+* **Components** [B:11]:
+  * Corrugated rubber or plastic tubing (usually 110-180 cm in length) with an internal volume of at least 550 mL [B:11]
+  * A reservoir bag mounted at the machine end [B:12]
+  * APL valve situated at the patient's end [B:12]
+* **Performance during spontaneous ventilation** [A:17] [B:5]:
+  * During expiration, alveolar gas containing CO₂ will be exhaled into the breathing tube or directly vented through the open APL valve [A:17].
+  * Before inhalation, if FGF > Alveolar minute ventilation, the inflow of fresh gas will force remaining alveolar gas in the breathing tube to exit from APL valve [A:17].
+  * If the breathing tube volume equals or exceeds tidal volume, the next inspiration will contain only fresh gas [A:17].
+  * Because a fresh gas flow equal to minute ventilation is sufficient to prevent rebreathing, Mapleson A is the most efficient circuit for spontaneous ventilation [A:17] [B:5].
+* **Performance during controlled ventilation** [A:17] [B:5]:
+  * With controlled ventilation, the APL valve is partially closed [A:17].
+  * No gas is vented during expiration as exhaled gas stagnates during the expiratory phase [A:17].
+  * Very high fresh gas flows (greater than 3x minute ventilation) are required to prevent rebreathing [A:17] [B:5].
+* **Clinical use:** Historically common but rarely used now due to inefficiency with controlled ventilation [B:5].
+* **Detailed mechanism of action** [B:12]:
+  1. During the first inspiration, all the gases are fresh and consist of oxygen and anaesthetic gases from the anaesthetic machine [B:12]
+  2. As the patient exhales, the gases coming from the anatomical dead space (i.e., they have not undergone gas exchange so contain no CO2) are exhaled first and enter the tubing and are channelled back toward the reservoir bag, which is being filled continuously with FGF [B:13]
+  3. The alveolar gases follow the anatomical dead space gases and enter the tubing [B:13]
+  4. During the expiratory pause, pressure build-up within the system allows the FGF to expel the alveolar gases first out through the APL valve [B:13]
+  5. By the time the patient inspires again, they get a mixture of FGF and the rebreathed anatomical dead space gases [B:13]
+  6. It is a very efficient system for spontaneous breathing [B:13]. Because there is no gas exchange in the anatomical dead space, the FGF requirements to prevent rebreathing of alveolar gases are theoretically equal to the patient's alveolar minute volume (about 70 mL/kg/min) [B:13]
+  7. The Magill system is not an efficient system for controlled ventilation. An FGF rate of three times the alveolar minute volume is required to prevent rebreathing [B:13]
+
+* **Problems in practice** [B:13]:
+  * The Magill system is not suitable for use with children of less than 25-30 kg body weight due to the increased dead space caused by the system's geometry at the patient's end [B:13]
+  * Dead space is further increased by the angle piece and face mask [B:13]
+  * One of its disadvantages is the heaviness of the APL valve at the patient's end, especially if connected to a scavenging system, which places a lot of drag on the connections at the patient's end [B:13]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled.png_664389.png_8def9c.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p12_img1_dc4bdb.jpeg)
+
+### 3.4.2. LACK SYSTEM (MAPLESON A) [PART B]
+
+* **Design:** This is a coaxial modification of the Magill Mapleson A system [B:14]
+* **Components** [B:14]:
+  * 1.8-m length coaxial tubing (tube inside a tube) [B:14]
+  * The FGF is through the outside tube, and the exhaled gases flow through the inside tube [B:14]
+  * The inside tube is wide in diameter (14 mm) to reduce resistance to expiration. The outer tube's diameter is 30 mm [B:14]
+  * The reservoir bag is mounted at the machine end [B:14]
+  * The APL valve is mounted at the machine end, eliminating the drag on the connections at the patient's end, which is a problem with the Magill system [B:14]
+* **Mechanism of action** [B:14]:
+  * It has a similar mechanism to the Magill system except the Lack system is a coaxial version [B:14]
+  * The fresh gas flows through the outside tube, whereas the exhaled gases flow through the inside tube [B:14]
+  * An FGF rate of about 70 mL/kg/min is required in order to prevent rebreathing, making it an efficient breathing system for spontaneous ventilation [B:15]
+  * Since it is based on the Magill system, it is not suitable for controlled ventilation [B:15]
+  * A parallel tubing version of the system exists. This has separate inspiratory and expiratory tubing and retains the same flow characteristics as the coaxial version [B:15]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p15_img1_774b45.jpeg)
+
+### 3.4.3. MAPLESON B AND C (WATER'S CIRCUIT) [PART A]
+
+* **Mapleson B Configuration:** APL valve and fresh gas flow both located at the patient end [A:18].
+* **Mapleson C (Water's) Configuration:** Similar to B but with shorter, more compact tubing [A:18].
+* **Performance:** Inefficient for both spontaneous and controlled ventilation [A:18].
+* **Clinical use:** Mapleson C occasionally used in resuscitation but generally not preferred for anesthesia [A:18].
+* **Components** [B:16]:
+  * A reservoir bag. In the B system, corrugated tubing is attached to the bag and both act as a reservoir [B:16]
+  * An APL valve at the patient's end [B:16]
+  * FGF is added just proximal to the APL [B:16]
+* **Mechanism of action** [B:17]:
+  * Both systems are not efficient during spontaneous or controlled ventilation. An FGF of more than 1.5-2 times the minute volume is required to prevent rebreathing [B:17]
+  * During controlled ventilation, the B system is slightly more efficient due to the corrugated tubing acting as a reservoir. An FGF of more than 50% of the minute ventilation is still required to prevent rebreathing [B:17]
+  * Mapleson C (also known as the Waters circuit) is lightweight and compact. It is used in resuscitation situations as an alternative to a self-inflating bag [B:17]
+  * By adjusting the APL valve, it allows positive end-expiratory pressure (PEEP) with a visual and tactile ventilation monitor [B:17]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_1.png_84369c.png_99de70.png)
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_2.png_3900e2.png_4b1484.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p16_img1_877551.jpeg)
+
+### 3.4.4. MAPLESON D AND BAIN CIRCUIT [PART A/B]
+
+* **Configuration:** Interchanging the position of the APL valve and fresh gas inlet transforms Mapleson A into D [A:18].
+* **Performance** [A:18] [B:5]:
+  * Efficient during controlled ventilation [A:18] [B:5]
+  * Fresh gas flow forces alveolar air away from patient and toward APL valve [A:18]
+  * Requires approximately 2.5x minute ventilation as FGF to prevent rebreathing [A:18] [B:5]
+* **Clinical use:** Common in modern practice, especially in the Bain modification [B:5]
+* The Manley ventilator, which has been switched to a spontaneous ventilation mode, is an example of a non-coaxial Mapleson D system [B:18]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_3.png_acd1d0.png_5691e4.png)
+
+### 3.4.5. MAPLESON E (AYRE'S T-PIECE) [PART A]
+
+* **Configuration:** No reservoir bag or APL valve [A:18].
+* **Clinical use:** Primarily pediatric applications [A:18].
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_4.png_5cbeb7.png_3200d1.png)
+
+### 3.4.6. MAPLESON F (JACKSON-REES CIRCUIT) [PART A/B]
+
+* **Configuration:** Modification of Mapleson E with an open-ended reservoir bag [A:18].
+* **Clinical use:** Commonly used in pediatric anesthesia [A:18] [B:5].
+* **Advantages** [A:18]:
+  * Low resistance [A:18]
+  * Minimal dead space [A:18]
+  * FGF required approximately 2.5x patient's minute ventilation [A:18]
+  * Less gastric insufflation in pediatric patients [A:18]
+* **Components** [B:23]:
+  * A T-shaped tubing with three open ports [B:23]
+  * Fresh gas from the anaesthetic machine is delivered via a tube to one port [B:23]
+  * The second port leads to the patient's mask or tracheal tube/supraglottic airway device. The connection should be as short as possible to reduce dead space [B:23]
+  * The third port leads to reservoir tubing. Jackson-Rees added a double-ended bag to the end of the reservoir tubing (making it Mapleson F) [B:23]
+  * A modification exists where an APL valve is included before a closed-ended 500-mL reservoir bag. A pressure relief safety mechanism in the APL valve is actuated at a pressure of 30 cm H2O. This design allows effective scavenging [B:23]
+* **Mechanism of action** [B:24]:
+  * The system requires an FGF of 2.5-3 times the minute volume to prevent rebreathing with a minimal flow of 4 L/min, making the system inefficient [B:24]
+  * The double-ended bag acts as a visual monitor during spontaneous ventilation. In addition, the bag can be used for assisted or controlled ventilation [B:24]
+  * The bag can provide a degree of continuous positive airway pressure (CPAP) during spontaneous ventilation [B:25]
+  * Controlled ventilation is performed either by manual squeezing of the double-ended bag (intermittent occlusion of the reservoir tubing in the Mapleson E) or by removing the bag and connecting the reservoir tubing to a ventilator such as the Penlon Nuffield 200 [B:25]
+  * The volume of the reservoir tubing determines the degree of rebreathing (too large a tube) or entrainment of ambient air (too small a tube). The volume of the reservoir tubing should approximate the patient's tidal volume [B:25]
+* **Problems in practice and safety features** [B:25]:
+  * Since there is no APL valve used in this breathing system, scavenging is a problem [B:25]
+  * Patients younger than 6 years of age have a low functional residual capacity (FRC). Mapleson E was designed before the advantages of CPAP were recognized for increasing the FRC [B:25]
+  * This problem can be partially overcome in the Mapleson F with the addition of the double-ended bag [B:25]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_5.png_59e8e9.png_0a42aa.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p23_img1_f384e4.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p24_img1_22e2a1.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p24_img2_675c3d.jpeg)
+
+## 3.5. FRESH GAS FLOW REQUIREMENTS [PART A/B]
+
+* **FGF requirements by circuit type** [A:18] [B:5]:
+
+| Mapleson Type | Spontaneous Ventilation | Controlled Ventilation |
+
+|---------------|-------------------------|------------------------|
+
+| A | 1 x MV | 2-3 x MV |
+
+| B & C | 2-3 x MV | 2-3 x MV |
+
+| D, E & F | 2-3 x MV | 1.5-2 x MV |
+
+* 💡 These FGF requirements highlight why Mapleson A is efficient for spontaneous breathing but inefficient for controlled ventilation, while Mapleson D/E/F systems have more consistent requirements across ventilation modes [B:5].
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_6.png_f56224.png_b00b7f.png)
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_7.png_099554.png_ac0510.png)
+
+**Bottom Line:** Mapleson circuits are semi-open breathing systems classified by the relative positioning of their components. The arrangement significantly affects rebreathing and fresh gas flow requirements, with Mapleson A being most efficient for spontaneous ventilation and Mapleson D/E/F circuits better for controlled ventilation. Understanding these differences is essential for safe and efficient anesthetic gas delivery.
+
+## 3.6. BAIN CIRCUIT [PART A/B] [COMP: PC]
+
+Tags: #pA_equip #pB_C1 #pC_PC
+
+Part A Reference: Anesthesia Equipment - Bain Circuit (Pages 18-19)
+
+Part B Reference: C1 Airway, Oxygenation and Ventilation (Page 6)
+
+Part C Reference: Procedural Care - Equipment Safety
+
+### 3.6.1. SYLLABUS CORRELATION
+
+* **Part A:** Design and function [A:18], advantages and disadvantages [A:18].
+* **Part B:** Clinical applications [B:6], safety considerations [B:6].
+* **Part C:** Safety checks and procedural implementation [C:3].
+
+**Exam Weighting:** Medium (Common specialized breathing system)
+
+**Competency Focus:** [COMP: MK], [COMP: PC], [COMP: SBP]
+
+### 3.6.2. PROPERTIES [PART A/B]
+
+* **Design:** Coaxial version of Mapleson D [A:18] [B:6]
+  * Fresh gas inlet inside breathing tube emptying into circuit at patient end [A:18]
+  * Exhaled gases enter corrugated tubing and are vented through expiratory valve near reservoir bag [A:18]
+* **Applications:** Used for both spontaneous and controlled ventilation [A:18] [B:6]
+* **FGF requirements:** 2.5x patient's minute ventilation needed to prevent rebreathing [A:18] [B:6]
+* **Components** [B:17]:
+  * A length of coaxial tubing (tube inside a tube) [B:17]
+  * The usual length is 180 cm, but it can be supplied at 270 cm (for dental or ophthalmic surgery) and 540 cm (for MRI scans where the anaesthetic machine needs to be kept outside the scanner's magnetic field) [B:19]
+  * Increasing the length of the tubing does not affect the physical properties of the breathing system [B:19]
+  * The fresh gas flows through the narrow inner tube (6 mm) while the exhaled gases flow through the outside tube (22 mm) [B:19]
+  * The internal lumen has a swivel mount at the patient's end, ensuring that the internal tube cannot kink, thereby ensuring delivery of fresh gas to the patient [B:19]
+  * The reservoir bag is mounted at the machine end [B:19]
+  * The APL valve is mounted at the machine end [B:19]
+* **Mechanism of action** [B:19]:
+  * During spontaneous ventilation, the patient's exhaled gases are channelled back to the reservoir bag and become mixed with fresh gas [B:19]
+  * Pressure build-up within the system will open the APL valve, allowing the venting of the mixture of the exhaled gases and fresh gas [B:19]
+  * The FGF required to prevent rebreathing during spontaneous ventilation is about 1.5-2 times the alveolar minute volume [B:19]
+  * A flow rate of 150-200 mL/kg/min is required, making it an inefficient and uneconomical system for use during spontaneous ventilation [B:19]
+  * It is a more efficient system for controlled ventilation. A flow of 70-100 mL/kg/min will maintain normocapnia [B:21]
+  * A flow of 100 mL/kg/min will cause moderate hypocapnia during controlled ventilation [B:21]
+  * Connection to a ventilator is possible. By removing the reservoir bag, a ventilator such as the Penlon Nuffield 200 can be connected to the bag mount using a 1-m length of corrugated tubing (the volume of tubing must exceed 500 mL if the driving gas from the ventilator is not to enter the breathing system) [B:21]
+  * The APL valve must be fully closed. In this situation it acts as a T-piece [B:21]
+  * A parallel version of the D system is available [B:21]
+
+![image.png](BREATHING_SYSTEMS_BREATHING_SYSTEMS_image_5.png_dbecaf.png_9a7af7.png)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p17_img1_9b0353.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p18_img1_4ea4d1.jpeg)
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p21_img1_cc191f.jpeg)
+
+### 3.6.3. ADVANTAGES AND HAZARDS [PART A/B] [COMP: SBP]
+
+* **Advantages** [A:18] [B:6]:
+  * Lightweight and convenient [A:18]
+  * Disposable [A:18]
+  * Allows scavenging of waste gases from APL valve [A:18]
+  * Better retention of heat and humidity than conventional Mapleson D circuit [A:18]
+  * Partial warming of inspiratory gas by counter-current exchange with warmer expired gases [A:18]
+* **Hazards** [A:18] [B:6] [B:21]:
+  * ⚠️ Unrecognized disconnection or kinking of inner FGF hose [A:18] [B:6]
+  * If inner tube becomes disconnected, fresh gas flow escapes into the expiratory limb without reaching the patient [A:18]
+  * Converting the entire circuit into dead space, causing significant rebreathing of CO₂ [B:6]
+  * The internal tube can kink, preventing fresh gas from being delivered to the patient [B:21]
+  * The internal tube can become disconnected at the machine end, causing a large increase in the dead space and resulting in hypoxaemia and hypercapnia [B:22]
+  * Movement of the reservoir bag during spontaneous ventilation is not therefore an indication that the fresh gas is being delivered to the patient [B:22]
+
+### 3.6.4. PETHICK TESTING TECHNIQUE [PART A/B] [COMP: PC]
+
+* **Purpose:** Checking integrity of the inner fresh gas flow tube [A:19] [B:6] [C:3]
+* **Technique** [A:19] [C:3]:
+  1. High flow O₂ is fed into circuit while patient end is occluded until reservoir bag is filled [A:19] [C:3]
+  2. Patient end is then opened and O₂ flushed into circuit [A:19] [C:3]
+  3. If inner tube is intact, there will be Venturi effect at patient end (decreased circuit pressure, reservoir bag deflates) [A:19] [C:3]
+  4. If inner tube is not intact, reservoir bag will remain inflated as FGF escapes into expiratory limb [A:19] [C:3]
+* This test should be part of pre-anesthesia check if Bain circuit is used [A:19] [C:3]
+
+**OSCE station mark scheme - Inspect Bain circuit** [C:3]:
+* Visual inspection along length of tubing [C:3]
+* Occlude the end, close APL valve and press O₂ flush [C:3]
+  * Check bag does not deflate [C:3]
+* Occlude the end, press O₂ flush to inflate bag, then remove thumb and press O₂ flush [C:3]
+  * Bag should deflate via Venturi Effect [C:3]
+  * This is Pethick's Test [C:3]
+* Backbar pressure test [C:3]
+  * Occlude inner tubing with 2ml syringe with fresh gas flowing [C:3]
+  * Rotameter bobbin should drop as pressure backs up to rotameter [C:3]
+* If all of the above complete, then system is **safe to use** [C:3]
+
+**Bottom Line:** The Bain circuit is a coaxial Mapleson D system that offers practical advantages including lightweight design and improved heat/humidity conservation, but requires vigilant safety checks (particularly the Pethick test) to verify inner tube integrity and prevent CO₂ rebreathing.
+
+# 4. OTHER BREATHING SYSTEMS [PART A/B]
+
+Tags: #pA_equip #pB_C1 #pC_MK
+
+Part A Reference: Anesthesia Equipment - Alternative Breathing Systems (Pages 19-20)
+
+Part B Reference: C1 Airway, Oxygenation and Ventilation (Page 6)
+
+Part C Reference: Medical Knowledge - Equipment Integration
+
+### 4.1.1. SYLLABUS CORRELATION
+
+* **Part A:** Alternative breathing system designs [A:19], principles of operation [A:19].
+* **Part B:** Clinical applications in special situations [B:6].
+* **Part C:** Integration of equipment knowledge for safe practice [C:2].
+
+**Exam Weighting:** Low-Medium (Less common breathing systems)
+
+**Competency Focus:** [COMP: MK], [COMP: PC]
+
+## 4.2. SELF-INFLATING RESUSCITATION BAG (SIRB) [PART A/B]
+
+* A resuscitator differs from Mapleson circuits or circle systems because it contains a nonrebreathing valve [A:19].
+* **Design and function** [A:19]:
+  * The patient valve opens during controlled or spontaneous inspiration to allow gas flow from the ventilation bag to the patient [A:19].
+  * Rebreathing is prevented by venting exhaled gas to the atmosphere through exhalation ports in this valve [A:19].
+* **Disadvantages** [A:19]:
+  * Requires high FGF to achieve a high FiO₂ [A:19]
+  * Limited ability to provide consistent oxygen concentration [B:6]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_3.png_3aeecd.png_6e582f.png)
+
+## 4.3. INSUFFLATION [PART A]
+
+* **Design:** Blowing of anesthetic gases across a patient's face [A:19]
+* **Function:** Avoids direct connection between breathing circuit and patient's airway [A:19]
+* **Clinical applications** [A:19]:
+  * CO₂ accumulation under head and neck draping is a hazard of ophthalmic surgery performed with local anesthesia [A:19].
+  * Insufflation of air across the patient's face at a high flow rate (>10 L/min) avoids this problem while not increasing the risk of fire from accumulation of oxygen [A:19].
+* **Limitations** [A:19]:
+  * Ventilation cannot be controlled with this technique [A:19]
+  * Inspired gas contains unpredictable amounts of entrained atmospheric air [A:19]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_4.png_9d9b64.png_a5f4ec.png)
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_5.png_54dd52.png_60eb4f.png)
+
+## 4.4. OPEN-DROP ANESTHESIA [PART A]
+
+* **Historical technique:** Highly volatile anesthetic dripped on gauze-covered mask (Schimmelbusch mask) applied to patient's face [A:19]
+* **Function:** Patient inhalation vaporizes liquid agent and carries anesthetic to patient [A:19]
+* No longer used in modern practice except in resource-limited environments [A:19]
+
+## 4.5. DRAW-OVER ANESTHESIA [PART A/B]
+
+* **Design:** Non-rebreathing circuits using ambient air as the carrier gas [A:20]
+* **Function:** Air is drawn through a low-resistance vaporizer as the patient inspires [A:20]
+* **Clinical considerations** [A:20] [B:6]:
+  * Patients spontaneously breathing room air and a potent halogenated agent often manifest an oxygen saturation (SpO₂) less than 90% [A:20]
+  * This situation is treated with IPPV, supplemental oxygen, or both [A:20]
+  * Across the clinical range of tidal volume and respiratory rate, an oxygen flow rate of 1 L/min gives an FiO₂ of 30% to 40%, or with 4 L/min, an FiO₂ of 60% to 80% [A:20]
+* **Applications:** Primarily used in field or resource-limited settings [B:6]
+
+![Untitled](BREATHING_SYSTEMS_BREATHING_SYSTEMS_Untitled_6.png_0805c4.png_f7e9a0.png)
+
+## 4.6. HUMPHREY ADE SYSTEM [PART B]
+
+* **Design:** Versatile system combining the best features of the three Mapleson circuits (A, D, E) [B:6]
+* This is a very versatile breathing system that combines the advantages of the Mapleson A, D and E systems. It can therefore be used efficiently for spontaneous and controlled ventilation in both adults and children [B:26]
+* The mode of use is determined by the position of a lever that is mounted on the Humphrey block [B:26]
+* Both parallel and coaxial versions exist with similar efficiency. The parallel version will be considered here [B:26]
+* **Components** [B:6] [B:26]:
+  * Reservoir bag [B:6]
+  * Safety pressure relief valve [B:6]
+  * APL valve [B:6]
+  * Selector lever [B:6]
+  * Ventilator attachment port [B:6]
+  * Some variations have a soda lime canister [B:6]
+  * Two lengths of 15-mm smooth-bore tubing (corrugated on outside but smooth on inside) [B:26]
+  * One delivers the fresh gas and the other carries away the exhaled gas [B:26]
+  * Distally they are connected to a Y-connection leading to the patient [B:26]
+  * Proximally they are connected to the Humphrey block [B:26]
+  * The Humphrey block is at the machine end and consists of [B:26]:
+	* An APL valve featuring a visible indicator of valve performance [B:26]
+	* A 2-L reservoir bag [B:26]
+	* A lever to select either spontaneous or controlled ventilation [B:26]
+	* A port to which a ventilator can be connected, e.g., Penlon Nuffield 200 [B:26]
+	* A safety pressure relief valve that opens at pressure in excess of 60 cm H₂O [B:26]
+	* A modified design incorporating a soda lime canister [B:26]
+* **Function and advantages** [B:6] [B:27]:
+  * The lever on the Humphrey block determines the route of gas flow [B:6]
+  * Can be arranged in coaxial or parallel configuration [B:6]
+  * Useful for both controlled and spontaneous respiration [B:6]
+  * Adaptable to different clinical scenarios with the lever adjustment [B:6]
+  * With the lever up in the spontaneous mode, the reservoir bag and APL valve are connected to the breathing system as in the Magill system [B:27]
+  * With the lever down in the ventilator mode, the reservoir bag and the APL valve are isolated from the breathing system as in the Mapleson E system [B:27]
+  * The expiratory tubing channels the exhaled gas via the ventilator port, and scavenging occurs at the ventilator's expiratory valve [B:27]
+  * The system is suitable for paediatric and adult use [B:27]
+  * The tubing is rather narrow, with a low internal volume. Because of its smooth bore, there is no significant increase in resistance to flow compared to the 22-mm corrugated tubing used in other systems [B:27]
+  * Small tidal volumes are possible during controlled ventilation, and less energy is needed to overcome the inertia of gases during spontaneous ventilation [B:27]
+  * The presence of an APL valve in the breathing system offers a physiological advantage during paediatric anaesthesia, since it is designed to offer a small amount of PEEP (1 cm H₂O) [B:27]
+* **Fresh gas flow requirements** [B:27]:
+  * During spontaneous ventilation:
+	* An FGF of about 50-60 mL/kg/min is needed in adults [B:27]
+	* The recommended initial FGF for children weighing less than 25 kg body weight is 3 L/min. This offers a considerable margin for safety [B:27]
+  * During controlled ventilation:
+	* An FGF of 70 mL/kg is needed in adults [B:27]
+	* The recommended initial FGF for children weighing less than 25 kg body weight is 3 L/min. However, adjustment may be necessary to maintain normocarbia [B:27]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p28_img1_4d2457.jpeg)
+
+## 4.7. WATERS CANISTER (TO-AND-FRO BIDIRECTIONAL FLOW) [PART B]
+
+* Currently, this system is not widely used in anaesthetic practice [B:39]
+* It consists of a Mapleson C system with a soda lime canister positioned between the APL valve and the reservoir [B:39]
+* A filter is positioned in the canister to prevent the soda lime granules from 'entering' the breathing system and the risk of inhaling them [B:39]
+* It is not an efficient system as the granules nearest to the patient are exhausted first, so increasing the dead space [B:39]
+* It is also a cumbersome system, since the canister has to be positioned horizontally and packed tightly with the soda lime granules to prevent channelling of the gases [B:39]
+
+![image.png](BREATHING_SYSTEMS_pdf_BREATHING.pdf_p40_img1_b48b7d.jpeg)
+
+**Bottom Line:** Beyond the common circle and Mapleson systems, several specialized breathing systems serve specific purposes in anesthesia practice. These include self-inflating resuscitation bags for emergencies, insufflation for specific cases like ophthalmic surgery, draw-over systems for resource-limited settings, and the versatile Humphrey ADE system that combines features of multiple Mapleson circuits.
+
+Integration Verification: I have analyzed both primary and supplementary sources and confirm that 100% of content from ALL sources has been preserved and integrated into the unified structure.

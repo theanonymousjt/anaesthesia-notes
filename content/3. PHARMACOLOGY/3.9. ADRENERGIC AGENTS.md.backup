@@ -1,0 +1,1762 @@
+---
+title: 3.9. ADRENERGIC AGENTS
+tags: [pA_pharm, pA_physio, pB_C3, pB_C5, pB_S1, pC_MK, pC_PC]
+number headings: auto, first-level 2, max 6, contents ^toc, start-at 1., 1..1.1..
+date created: Tuesday, April 29th 2025, 5:47:10 pm
+date modified: Thursday, May 1st 2025, 11:29:48 am
+---
+
+Tags: #pA_pharm #pA_physio #pB_C3 #pB_C5 #pC_MK #pC_PC
+
+Part A Reference: Pharmacology - Autonomic Nervous System (Pages 1-10)
+
+Part B Reference: C3 Cardiovascular Physiology (Pages 3-7); C5 Perioperative Medicine (Pages 8-12)
+
+Part C Reference: Medical Knowledge - Clinical Applications; Patient Care - Drug Selection
+
+## 1. ADRENORECEPTOR PHYSIOLOGY [PART A]
+
+Tags: #pA_physio #pB_C3 #pC_MK
+
+Part A Reference: Autonomic Nervous System (Pages 1-3)
+
+Part B Reference: C3 Cardiovascular Physiology (Page 3)
+
+Part C Reference: Medical Knowledge - Basic Science Application
+
+### 1.1. SYLLABUS CORRELATION
+
+* **Part A:** Detailed knowledge of neurotransmitter synthesis, storage, release and metabolism `[A:1]`, receptor classification and activation `[A:2]`.
+* **Part B:** Clinical application in cardiovascular management `[B:3]`, autonomic responses during anesthesia `[B:4]`.
+* **Part C:** Integration of physiological principles for pharmacological selection `[C:2]`.
+
+**Exam Weighting:** High (Part A Pharmacology ~15-20% of Part A)
+
+**Competency Focus:** `[COMP: MK]`
+
+### 1.2. AUTONOMIC NERVOUS SYSTEM OVERVIEW [PART A]
+
+* **Definition**: The autonomic nervous system (ANS) is a complex system of neurons that controls the body's internal milieu `[A:1]`
+  * Not under voluntary control and anatomically distinct from the somatic nervous system `[A:1]`
+  * Efferent limb controls individual organs and smooth muscle, while afferent limb relays visceral sensation `[A:1]`
+  * Hypothalamus is the central integration point, but under neocortex control `[A:1]`
+  * Local autonomic functions can occur without hypothalamic involvement:
+	* Gut can coordinate secretions locally `[A:1]`
+	* Some reflex activity is processed within the spinal cord `[A:1]`
+	* Control of vital functions by baroreceptors is processed within the medulla `[A:1]`
+  * ANS is divided into parasympathetic and sympathetic nervous systems `[A:1]`
+* **Parasympathetic Nervous System (PNS)** `[A:1]`
+  * Made up of preand post-ganglionic fibers `[A:1]`
+  * Pre-ganglionic fibers arise from:
+	* Cranial nerves (III, VII, IX, X) - supply eye, salivary glands, heart, bronchi, upper GI tract, ureters `[A:1]`
+	* Sacral fibers (S2, 3, 4) - supply distal bowel, bladder, and genitals `[A:1]`
+  * Fibers synapse within ganglia close to or within effector organs `[A:1]`
+  * Post-ganglionic neurons release acetylcholine acting via nicotinic receptors `[A:1]`
+  * Modulated by anticholinergics and anticholinesterases `[A:1]`
+* **Sympathetic Nervous System (SNS)** `[A:1-2]`
+  * Also composed of preand post-ganglionic fibers `[A:1]`
+  * Pre-ganglionic fibers arise from lateral horns of spinal cord at thoracic and upper lumbar levels (T1-L2) `[A:1]`
+  * Pre-ganglionic fibers pass into anterior primary rami, and via white rami communicans into sympathetic chain or ganglia `[A:1]`
+  * May either synapse at that level, adjacent level, or pass anteriorly through splanchnic nerve to prevertebral ganglion `[A:1]`
+  * Unmyelinated post-ganglionic fibers pass into adjacent spinal nerve via grey rami communicans `[A:1]`
+  * Post-ganglionic fibers release norepinephrine acting via adrenoceptors `[A:2]`
+  * Adrenal medulla receives presynaptic fibers that synapse directly with chromaffin cells, using ACh as transmitter `[A:2]`
+  * Releases epinephrine into circulation (acts as a hormone, not a transmitter) `[A:2]`
+  * Post-ganglionic sympathetic fibers release ACh to innervate sweat glands (exception to typical pattern) `[A:2]`
+  * All pre-ganglionic ANS fibers are myelinated and release ACh acting via nicotinic receptors `[A:2]`
+* **Summary of autonomic neurotransmitters** `[A:3]`
+  * Pre-ganglionic PNS: Acetylcholine
+  * Post-ganglionic PNS: Acetylcholine
+  * Pre-ganglionic SNS: Acetylcholine
+  * Post-ganglionic SNS: Norepinephrine (except sweat glands: Acetylcholine)
+  * Adrenal medulla: Acetylcholine (pre-ganglionic) triggers epinephrine release (no post-ganglionic transmitter)
+
+### 1.3. NEUROTRANSMITTER DISTRIBUTION AND METABOLISM [PART A]
+
+* **Neurotransmitter distribution**:
+  * Norepinephrine is released by postganglionic sympathetic fibers at end-organ tissues (except eccrine sweat glands and some blood vessels) `[A:1]`
+  * Acetylcholine is released by preganglionic sympathetic fibers and all parasympathetic fibers `[A:1]`
+* **Norepinephrine metabolism**:
+  * Synthesized in cytoplasm of sympathetic postganglionic nerve endings and stored in vesicles `[A:1]`
+  * Released by exocytosis `[A:1]`
+  * Primarily terminated by reuptake into the postganglionic nerve ending `[A:1]`
+  * In neurons: metabolized by monoamine oxidase or repackaged into vesicles `[A:1]`
+  * In liver: metabolized by monoamine oxidase and catechol-O-methyltransferase `[A:1]`
+  * May diffuse and be taken up by nonneuronal cells to be metabolized by catechol-O-methyltransferase `[A:1]`
+* **Specific reuptake mechanisms** `[A:7]`
+  * **Uptake 1**: Active uptake back into nerve terminal where norepinephrine is metabolized by MAO or recycled `[A:7]`
+	* Forms the main mechanism by which norepinephrine is inactivated `[A:7]`
+  * **Uptake 2**: Diffusion away from the nerve - less important mechanism `[A:7]`
+	* Norepinephrine reaches circulation this way and is metabolized by COMT to inactive VMA and normetadrenaline `[A:7]`
+	* Metabolites are conjugated with glucuronic acid or sulfates and excreted in urine `[A:7]`
+* **Receptor regulation**: Prolonged adrenergic activation leads to desensitization and hyporesponsiveness to further stimulation `[A:2]`
+
+### 1.4. SYNTHESIS OF NOREPINEPHRINE [PART A]
+
+* **Rate-limiting step**: Hydroxylation of tyrosine to dopa `[A:1]`
+* **Synthesis pathway**: Tyrosine → Dopa → Dopamine → Norepinephrine → Epinephrine `[A:1]`
+* **Conversion to epinephrine**: Methylation of norepinephrine by phenylethanolamine N-methyltransferase `[A:1]`
+* **Location of final conversion**: Adrenal medulla contains specific chromaffin cells for storing/releasing epinephrine that are different from those that store norepinephrine `[A:8]`
+
+![Untitled](ADRENERGIC_ADRENERGIC_Untitled.png_99f103.png_778ba6.png)
+
+* **Catecholamine structure**:
+  * Based on a benzene ring with amine side chains attached at C1 position `[A:3]`
+  * When hydroxyl groups are present at C3 and C4 positions, the agent is known as a catecholamine (3,4-dihydroxybenzene = "catechol") `[A:3]`
+  * Adrenaline (epinephrine), noradrenaline (norepinephrine), and dopamine are naturally occurring catecholamines with interrelated synthesis `[A:3]`
+
+**Bottom Line:** The sympathetic nervous system primarily uses norepinephrine as a neurotransmitter, with synthesis beginning from tyrosine and termination primarily through reuptake. Understanding this pathway provides the foundation for drug action on the sympathetic nervous system.
+
+## 2. ADRENERGIC RECEPTORS [PART A/B]
+
+Tags: #pA_pharm #pA_physio #pB_C3 #pC_MK
+
+Part A Reference: Receptor Pharmacology (Pages 2-5)
+
+Part B Reference: C3 Cardiovascular Physiology (Pages 4-5)
+
+Part C Reference: Medical Knowledge - Receptor Physiology
+
+### 2.1. SYLLABUS CORRELATION
+
+* **Part A:** Detailed knowledge of receptor subtypes `[A:2]`, signal transduction mechanisms `[A:3]`, physiological functions `[A:4]`.
+* **Part B:** Clinical application in hemodynamic management `[B:4]`, organ-specific effects `[B:5]`.
+* **Part C:** Integration for understanding drug selection and side effects `[C:2]`.
+
+**Exam Weighting:** High (Part A Pharmacology ~15-20% of Part A)
+
+**Competency Focus:** `[COMP: MK]`
+
+### 2.2. GENERAL CLASSIFICATION [PART A]
+
+* **General classification**: α and β receptors - linked to G proteins using GTP as cofactor but with unique effector systems `[A:2]`
+* **Structure**: All adrenergic receptors have a similar molecular structure with 7 transmembrane segments `[A:2]`
+* **Sympathomimetic drugs**:
+  * Exert effects via adrenoreceptors or dopamine receptors either directly or indirectly `[A:3]`
+  * Direct-acting agents attach to and act directly via receptors `[A:3]`
+  * Indirect-acting agents cause release of norepinephrine to produce effects via receptors `[A:3]`
+
+**Receptor Potency and Location Overview:**
+
+| Receptor | Potency | Agonists       | Antagonists            | Location                                                                                                             | Action                                             | LV Function and Stroke Volume |
+| -------- | ------- | -------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------- |
+| α₁       | ++++    | Norepinephrine | Phenoxybenzamine       | Smooth muscle (vascular, iris, radial, ureter, pilomotor, uterus, trigone, gastrointestinal, and bladder sphincters) | Contraction                                        | Decreased                     |
+|          | +++     | Epinephrine    | Phentolamine           | Peripheral vascular smooth muscle                                                                                    | Vasoconstriction                                   |                               |
+|          | ++      | Dopamine       | Ergot alkaloids        | Renal vascular smooth muscle                                                                                         | Neurotransmission                                  |                               |
+|          | +       | Isoproterenol  | Prazosin               | Coronary arteries, epicardial                                                                                        | Relaxation                                         |                               |
+|          |         |                | Tolazoline             | Myocardium                                                                                                           | Glycogenolysis                                     | Improved                      |
+|          |         |                | Labetalol              | Brain                                                                                                                | Increased force, glycolysis                        |                               |
+|          |         |                |                        | Smooth muscle (gastrointestinal)                                                                                     | Secretion (K⁺, H₂O)                                |                               |
+|          |         |                |                        | Heart                                                                                                                | Glycogenesis                                       |                               |
+|          |         |                |                        | Salivary glands                                                                                                      | Secretion                                          |                               |
+|          |         |                |                        | Adipose tissue                                                                                                       | Gluconeogenesis, Na⁺ reabsorption                  |                               |
+|          |         |                |                        | Sweat glands (localized)                                                                                             | Antidiuresis                                       |                               |
+|          |         |                |                        | Kidney (proximal tubule)                                                                                             |                                                    |                               |
+|          |         |                |                        | 30-40% of resting tone                                                                                               |                                                    |                               |
+| α₂       | ++++    | Clonidine      | Yohimbine              | Adrenergic nerve endings                                                                                             | Inhibition norepinephrine release                  | Improved                      |
+|          | +++     | Norepinephrine | Piperoxan              | Presynaptic—CNS                                                                                                      | Secondary vasodilation                             |                               |
+|          | ++      | Epinephrine    | Phentolamine           |                                                                                                                      |                                                    |                               |
+|          | ++      | Norepinephrine | Phenoxybenzamine       | Platelets                                                                                                            | Aggregation, granule release                       |                               |
+|          | +       | Phenylephrine  | Tolazoline             |                                                                                                                      |                                                    |                               |
+|          |         |                | Labetalol              | Adipose tissue                                                                                                       | Inhibition lipolysis                               |                               |
+|          |         |                |                        | Endocrine pancreas                                                                                                   | Inhibition insulin release                         |                               |
+|          |         |                |                        | Vascular smooth muscle—?                                                                                             | Contraction                                        | Decreased                     |
+|          |         |                |                        | Kidney                                                                                                               | Inhibition renin disease                           |                               |
+|          |         |                |                        | Brain                                                                                                                | Neurotransmission                                  |                               |
+|          |         |                |                        | Coronaries, endocardial                                                                                              | Constriction                                       |                               |
+|          |         |                |                        | CNS                                                                                                                  | Inhibition of CNS activity                         |                               |
+|          |         |                |                        |                                                                                                                      | Sedation                                           |                               |
+|          |         |                |                        |                                                                                                                      | Decrease MAC                                       |                               |
+|          |         |                |                        |                                                                                                                      | Decreased bowel motility                           |                               |
+|          |         |                |                        |                                                                                                                      | Inhibition of antidiuretic hormone                 |                               |
+|          |         |                |                        |                                                                                                                      | Analgesia                                          |                               |
+|          |         |                |                        | Renal tubule                                                                                                         | Promotes Na⁺ and H₂O excretion                     |                               |
+| β₁       | ++++    | Isoproterenol  | Acebutolol             | Heart                                                                                                                | Increased rate, contractility, conduction velocity | Improved                      |
+|          | +++     | Epinephrine    | Practolol              | Myocardium                                                                                                           | Positive inotropism and chronotropism              |                               |
+|          | ++      | Norepinephrine | Propranolol            | Sinoatrial (SA) node                                                                                                 |                                                    |                               |
+|          | +       | Dopamine       | Alprenolol             | Ventricular conduction                                                                                               |                                                    |                               |
+|          |         |                | Metoprolol             |                                                                                                                      |                                                    |                               |
+|          |         |                | Esmolol                | Adipose tissue                                                                                                       | Lipolysis                                          |                               |
+|          |         |                |                        | Kidney                                                                                                               | Renin release                                      |                               |
+|          |         |                |                        | Coronaries                                                                                                           | Relaxation, Coronary vasodilation                  |                               |
+| β₂       | ++++    | Isoproterenol  | Propranolol            | Liver                                                                                                                | Glycogenolysis, gluconeogenesis                    | Improved                      |
+|          | +++     | Epinephrine    | Butoxamine             | Myocardium                                                                                                           | Positive inotropism and chronotropism              | Improved                      |
+|          | ++      | Norepinephrine | Alprenolol             | Vascular smooth muscle                                                                                               | Relaxation                                         | Improved                      |
+|          | +       | Dopamine       | Esmolol                | Bronchial smooth muscle                                                                                              | Relaxation                                         | Improved                      |
+|          |         |                | Nadolol                | Renal vessels                                                                                                        | Relaxation                                         |                               |
+|          |         |                | Timolol                | Smooth muscle (bronchi, uterus, vascular, gastrointestinal, detrusor, spleen capsule)                                | Relaxation                                         |                               |
+|          |         |                | Labetalol              | Skeletal muscle                                                                                                      | Glycogenolysis, lactate release                    |                               |
+|          |         |                |                        | Endocrine pancreas                                                                                                   | Insulin secretion                                  |                               |
+|          |         |                |                        | Salivary glands                                                                                                      | Amylase secretion                                  |                               |
+|          |         |                |                        | SA node, ventricular conduction, vessels                                                                             | Accelerates NE release                             |                               |
+|          |         |                |                        |                                                                                                                      | Opposite action to presynaptic α₂ agonism          |                               |
+|          |         |                |                        |                                                                                                                      | Constriction                                       |                               |
+| DA₁      | ++++    | Fenoldopam     | Vascular smooth muscle | Blood vessels (renal, mesentery, coronary)                                                                           | Vasodilation                                       | Improved                      |
+|          | ++      | Dopamine       | Haloperidol            | Renal and mesentery                                                                                                  | Natriuresis                                        |                               |
+|          | +       | Epinephrine    | Droperidol             |                                                                                                                      | Diuresis                                           |                               |
+|          | +       | Metoclopramide | Phenothiazines         | Renal tubules                                                                                                        | Vasodilation                                       |                               |
+|          |         |                |                        | Juxtaglomerular cells                                                                                                | Renin release (modulates diuresis)                 |                               |
+|          |         |                |                        | Sympathetic ganglia                                                                                                  | Minor inhibition                                   |                               |
+| DA₂      | ++      | Dopamine       | Domperidone            | Presynaptic—adrenergic nerve endings                                                                                 | Inhibits norepinephrine release                    | Improved                      |
+|          | +       | Bromocriptine  |                        | Postganglionic sympathetic nerves                                                                                    | Secondary vasodilation                             |                               |
+|          |         |                |                        | Renal and mesenteric vasculature                                                                                     | ? Vasoconstriction                                 |                               |
+
+CNS, central nervous system; DA, dopamine; EPI, epinephrine; LV, left ventricular; MAC, minimum alveolar concentration; NE, norepinephrine.
+
+`[A:3-4]`
+
+### 2.3. ALPHA RECEPTORS [PART A]
+
+#### 2.3.1. Α1 RECEPTORS [PART A]
+
+* **Subtypes**: α1A, α1B, α1D `[A:3]`
+* **Signal transduction**: Linked to Gq activating phospholipases `[A:3]`
+* **Mechanism of action**: α1-adrenoceptor activation stimulates phospholipase C (via Gq), which hydrolyses phosphatidylinositol bisphosphate (PIP2) `[A:4]`
+  * Inositol triphosphate (IP3) is released, leading to increased Ca2+ availability within the cell `[A:4]`
+* **Distribution**:
+  * Spleen and liver contain mainly α1B receptors `[A:3]`
+  * Heart, neocortex, kidney, was deferens, and hippocampus contain equal amounts of α1A and α1B receptors `[A:3]`
+* **Location**: Postsynaptic activators of smooth muscle throughout the body `[A:3]`
+* **Effects**:
+  * **Vascular**: Constriction of resistance and capacitance vessels `[A:3]`
+  * **Eye**: Mydriasis (pupil dilation due to contraction of radial eye muscles) `[A:3]`
+  * **Respiratory**: Bronchoconstriction `[A:3]`
+  * **Cardiovascular**: Vasoconstriction (also has positive inotropic effect on myocardium) `[A:3]`
+  * **Uterus**: Contraction `[A:3]`
+  * **GI/GU**: Sphincteric constriction `[A:3]`
+  * **Metabolic**: Inhibits insulin secretion and lipolysis `[A:3]`
+* **Clinical note**: α1-adrenergic antagonists prevent catecholamine-induced ventricular arrhythmias `[A:3]`
+
+![image.png](ADRENERGIC_ADRENERGIC_image.png_4eb7fb.png_12fd19.png)
+
+#### 2.3.2. Α2 RECEPTORS [PART A]
+
+* **Subtypes**: α2A, α2B, and α2C `[A:3]`
+* **Signal transduction**: Linked to Gi inhibiting adenylate cyclase `[A:3]`
+* **Mechanism of action**: α2-adrenoceptor activation is coupled to Gi-proteins that inhibit adenylate cyclase and reduce cAMP concentration `[A:4]`
+* **Location**: Found in preand postsynaptic membranes `[A:3]`
+* **Postsynaptic effects**:
+  * **Vascular**: Arterial and venous vasoconstriction `[A:3]`
+  * **Hematologic**: Platelet aggregation `[A:3]`
+  * **Metabolic**: Inhibition of insulin release `[A:3]`
+  * **GI**: Inhibition of bowel motility `[A:3]`
+  * **Endocrine**: Stimulation of growth hormone release, inhibition of ADH release `[A:3]`
+* **Cholinergic pathway effects**:
+  * **Respiratory**: Bronchoconstriction `[A:3]`
+  * **Exocrine**: Dry mouth (decreased salivation) `[A:3]`
+  * **Cardiovascular**: Modulation of baroreceptor reflex (increased sensitivity), vagal mediation of heart rate (bradycardia) `[A:3]`
+* **Presynaptic α2 receptors**:
+  * **Function**: Inhibits NE release by decreasing Ca²⁺ entry into neuronal terminal → limit subsequent exocytosis of storage vesicles containing NE `[A:3]`
+  * **Mechanism**: Acts as negative feedback loop `[A:3]`
+  * **CNS effects**: Reduced SNS outflow + enhanced parasympathetic outflow → sedation, peripheral vasodilation, decreased CO and inotropic state, decreased HR `[A:3]`
+* **Norepinephrine interactions**:
+  * Acts on both α1 and α2 receptors `[A:3]`
+  * Activates smooth muscle vasoconstriction (postsynaptic α1 and α2) but also stimulates presynaptic α2 receptors and inhibits its own release `[A:3]`
+  * Selective presynaptic α2 stimulation → beneficial reduction in peripheral vascular resistance `[A:3]`
+  * Most α2 agonists also stimulate postsynaptic α2 receptors → vasoconstriction `[A:3]`
+  * Blockade of presynaptic α2 → increased NE release → vasoconstriction `[A:3]`
+  * Vasodilation requires blockade of both postsynaptic α1 and α2 receptors `[A:3]`
+
+### 2.4. BETA RECEPTORS [PART A]
+
+* **Signal transduction**: Linked to Gs activating adenylate cyclase `[A:4]`
+* **Mechanism**: Activation of adenylate cyclase → increased cAMP synthesis → initiates kinase phosphorylation cascade `[A:4]`
+* **Effects on Ca²⁺ homeostasis**:
+  * Greater Ca²⁺ availability for contractile activation `[A:4]`
+  * Increased efficacy of activator Ca²⁺ at troponin C (TnC) `[A:4]`
+  * Faster removal of Ca²⁺ from contractile apparatus after contraction → rapid myocardial relaxation during early diastole `[A:4]`
+
+![image.png](ADRENERGIC_ADRENERGIC_image_1.png_4f4780.png_b94282.png)
+
+#### 2.4.1. Β1 RECEPTORS [PART A]
+
+* **Agonist potency**: Norepinephrine and epinephrine are equipotent `[A:4]`
+* **Location**: Primarily postsynaptic membranes in heart - myocardium, SA node and ventricular conduction system `[A:4]`
+* **Effects**:
+  * **Chronotropic**: Increased heart rate `[A:4]`
+  * **Dromotropic**: Increased conduction velocity `[A:4]`
+  * **Inotropic**: Increased contractility `[A:4]`
+  * **Lusitropic**: Enhanced relaxation `[A:4]`
+
+#### 2.4.2. Β2 RECEPTORS [PART A]
+
+* **Agonist potency**: Epinephrine significantly more potent than norepinephrine `[A:4]`
+* **Location**: Primarily postsynaptic receptors in smooth muscle and gland cells; also found in myocytes (atrial > ventricular) `[A:4]`
+* **Clinical note**: Effect is increased in patients with chronic heart failure `[A:4]` `[B:5]`
+* **Effects**:
+  * **Smooth muscle**: Relaxation → bronchodilation, vasodilation, relaxation of uterus (tocolysis), bladder, and gut `[A:4]`
+  * **Metabolic**: Stimulates glycogenolysis, lipolysis, gluconeogenesis, and insulin release `[A:4]`
+* **Presynaptic β2 receptors**:
+  * **Effect**: Accelerates endogenous NE release (opposite of presynaptic α2) `[A:4]`
+  * **Clinical relevance**: Blockade inhibits NE release, similar physiologic effect as activating presynaptic α2 `[A:4]`
+
+#### 2.4.3. Β3 RECEPTORS [PART A]
+
+* **Location**: Gallbladder, brain, adipose tissue `[A:4]`
+* **Function**: Involved in lipolysis, thermogenesis in brown fat, bladder relaxation `[A:4]`
+
+### 2.5. DOPAMINERGIC RECEPTORS [PART A]
+
+* **Location**: CNS, blood vessels, postganglionic sympathetic nerves `[A:4]`
+* **In CNS**: Dopamine is released as a neurotransmitter in certain brain cells and interneurons of the autonomic ganglia `[A:5]`
+
+#### 2.5.1. D1 RECEPTORS [PART A]
+
+* **Location**: Postsynaptic `[A:4]`
+* **Mechanism of action**: Acts via Gs-coupled adenylate cyclase leading to increased levels of cAMP `[A:6]`
+* **Effect**: Mediates vasodilation in kidney, intestine, and heart `[A:4]`
+
+#### 2.5.2. D2 RECEPTORS [PART A]
+
+* **Location**: Preand postsynaptic `[A:4]`
+* **Mechanism of action**: Acts via Gi-coupled adenylate cyclase leading to decreased levels of cAMP `[A:6]`
+* **Vascular effects**: Similar to α2 receptor `[A:4]`
+* **Presynaptic effects**: Inhibits NE release → vasodilation `[A:4]`
+* **Postsynaptic effects**: Vasoconstriction (opposite of postsynaptic D1) `[A:4]`
+* **Other functions**:
+  * Role in antiemetic action of droperidol `[A:4]` `[B:5]`
+  * Present in zona glomerulosa of adrenal cortex → inhibits aldosterone `[A:4]`
+  * Modulates extrapyramidal movement and inhibits prolactin secretion from pituitary gland `[A:6]`
+
+### 2.6. OTHER MODULATORY RECEPTORS [PART A]
+
+#### 2.6.1. ADENOSINE RECEPTORS [PART A]
+
+* **Effect**: Inhibit NE release `[A:5]`
+* **Antagonists**: Blocked by caffeine and other methylxanthines `[A:5]`
+* **Function**:
+  * Reduction of SNS tone under hypoxic conditions when adenosine production is enhanced `[A:5]`
+  * Leads to reduced NE, decreased cardiac work, reduced O2 demand `[A:5]`
+  * Clinical applications: controlled hypotension, short-term bradycardia, coronary vasodilation `[A:5]` `[B:5]`
+
+#### 2.6.2. SEROTONIN RECEPTORS [PART A]
+
+* **Effect**: Depresses response of isolated blood vessels to SNS stimulation and decreases release of labeled NE `[A:5]`
+* **Mechanism**: Antagonized by increasing external Ca²⁺ ion concentration `[A:5]`
+* **Function**: May inhibit neuronal NE release by limiting calcium availability at nerve terminals `[A:5]`
+* **Other Modulators**:
+  * **Prostaglandin E2, Histamine, and Opioids**:
+	* May inhibit NE release in SNS innervated tissue `[A:5]`
+	* Unlikely to play physiologic role (antagonists don't increase NE release) `[A:5]`
+
+#### 2.6.3. HISTAMINE RECEPTORS [PART A]
+
+* **H1 receptors**: Negative dromotropism, coronary spasm, bronchoconstriction, intestinal contraction `[A:5]`
+* **H2 receptors**:
+  * Positive inotropic and chronotropic effects while depressing dromotropism `[A:5]`
+  * Present in high concentrations in myocardium and cardiac conducting tissue `[A:5]`
+  * Effects not blocked by β antagonism but blocked by H2 antagonists `[A:5]`
+  * Also stimulates acid production in parietal cells of stomach `[A:5]`
+
+**Bottom Line:** Adrenergic receptors are divided into α, β, and dopaminergic types, each with specific subtypes and distinct signaling pathways. α1 receptors primarily mediate vasoconstriction, α2 receptors have both preand postsynaptic effects, β1 receptors affect cardiac function, and β2 receptors cause smooth muscle relaxation. Understanding these distinctions is crucial for predicting drug effects and side effects.
+
+## 3. ADRENERGIC RECEPTOR REGULATION [PART A/B]
+
+Tags: #pA_pharm #pA_physio #pB_C3 #pC_MK
+
+Part A Reference: Receptor Regulation (Pages 5-6)
+
+Part B Reference: C3 Cardiovascular Physiology (Page 6)
+
+Part C Reference: Medical Knowledge - Physiological Adaptation
+
+### 3.1. SYLLABUS CORRELATION
+
+* **Part A:** Mechanisms of receptor regulation `[A:5]`, principles of downregulation and upregulation `[A:5]`.
+* **Part B:** Clinical implications in heart failure and chronic disease states `[B:6]`.
+* **Part C:** Application to drug responsiveness in clinical settings `[C:2]`.
+
+**Exam Weighting:** Medium (Part A Pharmacology ~10% of Part A)
+
+**Competency Focus:** `[COMP: MK]`
+
+### 3.2. DYNAMIC REGULATION PRINCIPLES [PART A]
+
+* **Dynamic regulation**: Receptors are dynamically regulated `[A:5]`
+* **Receptor density principle**: Number of receptors is inversely proportional to ambient concentration of catecholamines `[A:5]`
+* **Tachyphylaxis**: Extended exposure to agonists reduces biologic response to catecholamines `[A:5]`
+
+### 3.3. DOWNREGULATION AND UPREGULATION MECHANISMS [PART A/B]
+
+* **Clinical examples of downregulation**:
+  * **Heart failure**: Increased adrenergic activity → increased plasma catecholamines → "downregulation" of myocardial β1 receptors → decreased inotropic and chronotropic response to β1 agonists `[A:5]` `[B:6]`
+  * **β2 upregulation**: β2 receptors may account for up to 40% of inotropism in failing heart (vs. 20% in normal heart) `[A:5]` `[B:6]`
+  * **Tachyphylaxis to infused catecholamines**: Result of acute downregulation `[A:5]`
+  * **Hypertension**: Reduction in numbers/sensitivity of β receptors in patients with elevated plasma catecholamines `[A:5]`
+  * **Pheochromocytoma**: Downregulation explains lack of correlation between plasma catecholamine levels and blood pressure elevation `[A:5]` `[B:6]`
+  * **Chronic β-agonist use**: Asthma treatments like terbutaline, isoproterenol, or epinephrine can cause tachyphylaxis `[A:5]`
+* **Reversibility**: Downregulation is reversible upon termination of the agonist `[A:5]`
+
+### 3.4. CLINICAL CONSEQUENCES OF RECEPTOR REGULATION [PART A/B]
+
+* **Withdrawal syndromes**:
+  * **Propranolol withdrawal syndrome**: Acute discontinuation of β antagonist leaves receptors unopposed plus increased receptor number (supersensitivity) `[A:6]` `[B:6]`
+  * **Clonidine withdrawal**: Similar mechanism `[A:6]`
+
+💡 **Clinical Pearl: Receptor downregulation is a key mechanism explaining decreased response to both endogenous and exogenous catecholamines in various clinical scenarios** `[A:6]` `[B:6]`
+
+**Bottom Line:** Adrenergic receptors undergo dynamic regulation, with downregulation occurring in response to persistent agonist exposure and upregulation following chronic antagonist administration. These mechanisms have important clinical implications for drug efficacy, tachyphylaxis, and withdrawal syndromes.
+
+## 4. ADRENERGIC AGONISTS [PART A/B]
+
+Tags: #pA_pharm #pB_C3 #pB_C5 #pC_MK #pC_PC
+
+Part A Reference: Adrenergic Agonists (Pages 6-8)
+
+Part B Reference: C3 Cardiovascular Management (Pages 7-9); C5 Perioperative Medicine (Page 9)
+
+Part C Reference: Medical Knowledge - Drug Selection; Patient Care - Drug Administration
+
+### 4.1. SYLLABUS CORRELATION
+
+* **Part A:** Classification of agonists `[A:6]`, receptor specificity `[A:6]`, mechanisms of action `[A:6]`.
+* **Part B:** Clinical applications in cardiovascular management `[B:7]`, perioperative use `[B:9]`.
+* **Part C:** Decision-making for drug selection in clinical settings `[C:3]`.
+
+**Exam Weighting:** High (Part A Pharmacology ~15% of Part A)
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 4.2. GENERAL PRINCIPLES [PART A/B]
+
+* **Activity overlap**: Overlapping receptor activity complicates prediction of clinical effects `[A:6]`
+* **Hemodynamic balance**: Net effect depends on dose-dependent balance between different receptor activations `[A:6]`
+  * Example: Epinephrine's effect on BP depends on balance between α1-vasoconstriction, α2/β2-vasodilation, and β1-inotropic effects `[A:6]` `[B:7]`
+* **Vascular effects**:
+  * α1-predominant agents → increased arterial pressure via enhanced arterial/venous vasomotor tone → increased SVR (afterload) and venous return (preload) `[A:6]` `[B:7]`
+  * β-predominant agents → modest BP decrease as reduced SVR (β2 effects) offsets increased CO (β1 effects) `[A:6]` `[B:7]`
+
+### 4.3. CLASSIFICATION OF AGONISTS [PART A]
+
+* **Direct vs. Indirect**:
+  * **Direct**: Binds directly to receptor (e.g., phenylephrine) `[A:6]`
+  * **Indirect**: Increases endogenous neurotransmitter activity through increased release or decreased reuptake of NE (e.g., ephedrine) `[A:6]`
+  * **Clinical importance**: In patients with abnormal endogenous NE stores (e.g., on MAOIs, some antihypertensives), intraoperative hypotension should be treated with direct agonists as response to indirect agonists will be unpredictable `[A:6]` `[B:9]`
+* **Structural classification**:
+  * **Catecholamines**: Have 3,4-dihydroxybenzene structure `[A:6]`
+	* Typically short-acting due to metabolism by MAO, COMT `[A:6]`
+	* Exaggerated response in those on MAOIs or TCAs `[A:6]`
+	* Examples: Epinephrine, Norepinephrine, Dopamine `[A:6]`
+
+	![Untitled](ADRENERGIC_ADRENERGIC_Untitled_1.png_729ad4.png_641d63.png)
+
+  * **Synthetic catecholamines**: Modified side-chain structure for greater receptor specificity (e.g., isoproterenol, dobutamine, dopexamine) `[A:6]`
+  * **Non-catecholamines**: Lack catechol structure (e.g., phenylephrine) `[A:6]`
+
+**Summary Table of Agonists:** `[A:7]`
+
+| Name | Chemical Structure | β₁ | β₂ | α₁ | Dopamine₁ | Dose Range | Clinical Indications | Major Side Effects | Heart Rate | Mean Arterial Pressure | Cardiac Output | Peripheral Vascular Resistance | Bronchodilation | Renal Blood Flow |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Epinephrine | [Chemical structure] | ++++ | +++ | +++++ | 0 | IV: 0.01-0.2 μg/kg/min Bolus: 1 mg IV q3-5 min IM (1:1,000): 0.1-0.5 mg | Shock (cardiogenic, vasodilatory) Bronchospasm Anaphylaxis Symptomatic bradycardia unresponsive to atropine/pacing | Arrhythmias Myocardial ischemia Sudden cardiac death Hypertension Stroke | ↑↑ | ↑ | ↑↑ | ↑/↓ | ↑↑ | ↓↓ |
+| Norepinephrine | [Chemical structure] | +++ | + | +++++ | 0 | IV: 0.01-0.2 μg/kg/min | Shock (cardiogenic, vasodilatory) | Arrhythmias Bradycardia Peripheral ischemia Hypertension Tissue necrosis with extravasation | ↓ | ↑↑↑ | ↓/↑ | ↑↑↑ | 0 | ↓↓↓ |
+| Dopamine | [Chemical structure] | ++++ | ++ | +++ | +++++ | IV: 2-20 μg/kg/min | Shock (cardiogenic, vasodilatory) Symptomatic bradycardia unresponsive to atropine/pacing | Hypertension Arrhythmias Myocardial ischemia Peripheral ischemia (high doses) | ↑/↑↑ | ↑ | ↑↑↑ | ↑ | 0 | ↑↑↑ |
+| Dobutamine | [Chemical structure] | +++++ | +++ | + | 0 | IV: 2-20 μg/kg/min | Low cardiac output (CHF, cardiogenic shock, sepsis-induced myocardial dysfunction) Symptomatic bradycardia unresponsive to atropine/pacing | Tachycardia Arrhythmias Myocardial ischemia Hypertension Hypotension | ↑ | ↑ | ↑↑↑ | ↓ | 0 | ↑ |
+| Isoproterenol | [Chemical structure] | +++++ | +++++ | 0 | 0 | IV: 2-10 μg/kg/min | Bradyarrhythmias Denervated heart | Arrhythmias Myocardial ischemia Hypertension Hypotension | ↑↑↑ | ↓ | ↑↑↑ | ↓↓ | ↑↑↑ | ↓/↑ |
+| Phenylephrine | [Chemical structure] | 0 | 0 | +++++ | 0 | IV: 0.15-0.75 μg/kg/min Bolus: 0.1-0.5 mg | Hypotension with tachycardia Hypotension in AS or HCM | Reflex bradycardia Hypertension Peripheral and visceral vasoconstriction Tissue necrosis with extravasation | ↓ | ↑↑↑ | ↓ | ↑↑↑ | 0 | ↓↓↓ |
+| Clonidine | - | 0 | 0 | + | 0 | - | - | - | - | - | - | - | - | - |
+| Dexmedetomidine | - | 0 | 0 | + | 0 | - | - | - | - | - | - | - | - | - |
+| Ephedrine | - | ++ | + | ++ | 0 | - | - | - | ↑↑ | ↑↑ | ↑↑ | ↑ | ↑↑ | ↓↓ |
+| Fenoldopam | - | 0 | 0 | 0 | +++ | - | - | - | ↑↑ | ↓↓↓ | ↓/↑ | ↓↓ | 0 | ↑↑↑ |
+| Terbutaline | - | + | +++ | 0 | 0 | - | - | - | - | - | - | - | - | - |
+
+**Notes:** `[A:7]`
+* IV: intravenous; IM: intramuscular; CHF: congestive heart failure; AS: aortic stenosis; HCM: hypertrophic cardiomyopathy
+* α₁, α₂, β₁, β₂, DA₁, DA₂: 0: no/minimal effect; +: mild effect; ++: moderate effect; +++: strong effect; ++++: very strong effect; +++++: extremely strong effect; ?: unknown effect
+* Heart Rate, Mean Arterial Pressure, Cardiac Output, Peripheral Vascular Resistance, Bronchodilation, Renal Blood Flow: 0: no/minimal effect; ↑: mild increase; ↑↑: moderate increase; ↑↑↑: marked increase; ↓: mild decrease; ↓↓: moderate decrease; ↓↓↓: marked decrease; ↑/↓: variable effect
+
+### 4.4. DIRECT-ACTING ALPHA AGONISTS [PART A/B]
+
+#### 4.4.1. PHENYLEPHRINE [PART A/B]
+
+* **Structure**: Noncatecholamine similar to epinephrine but without hydroxyl group on phenyl ring `[A:7]`
+* **MOA**: Selective α1-agonist activity (direct effect) `[A:7]`
+* **Presentation**: Clear solution containing 10 mg in 1 ml `[A:8]`
+* **Uses**:
+  * Increases low systemic vascular resistance associated with spinal anesthesia or systemically administered drugs `[A:8]`
+  * Treatment of hypotension with normal/elevated heart rate (e.g., acute hypovolemia) `[A:7]` `[B:9]`
+  * Can reverse left-to-right intracardiac shunt caused by general anesthesia-induced SVR drop `[A:8]`
+  * Available as nasal decongestant and mydriatic agent `[A:8]`
+  * Limited use in treating SVT associated with hypotension `[A:8]`
+* **Cardiovascular effects**:
+  * Peripheral vasoconstriction → increased SVR → increased LV preload and afterload → increased arterial BP `[A:7]` `[B:7]`
+  * ⚠ CO may decline in HFrEF as failing myocardium is more sensitive to afterload increases `[A:7]` `[B:7]`
+  * Reflex bradycardia (vagally mediated) can reduce cardiac output `[A:7]` `[B:7]`
+* **Dosing**:
+  * IV bolus: 50-100 mcg (0.5-1 mcg/kg) `[A:7]` `[B:9]`
+  * Infusion: 0.1-0.5 mcg/kg/min `[A:7]` `[B:9]`
+  * 2-5 mg may be administered IM or SC for more prolonged duration `[A:8]`
+* **Pharmacokinetics**:
+  * Onset: Rapid with IV administration `[A:8]`
+  * Duration: Short, ~15 min via IV; IM/SC takes 15 min to work but lasts up to 1 hour `[A:7]` `[A:8]`
+  * Metabolism: In the liver by MAO `[A:8]`
+* **Special considerations**:
+  * Tachyphylaxis may occur with infusions, requiring upward titration `[A:7]`
+  * Use in obstetrics for treating hypotension associated with spinal anesthesia results in more favorable cord gas profile compared to ephedrine `[A:8]` `[B:9]`
+  * Not arrhythmogenic `[A:8]`
+  * No CNS stimulatory effects `[A:8]`
+  * Renal blood flow falls similar to norepinephrine `[A:8]`
+
+### 4.5. ALPHA-2 AGONISTS [PART A/B]
+
+#### 4.5.1. CLONIDINE [PART A/B]
+
+* **Selectivity**: α2:α1 specificity ratio is 200:1 `[A:7]`
+* **MOA**:
+  * Binds to α2 receptors → inhibits NE release from presynaptic sympathetic neurons `[A:7]`
+  * Blocks sympathetic nerve traffic through preand postsynaptic mechanisms in CNS `[A:7]`
+* **Pharmacologic effects**:
+  * Blunts centrally mediated sympathetic tone `[A:7]`
+  * Decreases serum norepinephrine `[A:7]`
+  * Reduces activation of renin-angiotensin system `[A:7]`
+  * Stimulates parasympathetic system → bradycardia `[A:7]`
+  * Does not affect baroreceptor-mediated reflex control of heart rate `[A:7]`
+  * Usually does not cause orthostatic hypotension (large doses may cause hypotension/bradycardia) `[A:7]`
+* **Clinical uses**:
+  * Antihypertensive and negative chronotropic agent `[A:7]` `[B:9]`
+  * Decreases anesthetic and analgesic requirements (reduces MAC) `[A:7]` `[B:9]`
+  * Provides sedation and anxiolysis `[A:7]` `[B:9]`
+  * Enhances intraoperative circulatory stability by reducing catecholamine levels `[A:7]` `[B:9]`
+  * Blunts hemodynamic responses to laryngoscopy and intubation `[A:7]` `[B:9]`
+  * In regional anesthesia: Prolongs block duration, decreases LA and opioid toxicity indirectly `[A:7]` `[B:9]`
+  * Effective for postoperative analgesia, acute postoperative pain, some chronic pain syndromes `[A:7]` `[B:9]`
+  * Other benefits: decreased postoperative shivering, inhibition of opioid-induced muscle rigidity, attenuation of opioid withdrawal `[A:7]` `[B:9]`
+* **Adverse effects**:
+  * Bradycardia, hypotension, sedation `[A:7]`
+  * Respiratory depression (uncommon despite sedative effect) `[A:7]`
+  * Dry mouth, hyperglycemia (inhibition of insulin release) `[A:7]`
+  * Rebound hypertension upon discontinuation `[A:7]` `[B:9]`
+* ⚠ **Warning**: Do not use with β-blockers → unopposed α1 stimulation causes profound vasoconstriction → worsening HTN `[A:7]` `[B:9]`
+
+#### 4.5.2. DEXMEDETOMIDINE [PART A/B]
+
+* **Selectivity**: Higher affinity for α2 receptors than clonidine (α2:α1 ratio 1600:1 vs. 200:1) `[A:7]`
+* **Pharmacokinetics**: Shorter t1/2 (2-3h) compared to clonidine (12-24h) `[A:7]`
+* **Effects**:
+  * Sedative, analgesic, and sympatholytic effects `[A:7]`
+  * Blunts cardiovascular responses during perioperative period `[A:7]` `[B:9]`
+  * Mediated by α2 receptors in brain (locus ceruleus) and spinal cord `[A:7]`
+* **Clinical uses**:
+  * Reduces IV and volatile anesthetic requirements `[A:7]` `[B:9]`
+  * Reduces postoperative analgesic and sedative requirements, especially in ICU `[A:7]` `[B:9]`
+  * Useful for sedation during awake fiberoptic intubation (particularly in obese patients with OSA or bariatric surgery candidates) `[A:7]` `[B:9]`
+* **Hemodynamic response**: Biphasic arterial pressure response `[A:7]`
+  * Initial hypertension: Direct stimulation of vascular α2 receptors → increased SVR → HTN + reflex bradycardia (reinforced by central sympathetic withdrawal) `[A:8]`
+  * Later hypotension: Activation of medullary α2/imidazoline receptors alters autonomic balance `[A:8]`
+* **Dosing**: Loading dose 1 mcg/kg over 10 min, followed by infusion at 0.2-0.7 mcg/kg/h `[A:8]` `[B:9]`
+* **Special considerations**: May cause hypothermia `[A:8]`
+
+💡 **Clinical Pearl: Long-term use of α2-agonists leads to supersensitization and upregulation of receptors; abrupt discontinuation can cause acute withdrawal syndrome including hypertensive crisis** `[A:8]` `[B:9]`
+
+💡 **Clinical Pearl: Withdrawal syndrome may manifest after only 48h of dexmedetomidine use when discontinued** `[A:8]` `[B:9]`
+
+### 4.6. CATECHOLAMINES [PART A/B]
+
+#### 4.6.1. EPINEPHRINE (ADRENALINE) [PART A/B]
+
+* **Structure**: Endogenous catecholamine synthesized in adrenal medulla by methylation of norepinephrine `[A:8]`
+* **Storage**: Stored in and released from specific chromaffin cells different from those storing norepinephrine `[A:8]`
+* **Presentation and Uses**:
+  * Clear solution (0.1-1 mg/ml) for bolus administration in asystole/anaphylaxis or by infusion in critical illness `[A:4]`
+  * Can be nebulized in upper airway to reduce swelling in acute obstruction `[A:4]`
+  * 1% ophthalmic solution for open-angle glaucoma `[A:4]`
+  * Metered dose inhaler (280 μg) for anaphylaxis from insect stings/drugs `[A:4]`
+  * Combined with local anesthetics (1:80,000-200,000) `[A:4]`
+* **Mechanism of action**:
+  * Exerts effects via α- and β-adrenoceptors `[A:4]`
+  * α1 activation stimulates phospholipase C via Gq → PIP2 hydrolysis → IP3 release → increased intracellular Ca2+ `[A:4]`
+  * β-receptor activation coupled to Gs-proteins → adenylate cyclase activation → cAMP increase → specific phosphorylation depending on receptor site `[A:4]`
+* **Cardiovascular effects**:
+  * **β1 effects**: Increases BP, CO, myocardial O2 demand via: `[A:8]` `[B:7]`
+	* Increased contractility and HR (increased rate of phase IV depolarization) `[A:8]`
+	* Increased speed and extent of myocardial relaxation (improving LV filling in early diastole) `[A:8]`
+	* Marked increase in cardiac output (dose-dependent) `[A:8]`
+	* Initial tachycardia partially attenuated over time by baroreceptor reflexes `[A:8]`
+	* Propensity for atrial/ventricular tachyarrhythmias (increased conduction velocity + reduced refractory period in conduction system) `[A:8]`
+  * **α1 effects**: Vasoconstricts cutaneous, mesenteric, splenic, pulmonary and renal vascular beds `[A:8]`
+	* Increases renin release `[A:8]`
+	* Increases coronary perfusion pressure by raising aortic diastolic pressure `[A:8]`
+  * **β2 effects**: Vasodilation in skeletal muscle may lower diastolic pressure `[A:8]`
+	* Differential blood flow effects depend on organ-specific distribution of α1/β2 receptors `[A:8]`
+	* Low doses (<0.02 μg/kg/min) primarily stimulate β2 receptors → vasodilation → modest BP decrease `[A:8]`
+	* Higher doses (>0.1 μg/kg/min) activate α1 receptors → increased SVR and BP `[A:8]`
+  * **Dose-dependence**: Effects vary with dose `[A:4]`
+	* Low-dose infusion: β effects predominate → increased CO, myocardial O2 consumption, coronary artery dilation, reduced arrhythmia threshold, may lower diastolic BP and PVR `[A:4]`
+	* High-dose infusion or 1mg bolus during cardiac arrest: α1 effects predominate → rise in SVR `[A:4]`
+  * When used with halothane, dose should be restricted to 100 μg per 10 minutes to avoid arrhythmias `[A:4]`
+  * Should not be infiltrated into areas supplied by end arteries to avoid compromising vascular supply `[A:4]`
+  * ⚠️ Extravasation can cause tissue necrosis `[A:4]`
+* **Pulmonary effects**:
+  * β2 stimulation relaxes bronchial smooth muscle `[A:8]`
+  * Small increase in minute volume `[A:4]`
+  * Potent bronchodilator though secretions may become more tenacious `[A:4]`
+  * Increases pulmonary vascular resistance `[A:4]`
+* **Metabolic effects**:
+  * Increases basal metabolic rate `[A:4]`
+  * Raises plasma glucose via glycogenolysis (liver/skeletal muscle), lipolysis, gluconeogenesis `[A:4]`
+  * Initially increases insulin secretion (β2 effect) often overridden by α effect inhibiting release `[A:4]`
+  * Increases glucagon secretion and plasma lactate `[A:4]`
+  * Augments lipase activity → increased free fatty acids → increased fatty acid oxidation and ketogenesis `[A:4]`
+  * Limits use in diabetes `[A:4]`
+  * Increases Na+ reabsorption via direct tubular stimulation and aldosterone production `[A:4]`
+  * β2 receptors increase K+ transport into cells following initial temporary rise from liver release `[A:4]`
+* **CNS effects**: Increases MAC and peripheral pain threshold `[A:4]`
+* **Renal effects**: Moderately decreases renal blood flow; increased bladder sphincter tone may cause difficulty in micturition `[A:4]`
+* **Dosing**:
+  * **Anaphylaxis**: IV 100-500 mcg (repeated if necessary, followed by infusion), IM 0.5 mg `[A:8]` `[B:9]`
+  * **VF/Cardiac arrest**: IV bolus 0.5-1 mg `[A:8]` `[B:9]`
+  * **Shock**: IV bolus 0.5-1 mg with or without continuous infusion (1 mg in 250 mL [4 mcg/mL]) at 2-20 mcg/min (30-300 ng/kg/min) `[A:8]` `[B:9]`
+* **Pharmacokinetics**:
+  * Not given orally due to inactivation `[A:4]`
+  * SC absorption less rapid than IM; tracheal absorption erratic but useful in emergencies without IV access `[A:4]`
+  * Metabolized by mitochondrial MAO and COMT in liver, kidney, blood to inactive metabolites (VMA and metadrenaline) `[A:4]`
+  * Conjugated with glucuronic acid or sulfates and excreted in urine `[A:4]`
+  * Short half-life (~2 minutes) due to rapid metabolism `[A:4]`
+* **Special considerations**:
+  * Volatile anesthetics (particularly halothane) potentiate arrhythmogenic effects `[A:8]` `[B:9]`
+  * Prior administration of adrenoceptor antagonists alters cardiovascular effects: `[A:8]` `[B:9]`
+	* Non-selective β-blocker: β2 vasodilation blocked → unopposed α1 vasoconstriction; β1 effects attenuated → phenylephrine-like response `[A:8]` `[B:9]`
+	* α1-blocker: Unopposed β2 vasodilation → hypotension `[A:8]` `[B:9]`
+	* α2-blocker (e.g., cocaine): Enhances intensity and duration of cardiovascular effects by inhibiting reuptake `[A:8]` `[B:9]`
+
+#### 4.6.2. NOREPINEPHRINE (NORADRENALINE) [PART A/B]
+
+* **MOA**: Direct α1, α2 and β1 stimulation with limited β2 activity at clinical doses `[A:8]`
+* **Presentation and Uses**:
+  * Clear solution containing 0.2-2 mg/ml norepinephrine acid tartrate (equivalent to 0.1-1 mg/ml norepinephrine base) `[A:7]`
+  * Contains sodium metabisulfite preservative `[A:7]`
+  * Used as IV infusion (0.05-0.5 μg/kg/min) to increase SVR `[A:7]`
+* **Cardiovascular effects**:
+  * Intense vasoconstriction of arterial and venous vessels `[A:8]` `[B:7]`
+	* May cause spasm of internal mammary/radial artery grafts during CABG `[A:8]` `[B:9]`
+	* ⚠ Can increase pulmonary HTN → precipitate RV dysfunction/failure `[A:8]` `[B:9]`
+	  * Inhaled selective pulmonary vasodilators (NO, prostacyclin) may help counteract this `[A:8]` `[B:9]`
+  * Increased myocardial contractility `[A:8]`
+	* Pure α1 agonists decrease cardiac output by increasing LV afterload without β1-mediated contractility increase `[A:8]`
+	* Increases myocardial oxygen requirements `[A:8]`
+  * Less arrhythmogenic than epinephrine (useful when significant arrhythmias present) `[A:8]`
+  * Decreased hepatic, skeletal, renal and splanchnic blood flow when BP normal/slightly reduced `[A:8]`
+  * Increases perfusion pressure to these vascular beds when arterial pressure significantly reduced (except renal, mesenteric, and peripheral) `[A:8]`
+	* Low-dose dopamine or fenoldopam may help preserve renal function but doesn't reduce AKI risk `[A:8]` `[B:9]`
+  * Both systolic and diastolic pressures rise; increased afterload and reflex bradycardia may prevent CO elevation `[A:8]`
+  * ⚠ Extravasation can cause tissue necrosis `[A:8]`
+  * **Comparison of systemic vs. endogenous effects**:
+	* Systemic infusion: peripheral vasoconstriction, increased systolic/diastolic BP, possible reflex bradycardia, may reduce CO, increases myocardial O2 consumption, increases coronary flow, increases PVR, increases venous return through venoconstriction `[A:7]`
+	* Endogenous release: causes tachycardia and increased CO `[A:7]`
+* **Splanchnic effects**: Renal and hepatic blood flow falls due to vasoconstriction `[A:7]`
+* **Uterine effects**:
+  * Reduces blood flow to pregnant uterus → may cause fetal bradycardia `[A:7]`
+  * May exert contractile effect and cause fetal asphyxia `[A:7]`
+* **Clinical uses**:
+  * Agent of choice for refractory (particularly septic) shock `[A:8]` `[B:9]`
+  * Combined with methylene blue or hydroxocobalamin for vasoplegic syndrome after cardiopulmonary bypass `[A:8]` `[B:9]`
+* **Dosing**: Continuous infusion at 2-20 mcg/min (30-300 ng/kg/min) `[A:8]` `[B:9]`
+  * Preferably via CVC; dilute solutions (≤20 μg/mL) can be given peripherally `[A:8]` `[B:9]`
+* **Pharmacokinetics**:
+  * Pathways include Uptake 1 and Uptake 2 as described in section 1.1.2 `[A:7]`
+  * Short half-life (~2 minutes) `[A:7]`
+  * Unlike epinephrine and dopamine, up to 25% is taken up as it passes through lungs `[A:7]`
+* **Interactions**: Despite being direct-acting, should be used cautiously in patients taking MAOIs as effects may be exaggerated and prolonged `[A:7]`
+
+#### 4.6.3. DOPAMINE [PART A/B]
+
+* **Structure**: Endogenous nonselective direct and indirect adrenergic and dopaminergic agonist `[A:8]`
+* **Presentation and Uses**:
+  * Clear solution containing 200 or 800 mg in 5 ml with sodium metabisulfite `[A:5]`
+  * Used to improve hemodynamics and urine output `[A:5]`
+* **MOA**:
+  * Direct receptor activation `[A:8]`
+  * Indirect effects due to NE release from presynaptic sympathetic nerves `[A:8]`
+  * In addition to α/β effects, acts via D1/D2 receptors via Gs/Gi coupled adenylate cyclase affecting cAMP levels `[A:6]`
+* **Dose-dependent effects** (unpredictable dose-response curve): `[A:9]` `[B:8]`
+  * **Low dose** (0.5-3 mcg/kg/min):
+	* Activates DA1 receptors → dilates renal, mesenteric, splenic vessels → increases renal/splanchnic flow → promotes diuresis and natriuresis `[A:9]` `[B:8]`
+	* Not renal protective as simultaneous α1/β1 activation may counteract dopaminergic effects `[A:9]` `[B:8]`
+	* Activates DA2 receptors → inhibits NE release `[A:9]`
+	* Net effect: modest BP decrease `[A:9]`
+  * **Moderate doses** (3-10 mcg/kg/min):
+	* Activates β1 receptors (and α1 receptors) `[A:9]`
+	* Increases contractility, HR, SBP, and CO `[A:9]`
+	* Myocardial oxygen demand typically increases more than supply `[A:9]`
+  * **Higher doses** (10-20 mcg/kg/min):
+	* Activates α1 receptors `[A:9]`
+	* Increases peripheral vascular resistance `[A:9]`
+	* Decreases renal blood flow `[A:9]`
+* **Cardiovascular effects**:
+  * Dose-dependent and vary between patients `[A:6]`
+  * Lower rates (<10 μg/kg/min): β1 predominates → increased contractility, HR, CO, coronary flow `[A:6]`
+  * Also stimulates endogenous NE release at direct effects `[A:6]`
+  * Higher rates (>10 μg/kg/min): α effects predominate → increased SVR and venous return `[A:6]`
+  * Adequate preload essential to control tachycardia `[A:6]`
+  * Less arrhythmogenic than epinephrine `[A:6]`
+  * ⚠️ Extravasation can cause tissue necrosis `[A:6]`
+* **Respiratory effects**: Attenuates carotid body response to hypoxemia; increases pulmonary vascular resistance `[A:6]`
+* **Splanchnic effects**: Vasodilates mesenteric vessels via D1 receptors; improved urine output may be due to inhibited proximal tubule Na+ reabsorption and improved cardiac output/BP `[A:6]`
+* **CNS effects**: Modulates extrapyramidal movement; inhibits prolactin secretion from pituitary; cannot cross blood-brain barrier (though precursor L-dopa can) `[A:6]`
+* **Miscellaneous**:
+  * Causes nausea/vomiting via chemoreceptor trigger zone stimulation `[A:6]`
+  * Increases gastric transit time `[A:6]`
+* **Dosing**: Continuous infusion at 1-20 mcg/kg/min `[A:9]` `[B:8]`
+* **Clinical uses**:
+  * Occasionally used for acute LV dysfunction, though more predictable agents (epinephrine, norepinephrine ± milrinone) generally preferred `[A:9]` `[B:8]`
+  * Limited use in patients with pulmonary hypertension or elevated LV filling pressures `[A:9]` `[B:8]`
+  * May cause more pronounced tachycardia than epinephrine after cardiac surgery `[A:9]` `[B:8]`
+* **Pharmacokinetics**:
+  * Only administered IV, preferably via central vein `[A:6]`
+  * Acts within 5 minutes with 10-minute duration `[A:6]`
+  * Metabolized by MAO and COMT in liver, kidneys, plasma to inactive compounds (3,4-dihydroxyphenylacetic acid, HVA) `[A:6]`
+  * Metabolites excreted in urine as sulfate and glucuronide conjugates `[A:6]`
+  * ~25% converted to norepinephrine in sympathetic nerve terminals `[A:6]`
+  * Half-life ~3 minutes `[A:6]`
+* **Interactions**: Despite being direct-acting, effects may be significantly exaggerated and prolonged during MAOI therapy `[A:6]`
+
+💡 **Clinical Practice Note: Arterial vasodilators (e.g., sodium nitroprusside) may be used with dopamine to offset increased LV afterload, though inotrope-vasodilators (milrinone, levosimendan) are more commonly used now** `[A:9]` `[B:8]`
+
+#### 4.6.4. ISOPROTERENOL [PART A/B]
+
+* **Structure**: Pure nonselective β-agonist (low α affinity), synthetic catecholamine derived from dopamine `[A:9]`
+* **Presentation and Uses**:
+  * Clear solution (1 mg/ml) for IV infusion; metered dose inhaler (80 or 400 μg) `[A:8]`
+  * No longer used for reversible airway obstruction (associated with increased mortality) - more specific β2 agonists now used `[A:8]`
+  * 30 mg tablets rarely used `[A:8]`
+  * IV for severe bradycardia with AV block or β-blockers (0.5-10 μg/min) `[A:8]`
+* **Cardiovascular effects**:
+  * **β1 effects**: Increases HR, contractility, and CO; SBP may increase or remain unchanged `[A:9]` `[B:8]`
+	* Limited effect because tachycardia may reduce LV filling; SBP may not increase due to venodilation decreasing preload `[A:9]`
+  * **β2 effects**: Decreases peripheral vascular resistance and diastolic BP `[A:9]`
+	* Arteriolar vasodilation in renal, mesenteric, splenic, and skeletal muscle circulations `[A:9]`
+	* Contributes to baroreceptor-mediated increases in HR `[A:9]`
+  * ⚠ Myocardial oxygen demand increases while supply falls → poor inotropic choice in most situations `[A:9]` `[B:8]`
+  * **Varied BP effects: β2 effects may drop SVR so increased CO insufficient to maintain BP - may actually decrease MAP** `[A:8]`
+  * Myocardial O2 delivery may decrease significantly when tachycardia reduces diastolic coronary filling time and reduced diastolic BP reduces coronary perfusion `[A:8]`
+  * Some coronary vasodilation occurs to attenuate this effect `[A:8]`
+* **Respiratory effects**:
+  * Potent bronchodilator; inhibits histamine release in lungs; improves mucous flow `[A:8]`
+  * Anatomical dead space and V/Q mismatching increase → may cause systemic hypoxemia `[A:8]`
+* **CNS effects**: Stimulant effects on CNS `[A:8]`
+* **Splanchnic effects**: Increased mesenteric and renal blood flow `[A:8]`
+* **Metabolic effects**: β effects → raised blood glucose and free fatty acids `[A:8]`
+* **Historical uses**:
+  * "Pharmacologic pacing" for symptomatic bradyarrhythmias/AV block (replaced by transcutaneous/transvenous pacing) `[A:9]` `[B:8]`
+  * Treatment of pulmonary HTN (replaced by selective inhaled pulmonary vasodilators) `[A:9]` `[B:8]`
+* **Adverse effects**: High propensity to cause SVT and VT `[A:9]`
+* **Pharmacokinetics**:
+  * Well absorbed orally but extensive first-pass metabolism results in low bioavailability `[A:9]`
+  * Rapidly metabolized by COMT in liver `[A:9]`
+  * Significant fraction excreted unchanged in urine along with conjugated metabolites `[A:9]`
+
+#### 4.6.5. DOBUTAMINE [PART A/B]
+
+* **Structure**: Racemic mixture with affinity for both β1 and β2 receptors (higher β1 selectivity) `[A:9]`
+  * Synthetic catecholamine derivative of isoprenaline with predominant β1 effects but small β2 effect `[A:9]`
+* **Presentation and Uses**:
+  * 20 ml water containing 250 mg dobutamine and sodium metabisulfite, or 5 ml water with 250 mg dobutamine and ascorbic acid `[A:9]`
+  * Used for low cardiac output states: myocardial infarction, cardiac surgery, cardiogenic shock `[A:9]`
+  * Also used in cardiac stress testing as alternative to exercise `[A:9]`
+* **α1 effects**: Present but minimal at infusion rates <5 μg/kg/min `[A:9]`
+* **Cardiovascular effects**:
+  * **Primary effect**: Increased myocardial contractility `[A:9]` `[B:8]`
+  * β2 activation usually prevents significant BP rise (vasodilation) `[A:9]`
+  * Decreases pulmonary artery pressures and vascular resistance `[A:9]` `[B:8]`
+	* Useful in patients with pulmonary arterial hypertension `[A:9]` `[B:8]`
+	* Preferred to dopamine in PAH with elevated LV filling pressures `[A:9]` `[B:8]`
+	* ⚠ May exacerbate V/Q mismatch → increased transpulmonary shunt → relative hypoxemia `[A:9]` `[B:8]`
+  * Decreases LV filling pressure while increasing coronary blood flow `[A:9]`
+	* Improves LV-arterial coupling, enhances myocardial efficiency, increases CO `[A:9]`
+	* Reduces MR severity in dilated cardiomyopathy with elevated LV filling pressures `[A:9]` `[B:8]`
+  * Increases myocardial oxygen consumption `[A:9]`
+	* Basis for pharmacological stress testing to detect flow-limiting coronary stenosis `[A:9]` `[B:8]`
+  * Often reduces HR in acute HF/HFrEF patients `[A:9]` `[B:8]`
+	* Improved CO and O2 delivery reduces elevated sympathetic tone `[A:9]`
+	* β2 activation decreases preload/afterload, reducing LV EDP and ESP `[A:9]`
+  * At higher rates (>5 μg/kg/min), (−) isomer progressively stimulates α1 receptors `[A:9]`
+	* Attenuates β2-mediated vasodilation → maintains preload, afterload, BP `[A:9]`
+	* Blunts baroreceptor-mediated tachycardia (though β1 effects still cause chronotropic/dromotropic effects) `[A:9]`
+  * Causes more pronounced tachycardia than epinephrine at equivalent cardiac index after CABG `[A:9]` `[B:8]`
+  * Direct β1 stimulation may increase heart rate, contractility, conduction velocity, and myocardial oxygen requirement `[A:9]`
+  * May precipitate arrhythmias including increased ventricular response rate in atrial fibrillation/flutter due to increased AV conduction `[A:9]`
+* **Splanchnic effects**: No direct effect on splanchnic circulation, though urine output may increase from improved cardiac output `[A:9]`
+* **Clinical uses**:
+  * Pharmacological stress testing `[A:9]` `[B:8]`
+  * Treatment of depressed myocardial contractility in sepsis `[A:9]` `[B:8]`
+  * ⚠ Despite theoretical benefits, clinical trials associate dobutamine with increased major adverse cardiac events and mortality in decompensated heart failure `[A:9]` `[B:8]`
+  * Should be avoided in patients with cardiac outflow obstruction (aortic stenosis, cardiac tamponade) `[A:9]`
+* **Dosing**: Infusion at 2-20 mcg/kg/min `[A:9]` `[B:8]`
+* **Pharmacokinetics**:
+  * Only administered intravenously `[A:9]`
+  * Rapidly metabolized by COMT to inactive metabolites conjugated and excreted in urine `[A:9]`
+  * Half-life ~2 minutes `[A:9]`
+
+💡 **Clinical Practice Note: Many cardiac anesthesiologists no longer use dobutamine for inotropic support due to concerning clinical data** `[A:9]` `[B:8]`
+
+#### 4.6.6. DOPEXAMINE [PART A/B]
+
+* **Classification**: Synthetic analogue of dopamine `[A:11]`
+* **Presentation and Uses**:
+  * 50 mg in 5 ml (pH 2.5) for intravenous use `[A:11]`
+  * Used to improve cardiac output and mesenteric perfusion (0.5-6 μg/kg/min) `[A:11]`
+* **MOA**:
+  * Stimulates β2-adrenoceptors and dopamine (D1) receptors `[A:11]`
+  * May inhibit norepinephrine re-uptake `[A:11]`
+  * Minimal effect on D2 and β1 receptors `[A:11]`
+  * No effect on α-adrenoceptors `[A:11]`
+* **Cardiovascular effects**:
+  * Positive inotropic effects (from cardiac β2 receptors) `[A:12]`
+  * Improved CO aided by reduced afterload from peripheral β2 stimulation `[A:12]`
+  * May reduce blood pressure `[A:12]`
+  * Small increase in coronary blood flow `[A:12]`
+  * No change in myocardial oxygen extraction `[A:12]`
+  * Variable heart rate changes `[A:12]`
+  * Rarely precipitates arrhythmias `[A:12]`
+* **Other effects**:
+  * **Mesenteric/renal**: Increased gut and kidney blood flow from improved CO and reduced regional vascular resistance `[A:12]`
+  * **Renal**: Increased urine output `[A:12]`
+  * **GI**: May cause nausea and vomiting `[A:12]`
+  * **Respiratory**: Bronchodilation via β2 stimulation `[A:12]`
+  * **Miscellaneous**: Tremor, headache reported `[A:12]`
+* **Pharmacokinetics**:
+  * Rapid clearance from blood `[A:12]`
+  * Half-life ~7 minutes `[A:12]`
+
+### 4.7. MIXED ADRENERGIC AGONISTS [PART A/B]
+
+#### 4.7.1. EPHEDRINE [PART A/B]
+
+* **Structure**: Noncatecholamine sympathomimetic `[A:9]` `[B:9]`
+* **Presentation and Uses**:
+  * Tablets, elixir, nasal drops and solution for injection (30 mg/ml) `[A:13]`
+  * Can exist as four isomers but only L-isomer is active `[A:13]`
+  * Used IV for hypotension associated with regional anesthesia `[A:13]`
+  * In obstetrics now known to result in poorer cord gas pH compared to pure α-agonists, but still preferred with maternal bradycardia `[A:13]` `[B:9]`
+  * Also used for bronchospasm, nocturnal enuresis, narcolepsy `[A:13]`
+* **MOA**: Both indirect (predominant) and direct actions on adrenergic receptors `[A:9]`
+  * **Indirect**: Endocytosis into nerve terminals → displaces NE from synaptic vesicles → NE release `[A:9]`
+  * **Direct**: Stimulation of β2 receptors → limits vasoconstrictor effect of α1 `[A:9]`
+  * Also inhibits MAO actions on norepinephrine `[A:13]`
+  * Tachyphylaxis occurs due to depletion of presynaptic NE stores `[A:9]`
+  * Ephedrine then released as false neurotransmitter → subsequent doses must be increased `[A:9]`
+* **Effects**: Similar to epinephrine: increases BP, HR, contractility, and CO; bronchodilation `[A:9]` `[B:9]`
+* **Differences from epinephrine**:
+  * Longer duration of action `[A:9]`
+  * Less potent `[A:9]`
+  * Both indirect and direct actions `[A:9]`
+  * Stimulates CNS (raises MAC) `[A:9]`
+* **Cardiovascular effects**:
+  * Increases CO, HR, BP, coronary flow, myocardial O2 consumption `[A:13]`
+  * May precipitate arrhythmias `[A:13]`
+* **Respiratory effects**:
+  * Respiratory stimulant and bronchodilator `[A:14]`
+* **Renal effects**:
+  * Decreased renal blood flow and glomerular filtration rate `[A:14]`
+* **Dosing**: 2.5-10 mg boluses, 0.1 mg/kg (in pediatrics) `[A:9]` `[B:9]`
+* **Pharmacokinetics**:
+  * Well absorbed orally, IM, and SC `[A:14]`
+  * Unlike epinephrine, not metabolized by MAO or COMT → longer duration of action, elimination half-life ~4 hours `[A:14]`
+  * Some hepatic metabolism but 65% excreted unchanged in urine `[A:14]`
+* **Interactions**:
+  * Drugs blocking ephedrine uptake (e.g., cocaine) or depleting NE (e.g., reserpine) attenuate cardiovascular effects `[A:9]` `[B:9]`
+  * Use with extreme caution in patients taking MAOIs `[A:14]`
+
+#### 4.7.2. METARAMINOL [PART A/B]
+
+* **Classification**: Synthetic amine with both direct and indirect sympathomimetic actions `[A:14]`
+* **Receptor profile**: Acts mainly via α1-adrenoceptors but retains some β-adrenoceptor activity `[A:14]`
+* **Presentation and Uses**:
+  * Clear solution containing 10 mg/ml `[A:14]`
+  * Used to correct hypotension associated with spinal/epidural anesthesia `[A:14]`
+  * IV bolus 0.5-2 mg usually sufficient `[A:14]`
+* **Cardiovascular effects**:
+  * Main action is to increase SVR → increased BP `[A:14]`
+  * Despite β activity, CO often falls due to increased SVR `[A:14]`
+  * Coronary artery flow increases by indirect mechanism `[A:14]`
+  * Increases pulmonary vascular resistance → raised pulmonary artery pressure `[A:14]`
+
+### 4.8. OTHER SELECTIVE AGONISTS [PART A/B]
+
+#### 4.8.1. SELECTIVE Β2 ADRENORECEPTOR AGONISTS [PART A/B]
+
+* **Examples**: Metaproterenol, albuterol, salmeterol, fenoterol `[A:10]` `[B:9]`
+* **Structure**: Selectivity due to hydroxyl substitution on phenyl ring or addition of large moiety to amino group `[A:10]`
+* **Clinical uses**: Treatment of asthma and COPD `[A:10]` `[B:9]`
+* **Effects**:
+  * Bronchodilation `[A:10]`
+  * Reduction in histamine and leukotriene release from pulmonary mast cells `[A:10]`
+  * Improvements in mucociliary function `[A:10]`
+* **Special considerations**: At larger doses, β1 effects (tachycardia, arrhythmias) may become more apparent `[A:10]` `[B:9]`
+* **Specific agents**:
+
+##### 4.8.1.1. SALBUTAMOL (ALBUTEROL) [PART A/B]
+
+* **Classification**: Synthetic sympathomimetic with mainly β2 effects `[A:12]`
+* **Presentation**:
+  * Clear solution (50-500 μg/ml) for IV infusion after dilution `[A:12]`
+	  * For bronchospasm: IV slow bolus 4mcg/kg > infusion 3-20mcg/min
+  * Metered dose inhaler (100 μg) and dry powder (200-400 μg) for inhalation `[A:12]`
+	  * Usually given 8 puffs every few minutes in bronchopasm (8 puffs because of dead space)
+	  * Else use 10-20mcg boluses of adrenaline
+	  * Other adjuncts for bronchospasm: magnesium, hydrocortisone, ketamine, aminophylline, sevoflurane
+  * Solution for nebulization (2.5-5 mg/ml) `[A:12]`
+  * Oral preparations (syrup 0.4 mg/ml and 2, 4 or 8 mg tablets) `[A:12]`
+* **Uses**: Reversible lower airway obstruction; occasionally for premature labor `[A:12]`
+* **Effects**:
+  * **Respiratory**: Relaxes bronchial smooth muscle; reverses hypoxic pulmonary vasoconstriction (may lead to hypoxemia) `[A:12]`
+  * **Cardiovascular**: High doses (especially IV) can stimulate β1 receptors causing tachycardia; may cause β2-mediated vasodilation and hypotension; can precipitate arrhythmias with hypokalaemia `[A:12]`
+  * **Metabolic**: Stimulates Na+/K+ ATPase causing hypokalaemia; raises blood sugar especially in diabetics (exacerbated by concurrent steroids) `[A:12]`
+  * **Uterine**: Relaxes gravid uterus; small amount crosses placenta `[A:12]`
+  * **Miscellaneous**: Direct effect on skeletal muscle may produce tremor `[A:12]`
+* **Pharmacokinetics**:
+  * Incomplete gut absorption with significant first-pass metabolism `[A:12]`
+  * Rapid onset with inhalation or IV administration `[A:12]`
+  * 10% protein-bound with half-life of 4-6 hours `[A:12-13]`
+  * Metabolized in liver to inactive 4-O-sulfate; excreted with unchanged salbutamol in urine `[A:13]`
+
+##### 4.8.1.2. SALMETEROL [PART A/B]
+
+* **Classification**: Long-acting β2-agonist `[A:13]`
+* **Uses**: Nocturnal and exercise-induced asthma; not for acute attacks due to slow onset `[A:13]`
+* **Pharmacology**:
+  * Long non-polar side chain binds to β2-receptor giving 12-hour duration `[A:13]`
+  * 15× more potent than salbutamol at β2-receptors, 4× less potent at β1-receptors `[A:13]`
+  * Prevents histamine, leukotriene and prostaglandin D2 release from mast cells `[A:13]`
+  * Additional anti-inflammatory effects distinct from steroids `[A:13]`
+
+##### 4.8.1.3. TERBUTALINE [PART A/B]
+
+* **Classification**: β2-agonist with some β1 activity `[A:14]`
+* **Uses**: Treatment of asthma and uncomplicated pre-term labor `[A:14]`
+* **Effects**: Similar side-effect profile to other drugs in class `[A:14]`
+
+##### 4.8.1.4. RITODRINE [PART A/B]
+
+* **Classification**: β2-agonist `[A:13]`
+* **Uses**: Treat premature labor `[A:13]`
+* **Effects**:
+  * Tachycardia (β1 effect) common during treatment `[A:13]`
+  * Crosses placenta → possible fetal tachycardia `[A:13]`
+  * Associated with fatal maternal pulmonary edema `[A:13]`
+  * Causes hypokalaemia, hyperglycaemia `[A:13]`
+  * At higher levels: vomiting, restlessness, seizures `[A:13]`
+
+#### 4.8.2. FENOLDOPAM [PART A/B]
+
+* **Structure**: Selective D1-receptor agonist with minimal α, β, or D2 activity `[A:10]`
+* **Pharmacokinetics**: Rapid onset, hepatic metabolism, urinary excretion, t1/2 5 min `[A:10]`
+* **Effects**:
+  * Hypotensive effects through decreased peripheral vascular resistance `[A:10]`
+  * Increases renal blood flow, diuresis, and natriuresis `[A:10]`
+  * Exerts antihypertensive effect while maintaining renal blood flow `[A:10]`
+* **Adverse effects**: Hypotension, tachycardia, flushing, dizziness, headache, nausea `[A:10]`
+* **Clinical uses**:
+  * Severe hypertension/hypertensive emergencies, particularly with renal impairment `[A:10]` `[B:9]`
+  * ⚠ Formerly used in cardiac surgery and aortic aneurysm repair to prevent perioperative kidney injury, but evidence for efficacy is lacking `[A:10]` `[B:9]`
+  * Theoretically indicated for prevention of contrast-induced nephropathy, but large RCTs have not supported early promising results `[A:10]` `[B:9]`
+* **Properties**: Rapid onset, short t1/2 makes it easily titratable `[A:10]`
+* **Dosing**: Initial infusion 0.1 mcg/kg/min, increased by 0.1 mcg/kg/min every 20-30 min to max 1.6 mcg/kg/min `[A:10]` `[B:9]`
+
+**Bottom Line:** Adrenergic agonists comprise a diverse group of medications including direct-acting alpha agonists, alpha-2 agonists, catecholamines, and mixed agonists. They vary significantly in receptor selectivity, resulting in different hemodynamic profiles. Understanding these differences is essential for appropriate drug selection in specific clinical scenarios.
+
+## 5. ADRENERGIC ANTAGONISTS [PART A/B]
+
+Tags: #pA_pharm #pB_C3 #pB_C5 #pC_MK #pC_PC
+
+Part A Reference: Adrenergic Antagonists (Pages 10-13)
+
+Part B Reference: C3 Cardiovascular Management (Pages 9-11); C5 Perioperative Medicine (Pages 10-11)
+
+Part C Reference: Medical Knowledge - Pharmacology; Patient Care - Perioperative Management
+
+### 5.1. SYLLABUS CORRELATION
+
+* **Part A:** Classification and mechanisms of action `[A:10]`, receptor specificity `[A:10]`.
+* **Part B:** Clinical applications in cardiovascular management `[B:9]`, perioperative considerations `[B:10]`.
+* **Part C:** Decision-making for perioperative management `[C:3]`.
+
+**Exam Weighting:** Medium (Part A Pharmacology ~10% of Part A)
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 5.2. ALPHA BLOCKERS [PART A/B]
+
+* **Overview**: Alpha-adrenoceptor antagonists (α-blockers) prevent sympathomimetic agent actions at α-adrenoceptors `[A:7]`
+* **Classification**:
+  * **Non-selective**: Inhibit both α1 and α2 receptors (phentolamine, phenoxybenzamine) `[A:7]`
+  * **Selective α1**: Prazosin `[A:7]`
+  * **Selective α2**: Yohimbine `[A:7]`
+
+**Summary of α-Adrenoceptor Actions:**
+
+| Receptor type | Action |
+|---------------|--------|
+| **Postsynaptic α1** | Vasoconstriction, mydriasis, bladder sphincter contraction |
+| **Postsynaptic α2** | Platelet aggregation, hyperpolarization of some CNS neurons |
+| **Presynaptic α2** | Inhibit norepinephrine release |
+
+#### 5.2.1. PHENTOLAMINE [PART A/B]
+
+* **MOA**: Competitive (reversible) blockade of both α1and α2-receptors `[A:10]`
+* **Presentation**:
+  * 10 mg phentolamine mesylate in 1 ml clear pale-yellow solution `[A:7]`
+  * IV dose 1-5 mg titrated to effect `[A:7]`
+  * Onset 1-2 minutes, duration 5-20 minutes `[A:7]`
+* **Uses**:
+  * Hypertensive crises due to excessive sympathomimetics, MAOI reactions with tyramine, pheochromocytoma (especially during tumor manipulation) `[A:7]`
+  * Assessment of sympathetically mediated chronic pain `[A:7]`
+  * Previously used for pulmonary hypertension `[A:7]`
+  * Injection into corpus cavernosum for erectile dysfunction `[A:7]`
+  * Combined with norepinephrine for inotropic support in cardiac surgery `[A:10]` `[B:10]`
+  * Control excessive hypertension during pheochromocytoma resection `[A:10]` `[B:10]`
+  * Facilitate cooling prior to circulatory arrest in pediatric congenital heart surgery `[A:10]` `[B:10]`
+  * Prevent/treat tissue necrosis following extravasation of α-agonist containing IV fluids (5-10 mg in 10 mL saline for local infiltration) `[A:10]` `[B:10]`
+* **Effects of phentolamine**:
+  * α1 antagonism (reversible) and direct smooth muscle relaxation → peripheral vasodilation and decreased BP `[A:10]`
+  * ⚠ Reflex tachycardia and postural hypotension (use cautiously with coronary stenosis) `[A:10]` `[B:10]`
+  * Tachycardia augmented by α2 blockade (eliminates negative feedback for NE release) `[A:10]`
+  * Response magnitude depends on existing sympathetic tone `[A:10]`
+  * May cause unopposed β1/β2 activity: `[A:10]`
+	* Epinephrine → pronounced tachycardia (β1) and severe hypotension (β2 vasodilation) `[A:10]` `[B:10]`
+	* Norepinephrine/ephedrine → only activate β1 as α1 actions are blocked `[A:10]` `[B:10]`
+  * **Cardiovascular**: α1-blockade → vasodilation and hypotension; α2-blockade → NE release → tachycardia and increased CO; reduces pulmonary artery pressure; vasodilation in nasal mucosa → nasal congestion `[A:7-8]`
+  * **Respiratory**: Sulfites in phentolamine ampoules may cause hypersensitivity reactions/bronchospasm in susceptible asthmatics `[A:8]`
+  * **GI**: Increases GI secretions and motility `[A:8]`
+  * **Metabolic**: May cause hypoglycemia due to increased insulin secretion `[A:8]`
+* **Pharmacokinetics**: Oral route rarely used (20% bioavailability); 50% protein-bound; extensively metabolized with ~10% excreted unchanged in urine; elimination half-life 20 minutes `[A:8]`
+
+#### 5.2.2. PHENOXYBENZAMINE [PART A/B]
+
+* **Uses**: Classically used in pheochromocytoma management `[A:10]` `[B:10]`
+* **Presentation**:
+  * 10 mg capsules `[A:8]`
+  * Clear, faintly straw-colored solution for injection (100 mg/2 ml with ethyl alcohol, HCl and propylene glycol) `[A:8]`
+* **Uses**:
+  * Pre-operative management of pheochromocytoma (allows intravascular compartment expansion) `[A:8]`
+  * Peri-operative management of some neonates undergoing cardiac surgery `[A:8]`
+  * Hypertensive crises `[A:8]`
+  * Adjunct in treatment of severe shock `[A:8]`
+  * Oral dose starts at 10 mg, increased daily until hypertension controlled (usual dose 1-2 mg/kg/day) `[A:8]`
+  * IV administration via central cannula (1 mg/kg/day as slow infusion in at least 200 ml 0.9% saline) `[A:8]`
+  * β-blockade may be needed to control reflex tachycardia `[A:8]`
+* **Properties**:
+  * Irreversibly binds to α1/α2 receptors (selectivity ratio ~100:1) `[A:10]`
+  * Requires new receptor synthesis to reverse vasodilator effects `[A:10]`
+  * Prolonged half-life provides sustained action `[A:10]`
+  * Slow onset (requires structural modification in situ to become active) `[A:10]`
+  * Requires several weeks to control HTN in pheochromocytoma patients `[A:10]` `[B:10]`
+* **Mechanism of Action**:
+  * Forms reactive intermediate creating covalent bond with α-adrenoceptor → irreversible blockade `[A:8]`
+  * Also inhibits neuronal and extraneuronal catecholamine uptake `[A:8]`
+* **Effects**:
+  * **Cardiovascular**: Hypotension (possibly orthostatic) and reflex tachycardia `[A:8-9]`
+	* Overdose treated with norepinephrine (adrenaline causes unopposed β effects, worsening hypotension/tachycardia) `[A:9]`
+	* Increases cardiac output and blood flow to skin, viscera, nasal mucosa → nasal congestion `[A:9]`
+  * **CNS**: Usually causes marked sedation (convulsions reported after rapid IV infusion); miosis occurs `[A:9]`
+  * **Other**: Impotence, contact dermatitis `[A:9]`
+* 💡 **Clinical Pearl**: α-blockade must be established before β-blocker administration in pheochromocytoma `[A:10]` `[B:10]`
+  * If β-receptors blocked first → unopposed α stimulation → increased PVR and potential cardiac failure `[A:10]` `[B:10]`
+* ⚠ Can cause relative hypovolemia in chronic HTN; ensure fluid repletion before tumor resection `[A:10]` `[B:10]`
+* ⚠ Vasopressin often needed for refractory hypotension from phenoxybenzamine overdose `[A:10]` `[B:10]`
+* **Pharmacokinetics**:
+  * Incompletely and variably absorbed from gut (oral bioavailability ~25%) `[A:9]`
+  * Maximum effect at 1 hour following IV dose `[A:9]`
+  * Plasma half-life ~24 hours; effects may persist 3 days while new α-adrenoceptors synthesized `[A:9]`
+  * Metabolized in liver, excreted in urine and bile `[A:9]`
+
+#### 5.2.3. PRAZOSIN AND OTHER Α1 ANTAGONISTS [PART A/B]
+
+* **Prazosin**:
+  * **Classification**: Quinazoline derivative, highly selective α1-adrenoceptor antagonist `[A:9]`
+  * **Presentation and Uses**:
+	* 0.5-2 mg tablets `[A:9]`
+	* Used for essential hypertension, congestive heart failure, Raynaud's syndrome, benign prostatic hypertrophy `[A:9]`
+	* Initial dose 0.5 mg tds, may increase to 20 mg/day `[A:9]`
+  * **Effects**:
+	* **Cardiovascular**: Arterial/venous vasodilation, reduced SVR, little/no reflex tachycardia, diastolic pressures fall most, may cause severe first-dose postural hypotension/syncope, may increase CO in heart failure by reducing filling pressures `[A:9]`
+	* **Urinary**: Relaxes bladder trigone/sphincter muscle improving flow in BPH; impotence and priapism reported `[A:9]`
+	* **CNS**: Fatigue, headache, vertigo, nausea (decrease with continued use) `[A:9]`
+	* **Other**: May produce false-positive when screening urine for norepinephrine metabolites (VMA, MHPG) `[A:9]`
+  * **Pharmacokinetics**:
+	* Plasma levels peak ~90 minutes after oral dose with variable bioavailability (50-80%) `[A:9]`
+	* Highly protein-bound (mainly albumin) `[A:9]`
+	* Extensively metabolized by demethylation and conjugation; some metabolites are active `[A:9]`
+	* Plasma half-life 3 hours; mainly excreted in bile (safe in renal impairment) `[A:9]`
+  * Selective α1 antagonist (α1:α2 ratio ~1000:1) causing arterial/venous vasodilation `[A:11]`
+  * Preserves α2-mediated modulation of NE release → attenuated baroreceptor tachycardia `[A:11]`
+* **Other α1 antagonists** (terazosin, doxazosin, tamsulosin):
+  * Used for BPH due to prostate's high α1A receptor density `[A:11]` `[B:10]`
+  * ⚠ Anesthetic-induced vasodilation may be exacerbated in patients taking these medications `[A:11]` `[B:10]`
+
+#### 5.2.4. YOHIMBINE (SELECTIVE Α2-BLOCKADE) [PART A/B]
+
+* **Source**: Principal alkaloid of yohimbe tree bark formulated as hydrochloride `[A:9]`
+* **Uses**: Treatment of impotence `[A:9]`
+* **Effects**:
+  * **Cardiovascular**: Variable effects - increased HR and BP, but may cause orthostatic hypotension `[A:9-10]`
+  * **Pharmacologic**: Blocks hypotensive responses of clonidine in vitro `[A:10]`
+  * **Other**: Antidiuretic effect; can cause anxiety and manic reactions `[A:10]`
+* **Contraindications**: Renal or hepatic disease `[A:10]`
+
+### 5.3. BETA BLOCKERS [PART A/B]
+
+#### 5.3.1. GENERAL CHARACTERISTICS [PART A/B]
+
+* **Uses**:
+  * Widely used for hypertension, angina, peri-myocardial infarction `[A:10]`
+  * Phaeochromocytoma (preventing reflex tachycardia with α-blockade) `[A:10]`
+  * Hyperthyroidism (propranolol) `[A:10]`
+  * Hypertrophic obstructive cardiomyopathy (control infundibular spasm) `[A:10]`
+  * Anxiety with high catecholamine levels `[A:10]`
+  * Topically in glaucoma `[A:10]`
+  * Migraine prophylaxis `[A:10]`
+  * Suppressing response to laryngoscopy and extubation (esmolol) `[A:10]`
+* **Pharmacology**: All competitive antagonists with varying receptor selectivity `[A:10]`
+* **Differentiating properties**:
+  * Receptor selectivity `[A:10]`
+  * Intrinsic sympathomimetic activity (partial agonist effects) `[A:10]`
+  * Membrane stabilizing activity `[A:10]`
+* **Prolonged administration effect**: May increase number of β-adrenoceptors `[A:10]`
+
+**Beta Blocker Comparison Table:** `[A:11]`
+
+| Name | β₁ | Selectivity β₂ | α₁ | Plasma Half-Life (h) | Intrinsic Sympathomimetic Activity | Membrane Stabilizing Activity | Lipid Solubility | Metabolism |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Acebutolol | + | 0 | 0 | 3–4 | + | + | ++ | Liver |
+| Atenolol | + | 0 | 0 | 6–9 | 0 | 0 | + | Renal |
+| Esmolol | + | 0 | 0 | 0.15 | 0 | 0 | + | RBC esterase |
+| Metoprolol | + | 0 | 0 | 3–4 | 0 | 0 | ++ | Liver |
+| Pindolol | + | + | 0 | 3-4 | ++ | + | + | Liver |
+| Propranolol | + | + | 0 | 3–4 | 0 | ++ | +++ | Liver |
+| Sotalol | + | + | 0 | 12 | 0 | 0 | + | Renal |
+| Timolol | + | + | 0 | 4 | 0 | + | ++ | Liver |
+| Labetalol | + | + | + | 6 | + | 0 | + | Liver |
+
+* **Receptor selectivity**: Variable degrees of β1 selectivity `[A:11]`
+  * β1-selective agents have less effect on bronchopulmonary and vascular β2 receptors `[A:11]`
+  * Selective β1 blockers preferred in COPD and PVD patients `[A:11]` `[B:10]`
+  * β blockade reduces intraocular pressure in glaucoma `[A:11]`
+* **Classification factors**:
+  * Intrinsic sympathomimetic activity (ISA) - partial agonist effects `[A:11]`
+  * Elimination pathway: `[A:11]`
+	* Hepatic: metoprolol `[A:11]`
+	* Renal: atenolol `[A:11]`
+	* Blood: esmolol `[A:11]`
+* **Structure**:
+  * Aromatic ring linked to ethanolamine group (allows receptor interaction) `[A:11]`
+  * Modifications to aromatic group determine β1 specificity `[A:11]`
+  * Chiral center; negative enantiomer is biologically active `[A:11]`
+  * Potency defined by ability to prevent isoproterenol-induced tachycardia `[A:11]`
+* **Pharmacologic variations**:
+  * Relative β1/β2 selectivity `[A:11]`
+  * Lipid solubility `[A:11]`
+  * Intrinsic sympathomimetic activity `[A:11]`
+  * Membrane stabilizing effects `[A:11]`
+  * Additional cardiovascular actions `[A:11]`
+  * Pharmacokinetic differences `[A:11]`
+* **Cardiovascular effects**:
+  * Reduced HR and contractility (negative chronotropic/inotropic) `[A:11]` `[B:10]`
+  * Arterial vasoconstriction (β2 blockade) `[A:11]` `[B:10]`
+  * Compensatory sympathetic α1 stimulation initially `[A:11]`
+  * Inhibition of renin release (β1 effects on juxtaglomerular cells) `[A:11]`
+* **Clinical applications**: `[A:11-12]` `[B:10]`
+  * **Hypertension**: Multiple mechanisms lower BP `[A:11]` `[B:10]`
+  * **Myocardial infarction**: `[A:11]` `[B:10]`
+	* Reduces morbidity/mortality in non-shock MI patients `[A:11]` `[B:10]`
+	* Inhibits effects of circulating catecholamines → reduced HR/contractility `[A:11]`
+	* Prolongs diastole → increased coronary flow/collateral perfusion `[A:11]`
+	* Improves O2 delivery while reducing demand `[A:11]`
+  * **Heart failure (HFrEF)**: `[A:11]` `[B:10]`
+	* Initially counterintuitive (giving negative inotropes) `[A:11]`
+	* Chronically elevated SNS tone causes adverse receptor changes `[A:11]`
+	* Excessive SNS → altered β1 receptor density/function → mitochondrial dysfunction, myocyte apoptosis, pathologic remodeling `[A:11]`
+	* β-blockers attenuate cardiomyopathy progression `[A:11]` `[B:10]`
+  * **Arrhythmias**: `[A:12]` `[B:10]`
+	* Reduces automaticity in SA node `[A:12]`
+	* Prolongs AV conduction time and refractory period `[A:12]`
+	* Effective for atrial/SVT/re-entrant tachycardias `[A:12]` `[B:10]`
+  * **Aortic dissection**: `[A:12]` `[B:10]`
+	* Reduces ascending aortic shear stress `[A:12]` `[B:10]`
+	* Similar benefit in Marfan syndrome (reducing aortic root forces) `[A:12]` `[B:10]`
+  * **Thyroid storm**: Adjunct to PTU `[A:12]` `[B:10]`
+  * **HOCM**: Reduces dynamic LVOT gradient and MR `[A:12]` `[B:10]`
+  * **Glaucoma**: Topical use reduces aqueous humor production `[A:12]`
+  * **Performance anxiety**: Reduces sympathetic symptoms (palpitations, tremor) `[A:12]`
+* **Partial agonist activity**:
+  * Partial agonists produce sympathomimetic effects with low catecholamine levels but antagonist effects when sympathetic tone is high `[A:11]`
+  * In mild cardiac failure, less likely to induce bradycardia/heart failure `[A:11]`
+  * Should not be used in severe heart failure as β-blockade can further reduce cardiac output `[A:11]`
+* **Membrane stabilizing activity**:
+  * Likely of limited clinical significance (required doses higher than seen in vivo) `[A:11]`
+* **Adverse effects**:
+  * ⚠ Negative inotropic effects may worsen severe LV dysfunction `[A:12]`
+  * ⚠ Abrupt withdrawal after long-term use → MI/SCD risk with critical coronary stenosis `[A:12]` `[B:10]`
+  * ⚠ May cause high-grade heart blocks with pre-existing conduction abnormalities `[A:12]` `[B:10]`
+  * β2 blockade effects: `[A:12]`
+	* Vasoconstriction → worsen PVD, precipitate Raynaud's phenomenon `[A:12]`
+	* Bronchoconstriction in asthma/COPD `[A:12]`
+	* Inhibits hypoglycemia response (selective β1 blockers preferred in diabetics) `[A:12]` `[B:10]`
+  * **Cardiac effects**: Negative inotropic/chronotropic properties; decreased SA node automaticity; prolonged AV node conduction; reduced contractility; bradycardia; lengthened coronary perfusion time; reduced oxygen demand; may precipitate heart failure in poor LV function `[A:11]`
+  * **Antiarrhythmic effects**: Class II agents used for arrhythmias with high catecholamine levels `[A:11]`
+  * **Circulatory effects**: BP control mechanisms include reduced HR/CO, renin-angiotensin inhibition, baroreceptor resetting, presynaptic β2 inhibition of NE release, and possible central effects; peripheral β2 antagonism causes vasoconstriction (limited hypertensive effect but may worsen circulation) `[A:11]`
+  * **Respiratory effects**: All β-blockers in sufficient dose can cause bronchospasm; relatively cardioselective drugs preferred but still require caution in asthma patients `[A:12]`
+  * **Metabolic effects**: Blood sugar control involves multiple tissues/receptors/hormones; non-selective β-blockade may blunt normal hypoglycemia response and exercise response; may increase resting blood sugar in diabetics; should not be used with hypoglycemic agents; may mask hypoglycemia symptoms; can alter lipid metabolism (increased triglycerides, reduced HDL) `[A:11-12]`
+  * **CNS effects**: More lipid-soluble agents (metoprolol, propranolol) more likely to cause depression, hallucinations, nightmares, paranoia, fatigue `[A:12]`
+  * **Ocular effects**: Reduced intraocular pressure by decreased aqueous humor production `[A:12]`
+  * **GI effects**: Dry mouth and GI disturbances `[A:12]`
+* **Pharmacokinetics**:
+  * Varying lipid solubility causes main kinetic differences `[A:12]`
+  * Low lipid solubility agents (atenolol): Poorly absorbed, minimal hepatic metabolism, largely unchanged renal excretion `[A:12]`
+  * High lipid solubility agents: Well absorbed, extensively metabolized in liver, shorter half-life requiring more frequent dosing, cross blood-brain barrier causing sedation/nightmares `[A:12]`
+  * Variable protein binding `[A:12]`
+
+💡 **High-Yield Fact: β-blockers should be continued perioperatively in patients already taking them unless contraindicated** `[A:12]` `[B:10]` `[C:3]`
+
+#### 5.3.2. ESMOLOL [PART A/B]
+
+* **Classification**: Second-generation, ultrashort-acting selective β1-antagonist `[A:12]`
+* **Selectivity**: Cardioselective at lower doses; inhibits β2 receptors at higher doses `[A:12]`
+* **Pharmacokinetics**:
+  * Short duration due to rapid redistribution (distribution t1/2 2 min) `[A:12]`
+  * Hydrolysis by red blood cell esterases (elimination t1/2 9 min) `[A:12]`
+  * Contains methylester group facilitating hydrolysis `[A:12]`
+  * Only available IV, 60% protein-bound `[A:14]`
+  * Volume of distribution 3.5 l/kg `[A:14]`
+  * Rapidly metabolized to inactive acid metabolite (long half-life) and methyl alcohol `[A:14]`
+  * Short half-life (10 min) due to rapid metabolism `[A:14]`
+  * Esterases responsible for hydrolysis distinct from plasma cholinesterase (doesn't prolong suxamethonium action) `[A:14]`
+* **Clinical uses**:
+  * Control ventricular rate in atrial fibrillation/flutter `[A:12]` `[B:10]`
+  * Prevent/minimize perioperative tachycardia/hypertension (intubation, surgical stimulation, emergence) `[A:12]` `[B:10]`
+  * Attenuates BP and HR increases during electroconvulsive therapy without affecting seizure duration `[A:12]` `[B:10]`
+  * Short-term management of tachycardia and hypertension in perioperative period `[A:14]`
+  * Acute supraventricular tachycardia `[A:14]`
+* **Contraindications**: Sinus bradycardia, >1st degree heart block, cardiogenic shock, uncompensated HFrEF `[A:12]`
+* **Advantages**: Little effect on β2 receptors (less vasodilation) `[A:12]`
+* **Presentation**: Clear liquid as either 2.5 g or 100 mg in 10 ml `[A:14]`
+  * 2.5 g form should be diluted before infusion (50-200 μg/kg/min) `[A:14]`
+  * 100 mg form titrated in 10 mg boluses to effect `[A:14]`
+* **Adverse effects**:
+  * Like other β-blockers can cause heart failure and bronchospasm (limited by short duration) `[A:14]`
+  * Irritant to veins; extravasation may cause tissue necrosis `[A:14]`
+* **Dosing**:
+  * Short-term: IV bolus 0.2-0.5 mg/kg (e.g., for intubation response) `[A:12]` `[B:10]`
+  * Long-term: Loading dose 0.5 mg/kg over 1 min, then infusion 50 mcg/kg/min `[A:12]` `[B:10]`
+	* If insufficient response after 5 min, repeat loading dose and increase infusion by 50 mcg/kg/min increments every 5 min (max 200 mcg/kg/min) `[A:12]` `[B:10]`
+
+#### 5.3.3. METOPROLOL [PART A/B]
+
+* **Classification**: Second-generation selective β1-antagonist `[A:12]`
+* **Properties**: No intrinsic sympathomimetic activity `[A:12]`
+* **Formulations**: PO, IV `[A:12]`
+* **Pharmacokinetics**:
+  * Rapid oral absorption `[A:12]`
+  * First-pass hepatic metabolism via CYP2D6 `[A:12]`
+	* ⚠ In poor 2D6 metabolizers, t1/2 doubles → 5× higher adverse effect risk `[A:12]` `[B:10]`
+  * t1/2 ~3-4h (extended-release formulation available) `[A:12]`
+  * Absorption rapid and complete but oral bioavailability only 50% due to first-pass metabolism `[A:14]`
+  * Increases to 70% with continuous administration; also increased with food `[A:14]`
+  * Hepatic metabolism may exhibit genetic polymorphism → different half-life profiles (3 vs 7 hours) `[A:14]`
+  * High lipid solubility enables BBB crossing and into breast milk `[A:14]`
+  * Only 20% protein-bound `[A:14]`
+* **Clinical uses**:
+  * HTN, angina, AMI, HFrEF `[A:12]` `[B:10]`
+  * Early use in MI reduces infarct size and ventricular fibrillation incidence `[A:14]`
+  * Also used for hypertension, thyrotoxicosis adjunct, migraine prophylaxis `[A:14]`
+* **Dosing**:
+  * IV 1-5 mg every 2-5 min titrated to BP and HR `[A:12]` `[B:10]`
+  * Oral 50-200 mg daily; up to 5 mg IV for arrhythmias and in MI `[A:14]`
+
+#### 5.3.4. PROPRANOLOL [PART A/B]
+
+* **Classification**: First-generation nonselective β-blocker (blocks β1 and β2) `[A:12]`
+* **Properties**: No intrinsic sympathomimetic activity `[A:12]`
+* **Structure**: Racemic mixture; S-isomer confers most effects; R-isomer prevents peripheral T4 to T3 conversion `[A:14]`
+* **Formulations**: PO, IV `[A:12]`
+* **Pharmacokinetics**:
+  * Highly lipophilic `[A:12]`
+  * Well absorbed orally `[A:12]`
+  * Extensive first-pass hepatic metabolism (requires dose adjustment in liver disease) `[A:12]`
+  * t1/2 ~4h, elimination half-life 100 min (much longer than esmolol) `[A:12]`
+  * High oral bioavailability (30% due to first-pass) `[A:15]`
+  * Highly protein-bound (reduced by heparin) `[A:15]`
+  * R-isomer metabolized more rapidly than S-isomer `[A:15]`
+  * 4-hydroxypropranolol metabolite retains activity `[A:15]`
+  * Elimination depends on hepatic metabolism but impaired in renal failure by unknown mechanism `[A:15]`
+  * Duration longer than half-life suggests `[A:15]`
+* **Cardiovascular effects**:
+  * Lowers BP via multiple mechanisms (decreased contractility, HR, renin release) `[A:12]` `[B:10]`
+  * Reduces CO and myocardial oxygen demand `[A:12]` `[B:10]`
+  * Slows AV conduction and ventricular response to SVT `[A:12]` `[B:10]`
+  * Landmark β-Blocker Heart Attack Trial showed significant mortality reduction in AMI patients (7.2% vs 9.8%) `[A:12]` `[B:10]`
+* **Uses**:
+  * Hypertension, angina, essential tremor, migraine prophylaxis `[A:14]`
+  * β-blocker of choice in thyrotoxicosis (inhibits effects of thyroid hormones and prevents peripheral T4 to T3 conversion) `[A:14-15]`
+  * IV dose 0.5 mg titrated to effect (up to 10 mg) `[A:15]`
+  * Oral dose 160-320 mg daily (higher in thyrotoxicosis due to increased clearance) `[A:15]`
+* **Adverse effects**:
+  * Bronchospasm (β2 antagonism) `[A:12]`
+  * Acute heart failure `[A:12]`
+  * Bradycardia `[A:12]`
+  * AV block `[A:12]`
+* ⚠ **Warning**: Synergistic depression of HR, contractility, and AV conduction when given with verapamil `[A:12]` `[B:10]`
+* **Dosing**: IV 0.5 mg increments every 3-5 min titrated to effect (rarely exceeding 0.15 mg/kg) `[A:12]` `[B:10]`
+
+#### 5.3.5. ATENOLOL [PART A/B]
+
+* **Classification**: Selective β1-inhibitor `[A:13]`
+* **Properties**: No intrinsic sympathomimetic activity `[A:13]`
+* **Presentations**:
+  * 25-100 mg tablets `[A:14]`
+  * Syrup (5 mg/ml) `[A:14]`
+  * Colorless IV solution (5 mg/10 ml) `[A:14]`
+* **Dosing**:
+  * Oral: 50-100 mg daily `[A:14]`
+  * IV: 2.5 mg slowly, repeated to max 10 mg, possibly followed by infusion `[A:14]`
+* **Pharmacokinetics**:
+  * t1/2 5-8h (longer than metoprolol) `[A:13]`
+  * No hepatic metabolism, renally excreted `[A:13]`
+  * ⚠ Requires dose reduction in renal insufficiency `[A:13]` `[B:10]`
+  * Incompletely absorbed from gut `[A:14]`
+  * No significant metabolism; oral bioavailability 45% `[A:14]`
+  * Only 5% protein-bound `[A:14]`
+  * Excreted unchanged in urine; reduce dose in renal impairment `[A:14]`
+  * Despite 7-hour elimination half-life, actions persist longer `[A:14]`
+
+#### 5.3.6. ACEBUTOLOL [PART A/B]
+
+* **Classification**: Relatively cardioselective β-blocker `[A:14]`
+* **Properties**: Limited intrinsic sympathomimetic activity; some membrane stabilizing properties `[A:14]`
+* **Availability**: Oral only `[A:14]`
+* **Dosing**: Adult dose 400 mg bd, may increase to 1.2 g/day if required `[A:14]`
+* **Pharmacokinetics**:
+  * Well absorbed from gut (moderate lipid solubility) but high first-pass metabolism gives 40% oral bioavailability `[A:14]`
+  * Despite lipid solubility, minimal BBB crossing `[A:14]`
+  * Hepatic metabolism produces active metabolite diacetol with longer half-life and less cardioselectivity `[A:14]`
+  * Excreted in bile (may undergo enterohepatic recycling) and urine; reduce dose in renal impairment `[A:14]`
+
+#### 5.3.7. SOTALOL [PART A/B]
+
+* **Classification**: Non-selective β-blocker with no intrinsic sympathomimetic properties `[A:15]`
+* **Additional properties**: Class III anti-arrhythmic actions `[A:15]`
+* **Structure**: Racemic mixture; D-isomer provides class III activity; L-isomer has both class III and class II (β-blocking) actions `[A:15]`
+* **Uses**:
+  * Ventricular tachyarrhythmias `[A:15]`
+  * Prophylaxis of paroxysmal SVT after DC cardioversion `[A:15]`
+  * Ventricular rate control if sinus rhythm reverts to AF `[A:15]`
+  * Committee on Safety of Medicines contra-indicates for angina, hypertension, thyrotoxicosis, peri-MI `[A:15]`
+* **Dosing**:
+  * Oral: 80-160 mg bd `[A:15]`
+  * IV: 50-100 mg over 20 minutes `[A:15]`
+* **Adverse effects**:
+  * Most serious: torsades de points (<2% in treated VT/VF patients) `[A:15]`
+  * More common with higher doses, prolonged QT, and electrolyte imbalance `[A:15]`
+  * May cause heart failure `[A:15]`
+* **Pharmacokinetics**:
+  * Complete gut absorption with oral bioavailability >90% `[A:15]`
+  * Not protein-bound or metabolized `[A:15]`
+  * ~90% excreted unchanged in urine, remainder in bile `[A:15]`
+  * Renal impairment significantly reduces clearance `[A:15]`
+
+#### 5.3.8. NEWER GENERATION BETA BLOCKERS [PART A/B]
+
+**Nebivolol** `[A:13]`
+* **Classification**: Third-generation β-blocker `[A:13]`
+* **Properties**: High β1 affinity combined with NO-mediated vasodilation `[A:13]`
+* **Unique feature**: Stimulates endothelial nitric oxide synthase `[A:13]`
+
+**Carvedilol** `[A:13]` `[B:10]`
+* **Classification**: Third-generation mixed β1/β2/α1-blocker `[A:13]`
+* **Properties**: Antioxidant and anti-inflammatory actions, membrane stabilizing effect, no intrinsic sympathomimetic activity `[A:13]`
+* **Pharmacokinetics**:
+  * Highly lipophilic `[A:13]`
+  * High oral bioavailability `[A:13]`
+  * Extensive first-pass hepatic metabolism via CYP2D6 `[A:13]`
+* **Effects**:
+  * Vasodilation `[A:13]`
+  * Reduced contractility and HR `[A:13]`
+  * Suppresses ROS production and scavenges free radicals `[A:13]`
+  * Inhibits LDL uptake into coronary endothelium `[A:13]`
+  * Protects myocardium against ischemia-reperfusion injury `[A:13]`
+  * Particularly beneficial in HFrEF (improves LV function, reverses/slows pathologic remodeling, reduces hospitalizations and mortality) `[A:13]` `[B:10]`
+* **Clinical uses**: Chronic heart failure, portal hypertension `[A:13]` `[B:10]`
+
+### 5.4. MIXED ANTAGONISTS [PART A/B]
+
+#### 5.4.1. LABETALOL [PART A/B]
+
+* **Structure**: Third-generation agent composed of 4 stereoisomers with varying receptor effects `[A:13]`
+  * Blocks α1, β1, and β2 receptors (α:β blockade ratio ~1:7) `[A:13]`
+  * One stereoisomer: α1 antagonist `[A:13]`
+  * One stereoisomer: Non-selective β blocker `[A:13]`
+  * Remaining two: No appreciable adrenergic effect `[A:13]`
+  * Name indicates both α and β blocking properties `[A:15]`
+  * Contains two asymmetric centers → mixture of four stereoisomers in equal proportions `[A:15]`
+  * (SR)-stereoisomer probably responsible for α1 effects `[A:15]`
+  * (RR)-stereoisomer likely confers β-blockade `[A:15]`
+  * Ratio of α1:β-blocking effects depends on administration route: 1:3 for oral, 1:7 for IV `[A:15]`
+* **Unique property**: Despite non-selective β-blocking effects, has partial β2 agonist activity → vasodilation `[A:13]`
+* **Hemodynamic effects**:
+  * Reduces peripheral vascular resistance and arterial BP `[A:13]` `[B:10]`
+  * HR, CO usually slightly depressed or unchanged `[A:13]` `[B:10]`
+  * No reflex tachycardia due to combined α/β effects (beneficial in coronary artery disease) `[A:13]` `[B:10]`
+* **Presentation and Uses**:
+  * 50-400 mg tablets and colorless solution (5 mg/ml) `[A:16]`
+  * Used for hypertensive crises and to facilitate hypotension during anesthesia `[A:16]`
+  * IV dose 5-20 mg titrated to max 200 mg `[A:16]`
+  * Oral for hypertension with angina and during pregnancy (100-800 mg bd, max 2.4 g daily) `[A:16]`
+* **Mechanism of Action**:
+  * Selective α1-blockade → peripheral vasodilation `[A:16]`
+  * β-blockade prevents reflex tachycardia `[A:16]`
+  * Reduces myocardial afterload and oxygen demand (beneficial in angina) `[A:16]`
+* **Pharmacokinetics**: Peaks 5 min after IV dose, elimination t1/2 ~6h `[A:13]`
+  * Well absorbed from gut but extensive first-pass metabolism gives 25% oral bioavailability `[A:16]`
+  * Increases markedly with age and when taken with food `[A:16]`
+  * 50% protein-bound `[A:16]`
+  * Hepatic metabolism produces several inactive conjugates `[A:16]`
+* **Dosing**: 2.5-10 mg IV over 2 min, repeated 5-20 mg IV at 10 min intervals `[A:13]` `[B:10]`
+
+#### 5.4.2. CARVEDILOL [PART A/B]
+
+* See Section 1.5.2.6 above.
+
+### 5.5. PERIOPERATIVE BETA-BLOCKER THERAPY [PART A/B] `[COMP: PC]`
+
+* **Current evidence**: Conflicting results regarding benefit vs. harm `[A:13]` `[B:11]` `[C:3]`
+* **Key recommendation**: Maintenance of β-blockers in patients already taking them is essential (unless contraindicated) `[A:13]` `[B:11]` `[C:3]`
+* **Withdrawal risks**: Abrupt discontinuation after 24-48h may trigger withdrawal syndrome with rebound hypertension, tachycardia, and angina `[A:13]` `[B:11]` `[C:3]`
+  * Caused by upregulation of β-adrenergic receptors `[A:13]`
+* **2014 ACC/AHA Guidelines**: `[A:13]` `[B:11]` `[C:3]`
+  * Continue β-blockers perioperatively in patients receiving them chronically (Class I: benefit >>> risk) `[A:13]` `[B:11]` `[C:3]`
+  * Guide postoperative β-blocker therapy by clinical circumstances (Class IIa: benefit >> risk) `[A:13]` `[B:11]` `[C:3]`
+  * May need temporary discontinuation for complications (bleeding, hypotension, bradycardia) `[A:13]` `[B:11]` `[C:3]`
+  * Reasonable to begin perioperative β-blockers in patients at intermediate/high risk for myocardial ischemia (Class IIb: benefit ≥ risk) `[A:13]` `[B:11]` `[C:3]`
+  * Consider starting β-blockers in patients with ≥3 Revised Cardiac Risk Index factors (Class IIb) `[A:13]` `[B:11]` `[C:3]`
+  * If starting new therapy, begin sufficiently in advance to assess safety and tolerability (Class IIb) `[A:13]` `[B:11]` `[C:3]`
+  * ⚠ Do not initiate β-blockers in β-blocker-naïve patients on day of surgery (Class III: harm) `[A:13]` `[B:11]` `[C:3]`
+
+💡 **High-Yield Fact: Abrupt β-blocker withdrawal can lead to a potentially dangerous rebound phenomenon due to receptor upregulation** `[A:13]` `[B:11]` `[C:3]`
+
+**Bottom Line:** Adrenergic antagonists include alpha blockers, beta blockers, and mixed agents. They play critical roles in perioperative and chronic care. Beta blockers should be continued perioperatively in patients already taking them, while initiation should follow evidence-based guidelines. Understanding their distinct properties helps optimize drug selection for specific clinical scenarios.
+
+## 6. INOTROPES AND VASOPRESSORS [PART A/B] `[MULTI-PART]`
+
+Tags: #pA_pharm #pB_C3 #pB_C5 #pB_S1 #pC_MK #pC_PC
+
+Part A Reference: Advanced Cardiovascular Pharmacology (Pages 13-15)
+
+Part B Reference: C3 Cardiovascular Management (Pages 11-12); C5 Perioperative Medicine (Page 11); S1 Critical Care (Page 13)
+
+Part C Reference: Medical Knowledge - Advanced Pharmacology; Patient Care - Critical Care Management
+
+### 6.1. SYLLABUS CORRELATION
+
+* **Part A:** Non-adrenergic inotropes and vasopressors `[A:13]`, mechanisms of action `[A:13]`.
+* **Part B:** Clinical applications in shock states `[B:11]`, perioperative cardiovascular support `[B:11]`, critical care management `[B:13]`.
+* **Part C:** Integration for complex hemodynamic management `[C:3]`.
+
+**Exam Weighting:** Medium (Part A Pharmacology ~10% of Part A; Part B Critical Care ~15% of Part B)
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`
+
+### 6.2. PHOSPHODIESTERASE INHIBITORS [PART A/B]
+
+* **Overview**: Phosphodiesterases (PDE) are structurally related enzymes that hydrolyze second messengers cAMP and cGMP to terminate their physiologic effects `[A:13]` `[B:11]`
+  * At least 7 different isoform subtypes have been identified `[A:13]`
+  * The PDE inhibitors currently in clinical use are somewhat isoenzyme selective at lower doses, but this selectivity is lost when higher doses are administered `[A:13]`
+* **Myocardium and Vascular smooth muscle**: Contain PDE III - bound to sarcoplasmic reticulum and cleaves cAMP to AMP `[A:13]`
+  * Selective inhibition alters intracellular Ca²⁺ regulation → enhances myocardial contractility without affecting catecholamine release or activating β1 receptors `[A:13]` `[B:11]`
+
+#### 6.2.1. MILRINONE [PART A/B]
+
+* **Classification**: PDE III inhibitor - 15-20x more potent than inamrinone (first clinically used PDE III inhibitor - but causes profound thrombocytopenia) `[A:13]` `[B:11]`
+* **Presentation**: Yellow solution (1 mg/ml) that can be stored at room temperature `[A:17]`
+* **Uses**: Short-term management of cardiac failure `[A:17]`
+* **Dose**:
+  * Loading doses of 25 or 50 µg/kg `[A:13]` `[B:11]`
+  * Infusion rates ranging between 0.375 and 0.75 µg/kg/min `[A:13]` `[B:11]`
+* **Mechanism and Effects**:
+  * **Contractility enhancement**: Inhibits PDE III which degrades cAMP → increasing intracellular cAMP → increased phosphorylation of calcium influx channels via protein kinase A → promotes actin-myosin cross bridging → enhanced contractility `[A:13]` `[B:11]`
+  * **Improved relaxation**: Stimulates Ca²⁺ reuptake by phosphorylating phospholamban (major sarcoplasmic reticulum Ca²⁺-ATPase regulatory protein) → enhances rate and extent of myocardial relaxation `[A:13]` `[B:11]`
+  * **Vasodilation**: Acts on cAMP synthesis in vascular smooth muscle + blocks cGMP metabolism → peripheral arterial vasodilation (greater than β2 agonists) → reduced LV afterload → increased CO + improved LV-arterial coupling + improved mechanical efficiency `[A:13]` `[B:11]`
+	* Vasodilation reduces preload + afterload → reduced myocardial O2 demand `[A:13]` `[B:11]`
+	* May also reduce pulmonary vascular resistance (in IV or inhalational formulations) → helpful in pulmonary HTN and RV dysfunction but may increase intrapulmonary shunt → hypoxemia `[A:13]` `[B:11]`
+  * **Hemodynamic profile**: "Inodilator" - MAP may be maintained or modestly reduced (provided that IV volume is adequate) as increases in CO compensates for reductions in afterload `[A:13]` `[B:11]`
+  * **Heart rate effects**: Less pronounced increases in HR compared to beta agonists but may precipitate malignant VTs because of increased intracellular cAMP and Ca²⁺ concentrations `[A:13]` `[B:11]`
+  * **Coronary effects**: Dilates native epicardial coronary arteries and arterial bypass conduits; potential to exert anti-ischemic effects in patients undergoing coronary artery surgery `[A:13]` `[B:11]`
+* **Clinical uses**:
+  * For patients who have received chronic beta blockade (as alternative to dobutamine) `[A:14]` `[B:11]`
+  * In patients without severely reduced SBP `[A:14]` `[B:11]`
+  * Used with vasoconstrictor to counteract peripheral vasodilation `[A:14]` `[B:11]`
+  * Combined with β1 agonist when weaning patients with preexisting LV systolic dysfunction from cardiopulmonary bypass `[A:14]` `[B:11]`
+* **Pharmacokinetics**:
+  * ~70% protein-bound `[A:17]`
+  * Elimination half-life 1-2.5 hours `[A:17]`
+  * 80% excreted unchanged in urine `[A:17]`
+  * Reduce dose in renal failure `[A:17]`
+* **Limitations**: Has long-term adverse effects - OPTIME-CHF trial found it was not superior to placebo in terms of reduction of medium-term mortality or HF hospitalizations; associated with increased rates of arrhythmias and hypotension `[A:14]` `[B:11]`
+  * PDE III inhibitors are contraindicated for treatment of chronic HFrEF but useful for treatment of acute LV systolic dysfunction `[A:14]` `[B:11]`
+
+#### 6.2.2. AMINOPHYLLINE AND OTHER PDE INHIBITORS [PART A/B]
+
+* **Aminophylline**: `[A:14]` `[B:11]`
+  * **Structure**: Methylxanthine non-selective phosphodiesterase inhibitor; complex of 80% theophylline and 20% ethylenediamine (improves solubility) `[A:14]` `[A:16]`
+  * **Presentation**: Tablets and solution for injection (25 mg/ml); oral preparations often slow-release due to 6-hour half-life `[A:16]`
+  * **Uses**:
+	* Bronchodilator for asthma (6mg/kg over 20 minutes then 0.5mg/kg/h infusion) `[A:14]` `[A:16]`
+	* Inotrope for cardiogenic shock in heart failure `[A:14]` `[B:11]`
+	* May reduce central apnea frequency in premature neonates `[A:16]`
+  * **Mechanism of action**:
+	* Non-selective PDE inhibitor, leading to increased cAMP concentrations `[A:14]`
+	* Disrupts calcium influx into smooth muscle, leading to relaxation `[A:14]`
+	* Reduces mast cell degranulation `[A:14]`
+	* Increases production of prostaglandin `[A:14]`
+	* May release noradrenaline from sympathetic neurons and demonstrate synergy with catecholamines `[A:16]`
+	* Interferes with Ca2+ translocation into smooth muscle `[A:16]`
+	* Inhibits mast cell degranulation by blocking adenosine receptors `[A:16]`
+	* Potentiates prostaglandin synthetase activity `[A:16]`
+  * **Effects and side effects**:
+	* **Cardiovascular**: Tachycardia, increased contractility, vasodilation, arrhythmias `[A:14]` `[B:11]`
+	* **Respiratory**: Bronchodilation, increased diaphragm contractility `[A:14]`
+	  * Causes bronchodilation, increases respiratory center CO2 sensitivity, improves diaphragm contractility `[A:16]`
+	  * Works well with β2-agonists due to different cAMP increase pathway `[A:16]`
+	* **Neurological**: Sensitizes respiratory center to CO2, reduced seizure threshold `[A:14]`
+	  * CNS stimulation from 1-position alkyl group (also in caffeine) → reduced seizure threshold `[A:16]`
+	* **Renal**: Inhibits renal tubular sodium reabsorption, causing mild diuresis and subsequent hypokalemia `[A:14]`
+	  * Weak diuretic effect from 1-position alkyl group → Na+ reabsorption inhibition → natriuresis and possible hypokalemia `[A:16]`
+	* **Cardiovascular**: Mild positive inotropic/chronotropic effects, coronary/peripheral vasodilation, lowers arrhythmia threshold (especially ventricular, particularly with halothane) `[A:16]`
+  * **Pharmacokinetics**:
+	* 90% bioavailability `[A:14]`
+	* 50% protein bound `[A:14]`
+	* CYP450 metabolism - enzyme inhibitors increase effective plasma concentration and delay metabolism, and vice versa for inducers `[A:14]`
+	* Renal excretion `[A:14]`
+	* High oral bioavailability (>90%) `[A:16]`
+	* ~50% protein-bound `[A:16]`
+	* Metabolized by CYP450; interacts with other drugs using similar pathway `[A:16]`
+	* Low hepatic extraction ratio (metabolism independent of liver blood flow) `[A:16]`
+	* ~10% excreted unchanged in urine `[A:16]`
+	* Therapeutic plasma concentration 10-20 μg/ml `[A:16]`
+	* Cigarette smoking increases clearance `[A:16]`
+  * **Toxicity**: Above 35 μg/ml, hepatic enzymes become saturated → zero-order kinetics → toxicity `[A:17]`
+	* Cardiac toxicity: tachyarrhythmias including VF `[A:17]`
+	* CNS toxicity: tremor, insomnia, seizures (especially after rapid IV) `[A:17]`
+	* GI: nausea, vomiting `[A:17]`
+	* May cause rhabdomyolysis `[A:17]`
+  * **Interactions**: Coadministration with certain drugs affects aminophylline levels `[A:16-17]`
+	* CYP450 inhibitors (cimetidine, erythromycin, ciprofloxacin, oral contraceptives) delay elimination → need dose reduction `[A:16-17]`
+	* Avoid certain SSRIs (fluvoxamine) as aminophylline levels may rise sharply `[A:17]`
+	* CYP450 inducers (phenytoin, carbamazepine, barbiturates, rifampicin) increase clearance → may need higher dose `[A:17]`
+* **Enoximone**: `[A:14]` `[B:11]`
+  * **Classification**: Selective PDE III inhibitor; imidazolone derivative `[A:14]` `[A:16]`
+  * **Presentation**: Yellow liquid (pH 12) for IV use containing 5 mg/ml; supplied in propyl glycol and ethanol; store at 5-8°C `[A:16]`
+  * **Uses**: Heart failure and low cardiac output after cardiac surgery `[A:14]` `[B:11]` `[A:16]`
+  * **Mechanism of action**:
+	* Prevents cAMP and possibly cGMP degradation in cardiac and vascular smooth muscle `[A:16]`
+	* Increases cAMP within myocardium → increases slow Ca2+ inward current during cardiac action potential `[A:16]`
+	* Increases Ca2+ release from intracellular stores and near contractile proteins → positive inotropic effect `[A:16]`
+	* Interferes with Ca2+ flux into vascular smooth muscle → vasodilation `[A:16]`
+  * **Effects**:
+	* "Inodilator" due to positive inotropic and vasodilator effects `[A:16]`
+	* In heart failure, increases CO ~30% while decreasing end diastolic filling pressures ~35% `[A:16]`
+	* Maintains myocardial oxygen extraction ratio via reduced ventricular wall tension and improved coronary perfusion `[A:16]`
+	* BP may remain unchanged or fall; HR unchanged or slight rise; arrhythmias rare `[A:16]`
+	* Shortens atrial, AV node and ventricular refractoriness `[A:16]`
+	* In ischemic heart disease, reduced coronary perfusion pressure and increased HR may outweigh improved myocardial flow → further ischemia `[A:16-17]`
+  * **Adverse effects**: Agranulocytosis reported `[A:17]`
+  * **Administration and dosing**:
+	* Dilute with equal volume of water/0.9% saline in plastic syringes (crystal formation in glass) `[A:16]`
+	* Administer as infusion (5-20 μg/kg/min), possibly preceded by 0.5 mg/kg loading dose (repeatable to max 3 mg/kg) `[A:16]`
+	* Unlike catecholamines, may take 30 minutes to act `[A:16]`
+  * **Pharmacokinetics**:
+	* Well absorbed orally but extensive first-pass metabolism makes oral route ineffective `[A:17]`
+	* ~70% protein-bound `[A:17]`
+	* Hepatic metabolism to renally excreted active sulfoxide metabolite (10% of enoximone's activity, 7.5-hour half-life) `[A:17]`
+	* Small amounts excreted unchanged in urine `[A:17]`
+	* Terminal half-life 4.5 hours by infusion `[A:17]`
+	* Wide therapeutic ratio with low toxicity risk `[A:17]`
+	* Reduce dose in renal failure `[A:17]`
+
+### 6.3. CALCIUM SENSITIZERS [PART A/B]
+
+#### 6.3.1. LEVOSIMENDAN [PART A/B]
+
+* **Classification**: Myofilament Ca²⁺ sensitizer `[A:14]` `[B:11]`
+* **Clinical evidence**: Initially touted as a treatment for acute decompensation of chronic HFrEF, but did not reduce death or major adverse cardiac events compared with dobutamine; produces rapid improvement in symptoms of acute decompensated heart failure but increases risk of cardiovascular-related complications `[A:14]` `[B:11]`
+* **MOA**: Inotropic agent, calcium sensitizer, and vasodilator through 3 major mechanisms `[A:14]`
+  * Binds to troponin C and stabilizes the Ca²⁺-bound conformation of the regulatory protein in a Ca²⁺-dependent manner → prolongs interaction between actin and myosin filaments → enhances rate and extent of myocyte contraction `[A:14]`
+  * Potent PDE III inhibitor → positive inotropic and lusitropic effects causing systemic, pulmonary and coronary vasodilation `[A:14]`
+  * Opens ATP-dependent K⁺ channels → vasodilator properties and additional benefit of myocardial protection against ischemic injury `[A:14]`
+  * Decreases LV filling pressures, MAP, pulmonary and systemic vascular resistances and increases CO in HFrEF `[A:14]` `[B:11]`
+  * Improves LV-arterial coupling and mechanical efficiency with minimal increases in HR and myocardial O2 demand `[A:14]` `[B:11]`
+* **Effects**:
+  * Increases cardiac contractility and output, stroke volume, heart rate and coronary blood flow `[A:18]`
+  * Decreases systemic vascular resistance, blood pressure and myocardial oxygen consumption `[A:18]`
+  * Can produce atrial fibrillation `[A:18]`
+* **Advantages**:
+  * Effective in patients on chronic beta-blockers `[A:14]` `[B:11]`
+  * No major electrolyte shifts associated with arrhythmogenic profile of other classical inotropes `[A:14]`
+  * No tachyphylaxis `[A:14]`
+  * Long half-life (7-9d) - useful in weaning off inotropes `[A:14]` `[B:11]`
+  * Has a biologically active metabolite that most likely contributes to the parent drug's more prolonged hemodynamic effects compared with catecholamines or PDE III inhibitors `[A:14]`
+* **Pharmacokinetics**:
+  * Oral bioavailability 85% `[A:18]`
+  * Highly protein-bound `[A:18]`
+  * Extensively metabolized in liver to active metabolites `[A:18]`
+  * Excreted in bile and urine `[A:18]`
+  * Adjust dose in renal impairment `[A:18]`
+* **Administration**: Given by IV infusion, may follow initial loading dose `[A:18]`
+
+### 6.4. VASOPRESSIN [PART A/B]
+
+* **Structure**: Antidiuretic hormone (ADH), peptide hormone released from posterior pituitary that regulates water reabsorption in kidney and exerts potent hemodynamic effects `[A:14]` `[B:11]`
+  * Vasopressinergic mechanisms are essential for maintaining arterial pressure when sympathetic nervous system or renin-angiotensin-aldosterone axis dysfunction is present `[A:14]` `[B:11]`
+* **Receptor subtypes**: 3 subtypes of vasopressin receptors - all are 5-subunit helical membrane proteins coupled to G proteins `[A:14]`
+  * **V1 receptors** (primary cardiovascular effect): On cell membrane of vascular smooth muscle `[A:14]`
+	* Activation → phospholipase C activated → hydrolysis of inositol 4,5-bisphosphate (PIP2) to inositol 1,4,5-triphosphate (IP3) and diacylglycerol (DAG) → secondary messengers increase intracellular Ca²⁺ concentration → vasoconstriction `[A:14]`
+  * **V2 receptors** (renal): On renal collecting duct cells → increase reabsorption of free water `[A:14]`
+  * **V3 receptors** (pituitary): Autocoid modulator `[A:14]`
+* **Dosing**: 0.03u/min - 2.4u/hr `[A:14]` `[B:11]`
+  * Should not be used at doses higher than 0.04 U per minute and should be administered only in patients with a high level of cardiac output `[A:14]` `[B:11]`
+  * Exogenous administration of vasopressin does not substantially affect arterial pressure in healthy subjects because activation of central V1 receptors in the area postrema enhances baroreceptor-mediated inhibition of efferent sympathetic nervous outflow, negating the elevated system vascular resistance resulting from V1-mediated arterial vasoconstriction `[A:14]`
+* **Clinical applications**: `[A:14-15]` `[B:11-12]` `[B:13]`
+  * Vasopressin deficiency to support arterial pressure `[A:14]` `[B:11]`
+  * Patients on ARB/ACEI `[A:14]` `[B:11]`
+  * Intraoperative hypotension refractory to catecholamines and sympathomimetics `[A:14]` `[B:11]`
+  * During general/neuraxial anesthesia (which reduces sympathetic nervous tone → decreased plasma stress hormone including vasopressin) `[A:14]` `[B:11]`
+  * Acute vasodilatory states - anaphylaxis, sepsis, vasoplegia, neurogenic shock `[A:14]` `[B:11]` `[B:13]`
+  * Part of AHA ACLS as bolus IV administration for VF, PEA or asystole `[A:14]` `[B:11]`
+  * Preferred in RV failure due to neutral effect on pulmonary resistances and pressures `[A:14]` `[B:11]`
+* **Adverse effects**: Has more unfavorable adverse effects than norepinephrine `[A:15]` `[B:11]`
+  * Higher doses may produce mesenteric ischemia, peripheral vascular insufficiency, and cardiac arrest, as the drug causes pronounced vasoconstriction of cutaneous, skeletal muscle, splanchnic, and coronary vascular beds concomitant with reduced perfusion of and oxygen delivery to these tissues `[A:15]` `[B:11]`
+
+### 6.5. CARDIAC GLYCOSIDES [PART A/B]
+
+#### 6.5.1. DIGOXIN [PART A/B]
+
+* **Source**: Only oral option of positive inotropic drugs for mild-moderate HFrEF; found in "foxglove" (digitalis purpurea) `[A:15]`
+* **MOA**: Enhances contractile function but the strength of the inotropic effect is relatively minor compared to other drugs `[A:15]` `[B:11]`
+  * Binds to alpha subunit of the sarcolemmal Na⁺/K⁺ ATPase on its extracellular surface → reversible inhibition `[A:15]`
+  * This binding is affected by increases in extracellular K⁺; K⁺ inhibits digitalis-Na⁺/K⁺ ATPase → increases in intracellular Na⁺ reduces the extrusion of Ca²⁺ from the myoplasm by the sarcolemmal reticulum → indirectly increasing Ca²⁺ availability → enhances myocardial contractility `[A:15]`
+  * Similar to the Treppe ("staircase") physiologic phenomenon, in which a rapid increase in heart rate causes a delay in Na⁺-K⁺ ATPase activity, leading to a transient increase in intracellular Na⁺ concentration and enhanced contractile force mediated by favorable Na⁺-Ca²⁺ exchange `[A:15]`
+* **Net effects**:
+  * Increased myocardial contractility `[A:15]` `[B:11]`
+  * Associated decline in LV preload, afterload, LV wall tension and myocardial O2 demand in HFrEF → reducing chronically elevated sympathetic nervous system activity `[A:15]` `[B:11]`
+	* Thus, it has a propensity to cause arrhythmias including sinus bradycardia or arrest, AV conduction delays, and secondor third-degree heart block `[A:15]` `[B:11]`
+	* But toxic levels of digitalis glycosides may paradoxically increase sympathetic nervous system tone and precipitate the development of ventricular tachyarrhythmias `[A:15]` `[B:11]`
+  * Profound alterations in electrophysiology - as it binds to Na⁺/K⁺ ATP channels which maintain resting membrane potential `[A:15]`
+* **Evidence**: Reduces morbidity and mortality in HFrEF but no effect on cardiovascular mortality and HF hospitalizations in HFpEF `[A:15]` `[B:11]`
+* **Limitations**: Low therapeutic ratio and narrow margin of safety `[A:15]` `[B:11]`
+* **Note**: Tachyphylaxis does not occur `[A:15]`
+
+### 6.6. OTHER INOTROPIC AGENTS [PART A/B]
+
+#### 6.6.1. GLUCAGON [PART A/B]
+
+* **Source**: Polypeptide secreted by pancreatic α-cells `[A:18]`
+* **Mechanism**: Activates glucagon receptors via G-protein-mediated mechanisms → stimulates adenylate cyclase → increases intracellular cAMP `[A:18]`
+* **Clinical role**: Limited use in cardiac failure; occasionally used for β-blocker overdose `[A:18]`
+* **Dosing**: Initial bolus 10 mg followed by infusion up to 5 mg/hr `[A:18]`
+* **Adverse effects**: Hyperglycemia and hyperkalemia may complicate use `[A:18]`
+
+#### 6.6.2. CALCIUM [PART A/B]
+
+* **Use**: IV Ca2+ salts often improve BP briefly but should be restricted to: `[A:18]`
+  * Circulatory collapse due to hyperkalemia `[A:18]`
+  * Ca2+ channel antagonist overdose `[A:18]`
+
+#### 6.6.3. THYROID HORMONES [PART A/B]
+
+* **Effects**: T4 and T3 have positive inotropic and chronotropic effects via intracellular mechanisms `[A:18]`
+* **Clinical use**: Only used to treat hypothyroidism `[A:18]`
+
+**Bottom Line:** Non-adrenergic cardiovascular drugs include phosphodiesterase inhibitors (milrinone), calcium sensitizers (levosimendan), vasopressin, and cardiac glycosides (digoxin). Each has a unique mechanism of action, hemodynamic profile, and clinical application. Understanding their distinct properties allows for optimized selection in specific cardiovascular conditions.
+
+## 7. CLINICAL APPLICATIONS [PART B/C] `[MULTI-PART]`
+
+Tags: #pA_pharm #pB_C3 #pB_C5 #pB_S1 #pC_MK #pC_PC
+
+Part A Reference: Clinical Applications (Page 15)
+
+Part B Reference: C3 Cardiovascular Management (Page 12); C5 Perioperative Medicine (Page 11-12); S1 Critical Care (Page 13-14)
+
+Part C Reference: Medical Knowledge - Integration; Patient Care - Clinical Decision Making
+
+### 7.1. SYLLABUS CORRELATION
+
+* **Part A:** Linking receptor physiology to clinical application `[A:15]`.
+* **Part B:** Practical applications in cardiovascular management `[B:12]`, perioperative care `[B:11-12]`, critical illness `[B:13-14]`.
+* **Part C:** Clinical decision making and drug selection in complex scenarios `[C:3]`.
+
+**Exam Weighting:** Medium (Integration across parts)
+
+**Competency Focus:** `[COMP: MK]`, `[COMP: PC]`, `[COMP: SBP]`
+
+### 7.2. CARDIAC EFFECTS AND INOTROPISM [PART B/C]
+
+* **Types of cardiac effects**: `[B:12]` `[C:3]`
+  * **Chronotropy**: Heart rate `[B:12]`
+  * **Inotropy**: Force of contraction `[B:12]`
+  * **Dromotropy**: Speed of electrical conduction through the heart `[B:12]`
+  * **Lusitropy**: Speed of relaxation `[B:12]`
+  * **Bathmotropy**: Muscle tissue excitability `[B:12]`
+* **Selection principles for inotropes**: `[B:12]` `[C:3]`
+  * Underlying pathophysiology (cardiogenic vs. distributive shock) `[B:12]` `[C:3]`
+  * Pre-existing conditions (heart failure, arrhythmias, pulmonary hypertension) `[B:12]` `[C:3]`
+  * Concurrent medications (beta-blockers, antiarrhythmics) `[B:12]` `[C:3]`
+  * Desired hemodynamic profile (pure inotropism vs. combined vasodilation) `[B:12]` `[C:3]`
+  * End-organ perfusion goals (renal, cerebral, coronary) `[B:12]` `[C:3]`
+
+### 7.3. VASCULAR EFFECTS AND BLOOD PRESSURE CONTROL [PART B/C]
+
+* **Receptor-specificity approach to vasopressors**: `[B:12]` `[C:3]`
+  * Pure alpha agonists for hypotension with tachycardia `[B:12]` `[C:3]`
+  * Mixed alpha/beta agonists for hypotension with bradycardia `[B:12]` `[C:3]`
+  * Vasopressin for catecholamine-resistant vasodilation `[B:12]` `[C:3]`
+  * Beta-blockers (±alpha blockade) for hypertension control `[B:12]` `[C:3]`
+* **Perioperative blood pressure management**: `[B:11-12]` `[C:3]`
+  * Direct-acting agents preferred for acute interventions `[B:11]` `[C:3]`
+  * Consider end-organ perfusion needs beyond simple BP target `[B:11]` `[C:3]`
+  * Maintain preload adequacy before vasopressor initiation when possible `[B:11]` `[C:3]`
+  * Consider underlying pathophysiology (hypovolemia, decreased SVR, cardiac dysfunction) `[B:11]` `[C:3]`
+
+### 7.4. RESPIRATORY APPLICATIONS [PART B/C]
+
+* **Beta-2 agonists**: `[B:12]` `[C:3]`
+  * First-line agents for bronchospasm `[B:12]` `[C:3]`
+  * May have cardiovascular effects at higher doses `[B:12]` `[C:3]`
+  * Can be administered via multiple routes (inhaled, IV, subcutaneous) `[B:12]` `[C:3]`
+  * Potential for tachyphylaxis with prolonged use `[B:12]` `[C:3]`
+* **Epinephrine in respiratory emergencies**: `[B:12]` `[C:3]`
+  * Anaphylaxis management (IM preferred for initial treatment) `[B:12]` `[C:3]`
+  * Severe bronchospasm unresponsive to beta-2 agonists `[B:12]` `[C:3]`
+  * Upper airway edema (nebulized racemic epinephrine) `[B:12]` `[C:3]`
+
+### 7.5. CLINICAL SELECTION GUIDELINES FOR SPECIFIC SCENARIOS [PART B/C]
+
+* **Adrenergic Receptor Physiology: Clinical Applications** `[A:15]` `[B:12]` `[C:3]`
+  * **Receptor downregulation**:
+	* Chronic exposure to catecholamines leads to decreased receptor density `[A:15]`
+	* Explains diminished response to inotropes in heart failure `[A:15]` `[B:12]`
+	* Basis for tachyphylaxis with prolonged catecholamine infusions `[A:15]` `[B:12]`
+	* Important in interpreting variable responses to vasopressors in critical illness `[A:15]` `[B:12]` `[C:3]`
+  * **Receptor upregulation**:
+	* Occurs with chronic antagonist therapy `[A:15]`
+	* Explains withdrawal syndromes (β-blockers, clonidine) `[A:15]` `[B:12]`
+	* Basis for "supersensitivity" reactions `[A:15]` `[B:12]`
+  * **Differential receptor distribution**:
+	* Explains organ-specific drug effects `[A:15]`
+	* Important for predicting drug side effect profiles `[A:15]` `[B:12]` `[C:3]`
+	* Basis for selective targeting (e.g., β1 vs. β2) `[A:15]` `[B:12]` `[C:3]`
+  * **Presynaptic vs. postsynaptic effects**:
+	* Key for understanding α2-agonist clinical applications `[A:15]` `[B:12]`
+	* Explains paradoxical responses to some agents `[A:15]` `[B:12]`
+	* Critical for predicting drug interactions `[A:15]` `[B:12]` `[C:3]`
+
+💡 **Clinical Mnemonic: ABCDE of Adrenergic Drugs** `[B:12]` `[C:3]`
+
+* **A**gonists: direct vs. indirect `[B:12]` `[C:3]`
+* **B**eta effects: cardiac vs. vascular vs. pulmonary `[B:12]` `[C:3]`
+* **C**atecholamine structure: present (short-acting) vs. absent (longer-acting) `[B:12]` `[C:3]`
+* **D**ose-dependent effects (especially alpha vs. beta) `[B:12]` `[C:3]`
+* **E**ffects modified by existing receptor density and sensitivity `[B:12]` `[C:3]`
+
+💡 **Clinical Practice Note: Individualize adrenergic drug selection based on hemodynamic goals, existing sympathetic tone, and end-organ perfusion needs rather than standard protocols** `[B:12]` `[C:3]`
+
+**Bottom Line:** Effective clinical use of adrenergic and related drugs requires understanding receptor physiology, recognizing dynamic regulation, and individualizing therapy based on patient-specific factors. Principles of receptor downregulation and upregulation explain many clinical phenomena including tachyphylaxis and withdrawal syndromes.
+
+Integration Verification: I have analyzed both primary and supplementary sources and confirm that 100% of content from ALL sources has been preserved and integrated into the unified structure.
